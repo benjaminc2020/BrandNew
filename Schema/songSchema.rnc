@@ -1,7 +1,7 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
-start = element song
-song = element song{info, lyrics}
+start = song
+song = element song {info, lyrics}
 info = element info{title, tempo, key, songWriter, composer, producer, label, released, recorded, songLength}
 title = element title{text}
 tempo = element tempo{measurement, xsd:decimal}
@@ -20,7 +20,7 @@ lyrics = element lyrics{intro, prelude?, interlude, verse+, chorus+, bridge?, ou
 intro = element intro{line+}
 line = element line{ref*,text}
 ref = element ref{type*, text}
-type = attribute type{"rel","songWriter"}
+type = attribute type{"rel" | "songWriter"}
 prelude = element prelude{text}
 interlude = element interlude{text}
 verse = element verse{n}
