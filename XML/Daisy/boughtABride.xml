@@ -2,46 +2,56 @@
 <root>
     <title>Bought A Bride</title>
     <lyrics>
-        Trees will make a forest
-        Trees will make a bow
-        These are all the harder
-        Words you have to know
-        If everyone's a structure
-        Where their own savior sits
-        Then I'm a little red house
-        And no one's living in it
-        
-        Cars are little blood cells
-        We are oxygen
-        City is the airways
-        Suburbs appendages
-        She was feeling lonely
-        So you let her hide
-        Rented out a family
-        We bought a bride
-        Bought a bride
-        Bought a bride
-        Bought a bride
-        
-        Little cities names labeled along the map
-        They tied her up and laid her on the train tracks
-        
-        Where are all the seedlings
-        We grew from violence
-        Down in Jersey lumber
-        Stealing prosthetic limbs
-        Should have been a soldier
-        I could have fought and died
-        There's no revolution
-        So I bought a bride
-        Bought a bride
-        Bought a bride
-        Bought a bride
-        
-        Coming down the alley while the horns play "Taps"
-        They tied her up and laid her on the train tracks
-        
-        Somehow I always knew when everything was unsaid
-        Go and buy a hammer never sing again
+        <verse n="1">
+            <line>Trees will make a forest</line>
+            <line>Trees will make a bow</line>
+            <line>These are all the harder</line>
+            <line>Words you have to know</line>
+            <line>If everyone's a structure</line>
+            <line>Where their own savior sits</line>
+            <line>Then I'm a little red house</line>
+            <line>And no one's living in it</line>
+        </verse>
+
+        <chorus>
+            <line>Cars are little blood cells</line>
+            <line>We are oxygen</line>
+            <line>City is the airways</line>
+            <line>Suburbs appendages</line>
+            <line>She was feeling lonely</line>
+            <line>So you let her hide</line>
+            <line>Rented out a family</line>
+            <line>We bought a bride</line>
+            <line>Bought a bride</line>
+            <line>Bought a bride</line>
+            <line>Bought a bride</line>
+        </chorus>
+
+        <verse n="2">
+            <line>Little cities names labeled along the map</line>
+            <line>They tied her up and laid her on the train tracks</line>
+        </verse>
+
+        <chorus>
+            <line>Where are all the seedlings</line>
+            <line>We grew from violence</line>
+            <line>Down in Jersey lumber</line>
+            <line>Stealing prosthetic limbs</line>
+            <line>Should have been a soldier</line>
+            <line>I could have fought and died</line>
+            <line>There's no revolution</line>
+            <line>So I bought a bride</line>
+            <line>Bought a bride</line>
+            <line>Bought a bride</line>
+            <line>Bought a bride</line>
+        </chorus>
+
+        <verse n="3">
+            <line>Coming down the alley while the horns play "Taps"</line>
+            <line>They tied her up and laid her on the train tracks</line>
+
+            <line>Somehow I always knew when everything was unsaid</line>
+            <line>Go and buy a hammer never sing again</line>
+        </verse>
     </lyrics>
 </root>
