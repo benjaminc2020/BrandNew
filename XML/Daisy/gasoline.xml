@@ -2,39 +2,49 @@
 <root>
     <title>Gasoline</title>
     <lyrics>
-        So you tried to put a fire out
-        But you used gasoline
-        And when the congregation gathered round
-        You're screaming "it wasn't me"
-        So there's a sickness that is going round
-        But no one's got a vaccine
-        I think it drowned in holy water
-        I think it's time we all come clean
+        <verse n="1">
+            <line>So you tried to put a fire out</line>
+            <line>But you used gasoline</line>
+            <line>And when the congregation gathered round</line>
+            <line>You're screaming "it wasn't me"</line>
+            <line>So there's a sickness that is going round</line>
+            <line>But no one's got a vaccine</line>
+            <line>I think it drowned in holy water</line>
+            <line>I think it's time we all come clean</line>
+        </verse>
+
+        <chorus>
+            <line>I swear it's like dying</line>
+            <line>To catch a ghost</line>
+            <line>It feels like I'm trying</line>
+            <line>To hold smoke</line>
+            <line>I swear it's like dying</line>
+            <line>To catch a ghost</line>
+            <line>It feels like I'm trying</line>
+            <line>To hold smoke</line>
+        </chorus>
+
+        <verse n="2">
+            <line>When the army had to hold the line</line>
+            <line>Well you were nowhere near the front</line>
+            <line>Before the kids could tell the dog "goodbye",</line>
+            <line>Well you were loading up your gun</line>
+            <line>I wanna know I've left the great divide</line>
+            <line>I wanna know what I've become</line>
+            <line>You think that no one else is lonesome</line>
+            <line>You think that you're the only one</line>
+        </verse>
+
+        <bridge>
+            <line>It feels like I'm jumping towards a train</line>
+            <line>It feels like I'm jumping towards a train</line>
+            <line>Well I'm trying to find a way</line>
+
+            <line>It feels like I'm jumping towards a train</line>
+            <line>It feels like I'm jumping towards a train</line>
+            <line>Well I'm trying to find a way</line>
+        </bridge>
         
-        I swear it's like dying
-        To catch a ghost
-        It feels like I'm trying
-        To hold smoke
-        I swear it's like dying
-        To catch a ghost
-        It feels like I'm trying
-        To hold smoke
-        
-        When the army had to hold the line
-        Well you were nowhere near the front
-        Before the kids could tell the dog "goodbye",
-        Well you were loading up your gun
-        I wanna know I've left the great divide
-        I wanna know what I've become
-        You think that no one else is lonesome
-        You think that you're the only one
-        
-        It feels like I'm jumping towards a train
-        It feels like I'm jumping towards a train
-        Well I'm trying to find a way
-        
-        It feels like I'm jumping towards a train
-        It feels like I'm jumping towards a train
-        Well I'm trying to find a way
+        <outro><!--bb: there's some dankass guitar effects here --></outro>
     </lyrics>
 </root>

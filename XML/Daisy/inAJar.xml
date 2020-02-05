@@ -2,56 +2,72 @@
 <root>
     <title>In A Jar</title>
     <lyrics>
-        Stones in your eyes,
-        Stones in your eyes,
-        Stones in your eyes,
-        Stones in your mouth,
-        Stones in your ears,
-        Stones in your mind,
-        Stones in your eyes,
-        Stones in your eyes,
-        
-        Living in a jar, think the lids the sky,
-        You're hoping for a savior on your cross outside.
-        Stars are just a million little fireflies,
-        The sun is just a hole; it's the light outside
-        
-        The chariots shall rage in the streets
-        
-        No one save me tonight
-        Take a try, but leave a light
-        Somewhere safe but I know
-        Where your going
-        Is it safe tonight?
-        
-        Holding out for rest but on the seventh day,
-        I've created nothing and I'm wide awake,
-        So can I tie my key to your electric kite?
-        The rooster crowed twice and you kissed me goodnight.
-        
-        There's too many saviors on my cross again,
-        I know I'm never going to be a perfect man.
-        Everyone's an oyster with their grain of sand,
-        I love you most in song now it has to end.
-        
-        No one save me tonight
-        Take a try, but leave a light
-        Somewhere safe but I know
-        Where your going
-        Is it safe tonight?
-        
-        Stones in your eyes,
-        Stones in your eyes,
-        Stones in your eyes,
-        Stones in your eyes,
-        Stones in your eyes,
-        Stones in your eyes,
-        I'll run a million miles if you win first prize.
-        
-        No one save me tonight
-        Take a try, but leave a light
-        Somewhere safe but I know
-        Where your going
-        Is it safe tonight?
+        <intro>
+            <line>Stones in your eyes,</line>
+            <line>Stones in your eyes,</line>
+            <line>Stones in your eyes,</line>
+            <line>Stones in your mouth,</line>
+            <line>Stones in your ears,</line>
+            <line>Stones in your mind,</line>
+            <line>Stones in your eyes,</line>
+            <line>Stones in your eyes,</line>
+        </intro>
+
+        <verse n="1">
+            <line>Living in a jar, think the lids the sky,</line>
+            <line>You're hoping for a savior on your cross outside.</line>
+            <line>Stars are just a million little fireflies,</line>
+            <line>The sun is just a hole; it's the light outside</line>
+        </verse>
+
+        <pre-chorus>
+            <line>The chariots shall rage in the streets</line>
+        </pre-chorus>
+
+        <chorus>
+            <line>No one save me tonight</line>
+            <line>Take a try, but leave a light</line>
+            <line>Somewhere safe but I know</line>
+            <line>Where your going</line>
+            <line>Is it safe tonight?</line>
+        </chorus>
+
+        <verse n="2">
+            <line>Holding out for rest but on the seventh day,</line>
+            <line>I've created nothing and I'm wide awake,</line>
+            <line>So can I tie my key to your electric kite?</line>
+            <line>The rooster crowed twice and you kissed me goodnight.</line>
+
+            <line>There's too many saviors on my cross again,</line>
+            <line>I know I'm never going to be a perfect man.</line>
+            <line>Everyone's an oyster with their grain of sand,</line>
+            <line>I love you most in song now it has to end.</line>
+        </verse>
+
+        <chorus>
+            <line>No one save me tonight</line>
+            <line>Take a try, but leave a light</line>
+            <line>Somewhere safe but I know</line>
+            <line>Where your going</line>
+            <line>Is it safe tonight?</line>
+        </chorus>
+
+        <bridge>
+            <line>Stones in your eyes,</line>
+            <line>Stones in your eyes,</line>
+            <line>Stones in your eyes,</line>
+            <line>Stones in your eyes,</line>
+            <line>Stones in your eyes,</line>
+            <line>Stones in your eyes,</line>
+            <line>I'll run a million miles if you win first prize.</line>
+        </bridge>
+
+        <chorus>
+            <line>No one save me tonight</line>
+            <line>Take a try, but leave a light</line>
+            <line>Somewhere safe but I know</line>
+            <line>Where your going</line>
+            <line>Is it safe tonight?</line>
+        </chorus>
     </lyrics>
 </root>

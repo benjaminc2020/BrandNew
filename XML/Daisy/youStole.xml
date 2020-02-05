@@ -2,44 +2,59 @@
 <root>
     <title>You Stole</title>
     <lyrics>
-        Last night they said the fire had spread
-        And we said our prayers
-        And now the flames are burning me in my bed,
-        But I just don't care
-        We all go to sleep in the same place
-        And in the morning hope that we're all the same
-        Just sit around like broke down cars in the lot Waiting for repairs
-        
-        There you go
-        There it goes...
-        
-        Well I wish that I was as good as you
-        Caring and trusting
-        And I wish that my condition was new but I'm old and rusting
-        So we just hurry up only to wait
-        Add to the list of all the places we hate
-        And I pretend like I got something to say
-        But I've got nothing
-        
-        Now I know that you stole
-        Yeah you stole
-        From the cradles they were rocked in
-        You took the first words that they spoke
-        Yeah you stole
-        Yeah you stole
-        So if I'm a liar and you're a thief
-        At least we both know where the other one sleeps
-        So let's end this tonight
-        
-        Now I know that you stole
-        Yeah, you stole
-        From the cradles they were rocked in
-        You took the first words that they spoke
-        Yeah you stole
-        Yeah you stole
-        
-        So if I'm a liar and you're a thief
-        At least we both know where the other one sleeps
-        So let's end this tonight
+        <verse n="1">
+            <line>Last night they said the fire had spread</line>
+            <line>And we said our prayers</line>
+            <line>And now the flames are burning me in my bed,</line>
+            <line>But I just don't care</line>
+            <line>We all go to sleep in the same place</line>
+            <line>And in the morning hope that we're all the same</line>
+            <line>Just sit around like broke down cars in the lot Waiting for repairs</line>
+        </verse>
+
+        <interlude>
+            <line>There you go</line>
+            <line>There it goes...</line>
+        </interlude>
+
+        <!--bb: instrumental here-->
+
+        <verse n="2">
+            <line>Well I wish that I was as good as you</line>
+            <line>Caring and trusting</line>
+            <line>And I wish that my condition was new but I'm old and rusting</line>
+            <line>So we just hurry up only to wait</line>
+            <line>Add to the list of all the places we hate</line>
+            <line>And I pretend like I got something to say</line>
+            <line>But I've got nothing</line>
+        </verse>
+
+        <chorus>
+            <line>Now I know that you stole</line>
+            <line>Yeah you stole</line>
+            <line>From the cradles they were rocked in</line>
+            <line>You took the first words that they spoke</line>
+            <line>Yeah you stole</line>
+            <line>Yeah you stole</line>
+            <line>So if I'm a liar and you're a thief</line>
+            <line>At least we both know where the other one sleeps</line>
+            <line>So let's end this tonight</line>
+        </chorus>
+
+        <!--bb: instrumental here-->
+
+        <chorus>
+            <line>Now I know that you stole</line>
+            <line>Yeah, you stole</line>
+            <line>From the cradles they were rocked in</line>
+            <line>You took the first words that they spoke</line>
+            <line>Yeah you stole</line>
+            <line>Yeah you stole</line>
+            <line>So if I'm a liar and you're a thief</line>
+            <line>At least we both know where the other one sleeps</line>
+            <line>So let's end this tonight</line>
+        </chorus>
+
+        <!--bb: instrumental here-->
     </lyrics>
 </root>
