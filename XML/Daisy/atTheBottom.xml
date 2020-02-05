@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>At The Bottom</title>
-    <info>
-        <tempo>
-            78.6 bpm
-        </tempo>
-        <key>
-            D
-        </key>
-    </info>
+<?xml-model href="../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    
+   <info>
+        <title>At The Bottom</title>
+        <tempo measurement="BPM">78.6</tempo>
+        <key>D</key>
+        <songWriter>Jesse Lacey</songWriter>
+        <songWriter>Vincent Accardi</songWriter>
+        <composer>Jesse Lacey</composer>
+        <composer>Vincent Accardi</composer>
+        <producer>Mike Sapone</producer>
+        <label>Interscope Records</label>
+        <released>2009-09-22</released>
+        <recorded from="2008" to="2009">2008-2009</recorded>
+        <songLength>4:04</songLength>
+   </info>
 
     <lyrics>
         <intro>
@@ -21,7 +28,7 @@
 
         <verse n="1">
             <line> And there's a lake</line>
-            <line> And <title>at the bottom</title> you'll find all my friends</line>
+            <line> And <ref type="songTitle">at the bottom</ref> you'll find all my friends</line>
             <line> They don't swim cause they're all dead</line>
             <line> We never are what we intend, or invent</line>
 
@@ -88,4 +95,4 @@
         </chorus>
 
     </lyrics>
-</root>
+</song>
