@@ -14,29 +14,29 @@
         <label>Interscope Records</label>
         <released>2009-09-22</released>
         <recorded from="2008" to="2009">2)08-2009</recorded>
-        <songLength>04:04:00</songLength>
+        <songLength>00:04:04</songLength>
    </info>
 
     <lyrics>
         <intro>
             <line> Wait</line>
-            <line> I watched you throw out your bouquet</line>
+            <line> I watched you throw out your <ref img="flowers">bouquet</ref></line>
             <line> Now i think about you everyday</line>
             <line> I'm alone now in my bed</line>
         </intro>
 
 
         <verse n="1">
-            <line> And there's a lake</line>
+            <line> And there's a <ref img="water">lake</ref></line>
             <line> And <ref type="songTitle">at the bottom</ref> you'll find all my friends</line>
-            <line> They don't swim cause they're all dead</line>
+            <line> They don't <ref img="water">swim</ref> cause they're all dead</line>
             <line> We never are what we intend, or invent</line>
 
 
             <line> 'Cause I make little lies and then I pull them apart</line>
             <line> Think something dark's living down in my heart</line>
             <line> And if I wanted to die before I got old</line>
-            <line> I should've started some years ago digging that hole</line>
+            <line> I should've started some years ago <ref img="earth">digging</ref> that hole</line>
         </verse>
 
 
@@ -50,8 +50,8 @@
         </chorus>
 
         <verse n="2">
-            <line> A deer that a hunter shot in the heart</line>
-            <line> Some dogs that got hit by cars</line>
+            <line> A <ref img="animal">deer</ref> that a hunter shot in the heart</line>
+            <line> Some <ref img="animal">dogs</ref> that got hit by cars</line>
             <line> All came to spill their guts</line>
 
 
@@ -61,7 +61,7 @@
             <line> And then we all turned to <ref type="rel">dirt and dust</ref></line>
 
 
-            <line> Some men die under the mountain just looking for gold</line>
+            <line> Some men die under the <ref img="earth">mountain</ref> just looking for gold</line>
             <line> Some die looking for a hand to hold</line>
         </verse>
 
@@ -77,8 +77,8 @@
 
 
         <verse n="3">
-            <line> I stole bricks from the dam almost every day</line>
-            <line> Now I'm drowning in the flood I've made</line>
+            <line> I stole bricks from the <ref img="water">dam</ref> almost every day</line>
+            <line> Now I'm <ref img="water">drowning</ref> in the <ref img="water">flood</ref> I've made</line>
             <line> Who'll explain myself to me on the other side</line>
             <line> I'm gonna want some answers when I die.</line>
         </verse>
