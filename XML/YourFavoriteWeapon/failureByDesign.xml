@@ -12,85 +12,92 @@
         <released>2001-10-09</released>
         <recorded from="2008" to="2008">2001</recorded>
         <songLength>00:03:16</songLength>
-        
+
     </info>
 
     <lyrics>
-       <intro> <verse n="1"><line>Watch you on the ones and twos</line>
-        <line>Through a window in a well lit room</line>
-        <line>Become a recluse</line>
-        <line>And I blame myself because I make things hard</line>
-        <line>And you're just trying to help</line>
-        <line>And when I wake up you're the first to call</line>
-        <line>This is one more late night basement song</line>
-        <line>And I'm so sore</line>
-        <line>My voice has gone to hell</line><!-- could hell be a rel ref? -->
-        <line>And this is one more sleepless night because</line></verse></intro>
+        <intro>
+            <verse n="1">
+                <line>Watch you on the ones and twos</line>
+                <line>Through a window in a well lit room</line>
+                <line>Become a recluse</line>
+                <line>And I blame myself because I make things hard</line>
+                <line>And you're just trying to help</line>
+                <line>And when I wake up you're the first to call</line>
+                <line>This is one more late night basement song</line>
+                <line>And I'm so sore</line>
+                <line>My voice has gone to hell</line>
+                <!-- could hell be a rel ref? -->
+                <line>And this is one more sleepless night because</line>
+            </verse></intro>
+        <chorus>
+            <line>We don't believe in filler, baby</line>
+            <line>If I could I'd sit this out</line>
 
-        <chorus><line>We don't believe in filler, baby</line>
-        <line>If I could I'd sit this out</line>
+            <line>(This is over when I say it's over)</line>
+            <line>This is a lesson in procrastination</line>
+            <line>I kill myself because I'm so frustrated</line>
+            <line>And every single <ref img="time">second</ref> that I put it off</line>
+            <line>Means another lonely night I gotta race the <ref img="time">clock</ref></line>
+            <line>(I ignore it and it ignores me too)</line>
+            <line>Let's say we go and <ref img="car">crash your car</ref></line>
+            <line>And every time I leave you go and lock the door</line>
+            <line>So I walk myself picking at a <ref type="idiom">chip on my shoulder</ref></line>
+            <line>I'm another day late and one year older</line>
+            <line>It's <ref type="songTitle">failure by design</ref></line>
+        </chorus>
+        <verse n="2">
+            <line>And we just want sleep</line>
+            <line>But this night is hell</line>
+            <line>I'm sick and sunk and I blame myself</line>
+            <line>Because I make things hard and you're just trying to help</line>
+            <line>I got <ref img="car">no gas</ref> (no gas)</line>
+            <line>I'm winding out my <ref img="car">gears</ref></line>
+            <line>This is one more day on the verge of tears</line>
+            <line>And now my head hurts (head hurts)</line>
+            <line>And my health is a joke</line>
+            <line>Now I gotta stop because the headphones broke</line>
+        </verse>
+        <chorus>
+            <line>We don't believe in filler, baby</line>
+            <line>If I could I'd sit this out</line>
 
-        <line>(This is over when I say it's over)</line>
-        <line>This is a lesson in procrastination</line>
-        <line>I kill myself because I'm so frustrated</line>
-        <line>And every single <ref img="time">second</ref> that I put it off</line>
-        <line>Means another lonely night I gotta race the <ref img="time">clock</ref></line>
-        <line>(I ignore it and it ignores me too)</line>
-        <line>Let's say we go and <ref img="car">crash your car</ref></line>
-        <line>And every time I leave you go and lock the door</line>
-        <line>So I walk myself picking at a <ref type="idiom">chip on my shoulder</ref></line>
-        <line>I'm another day late and one year older</line>
-            <line>It's <ref type="songTitle">failure by design</ref></line></chorus>
-
-        <verse n="1"><line>And we just want sleep</line>
-        <line>But this night is hell</line>
-        <line>I'm sick and sunk and I blame myself</line>
-        <line>Because I make things hard and you're just trying to help</line>
-        <line>I got <ref img="car">no gas</ref> (no gas)</line>
-        <line>I'm winding out my <ref img="car">gears</ref></line>
-        <line>This is one more day on the verge of tears</line>
-        <line>And now my head hurts (head hurts)</line>
-        <line>And my health is a joke</line>
-        <line>Now I gotta stop because the headphones broke</line></verse>
-
-        <chorus><line>We don't believe in filler, baby</line>
-        <line>If I could I'd sit this out</line>
-
-        <line>(This is over when I say it's over)</line>
-        <line>This is a lesson in procrastination</line>
-        <line>I kill myself because I'm so frustrated</line>
-        <line>And every single second that I put it off</line>
-        <line>Means another lonely night I gotta race the clock</line>
-        <line>(I ignore it and it ignores me too)</line>
-        <line>Let's say we go and crash your car</line>
-        <line>And every time I leave you go and lock the door</line>
-        <line>And I walk myself picking at a chip on my shoulder</line>
-        <line>I'm another day late and one year older</line>
-            <line>It's failure by design</line></chorus>
-
+            <line>(This is over when I say it's over)</line>
+            <line>This is a lesson in procrastination</line>
+            <line>I kill myself because I'm so frustrated</line>
+            <line>And every single second that I put it off</line>
+            <line>Means another lonely night I gotta race the clock</line>
+            <line>(I ignore it and it ignores me too)</line>
+            <line>Let's say we go and crash your car</line>
+            <line>And every time I leave you go and lock the door</line>
+            <line>And I walk myself picking at a chip on my shoulder</line>
+            <line>I'm another day late and one year older</line>
+            <line>It's <ref type="songTitle">failure by design</ref></line>
+        </chorus>
         <bridge><line>I'm out of everything</line>
-        <line>No one sleeps till we get this shit out on the shelves</line>
-        <line>It's late, I'm faltering</line>
-        <line>But this time I got nothing to say besides</line>
-        <line>Doo doo doo, doo doo doo</line>
-        <line>Doo doo doo, doo doo doo (Baby, I'm better than this)</line>
-        <line>Doo doo doo, doo doo doo</line>
-        <line>Doo doo doo, doo doo doo (Baby, I'm better than this)</line>
-        <line>Doo doo doo, doo doo doo</line>
-        <line>Doo doo doo, doo doo doo (Baby, I'm better than this)</line>
-        <line>Doo doo doo, doo doo doo</line>
-        <line>Nothing to say besides</line></bridge>
-
-        <outro><line>(This is over when I say it's over)</line>
-        <line>This is a lesson in procrastination</line>
-        <line>I kill myself because I'm so frustrated</line>
-        <line>And every single second that I put it off</line>
-        <line>Means another lonely night I gotta race the clock</line>
-        <line>(I ignore it and it ignores me too)</line>
-        <line>What say we go and crash your car?</line>
-        <line>And every time I leave you go and lock the door</line>
-        <line>So I walk myself picking at a chip on my shoulder</line>
-        <line>I'm another day late and one year older</line>
-        <line>I'm a failure by design</line></outro>
+            <line>No one sleeps till we get this shit out on the shelves</line>
+            <line>It's late, I'm faltering</line>
+            <line>But this time I got nothing to say besides</line>
+            <line>Doo doo doo, doo doo doo</line>
+            <line>Doo doo doo, doo doo doo (Baby, I'm better than this)</line>
+            <line>Doo doo doo, doo doo doo</line>
+            <line>Doo doo doo, doo doo doo (Baby, I'm better than this)</line>
+            <line>Doo doo doo, doo doo doo</line>
+            <line>Doo doo doo, doo doo doo (Baby, I'm better than this)</line>
+            <line>Doo doo doo, doo doo doo</line>
+            <line>Nothing to say besides</line></bridge>
+        <outro><chorus>
+                <line>(This is over when I say it's over)</line>
+                <line>This is a lesson in procrastination</line>
+                <line>I kill myself because I'm so frustrated</line>
+                <line>And every single second that I put it off</line>
+                <line>Means another lonely night I gotta race the clock</line>
+                <line>(I ignore it and it ignores me too)</line>
+                <line>What say we go and crash your car?</line>
+                <line>And every time I leave you go and lock the door</line>
+                <line>So I walk myself picking at a chip on my shoulder</line>
+                <line>I'm another day late and one year older</line>
+                <line>I'm a <ref type="songTitle">failure by design</ref></line>
+            </chorus></outro>
     </lyrics>
 </song>

@@ -28,4 +28,4 @@ verse = element verse{n, line+}
 n = attribute n{xsd:int}
 chorus = element chorus{line+}
 bridge = element bridge{line+, text}
-outro = element outro{line+, text}
+outro = element outro{mixed{line+ | chorus | verse}*}
