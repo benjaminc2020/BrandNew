@@ -1,82 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>Failure By Design</title>
+<?xml-model href="../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <info>
+        <title>Failure By Design</title>
+        <tempo meas="BPM">89</tempo>
+        <key>E Major</key>
+        <songWriter>Jesse Lacey</songWriter>
+        <composer>Jesse Lacey</composer>
+        <producer>Mike Sapone</producer>
+        <label>Triple Crown</label>
+        <released>2001-10-09</released>
+        <recorded from="2008" to="2008">2001</recorded>
+        <songLength>00:03:16</songLength>
+        
+    </info>
+
     <lyrics>
-        Watch you on the ones and twos
-        Through a window in a well lit room
-        Become a recluse
-        And I blame myself because I make things hard
-        And you're just trying to help
-        And when I wake up you're the first to call
-        This is one more late night basement song
-        And I'm so sore
-        My voice has gone to hell
-        And this is one more sleepless night because
-        
-        We don't believe in filler, baby
-        If I could I'd sit this out
-        
-        (This is over when I say it's over)
-        This is a lesson in procrastination
-        I kill myself because I'm so frustrated
-        And every single second that I put it off
-        Means another lonely night I gotta race the clock
-        (I ignore it and it ignores me too)
-        Let's say we go and crash your car
-        And every time I leave you go and lock the door
-        So I walk myself picking at a chip on my shoulder
-        I'm another day late and one year older
-        It's failure by design
-        
-        And we just want sleep
-        But this night is hell
-        I'm sick and sunk and I blame myself
-        Because I make things hard and you're just trying to help
-        I got no gas (no gas)
-        I'm winding out my gears
-        This is one more day on the verge of tears
-        And now my head hurts (head hurts)
-        And my health is a joke
-        Now I gotta stop because the headphones broke
-        
-        We don't believe in filler, baby
-        If I could I'd sit this out
-        
-        (This is over when I say it's over)
-        This is a lesson in procrastination
-        I kill myself because I'm so frustrated
-        And every single second that I put it off
-        Means another lonely night I gotta race the clock
-        (I ignore it and it ignores me too)
-        Let's say we go and crash your car
-        And every time I leave you go and lock the door
-        And I walk myself picking at a chip on my shoulder
-        I'm another day late and one year older
-        It's failure by design
-        
-        I'm out of everything
-        No one sleeps till we get this shit out on the shelves
-        It's late, I'm faltering
-        But this time I got nothing to say besides
-        Doo doo doo, doo doo doo
-        Doo doo doo, doo doo doo (Baby, I'm better than this)
-        Doo doo doo, doo doo doo
-        Doo doo doo, doo doo doo (Baby, I'm better than this)
-        Doo doo doo, doo doo doo
-        Doo doo doo, doo doo doo (Baby, I'm better than this)
-        Doo doo doo, doo doo doo
-        Nothing to say besides
-        
-        (This is over when I say it's over)
-        This is a lesson in procrastination
-        I kill myself because I'm so frustrated
-        And every single second that I put it off
-        Means another lonely night I gotta race the clock
-        (I ignore it and it ignores me too)
-        What say we go and crash your car?
-        And every time I leave you go and lock the door
-        So I walk myself picking at a chip on my shoulder
-        I'm another day late and one year older
-        I'm a failure by design
+       <intro> <line>Watch you on the ones and twos</line>
+        <line>Through a window in a well lit room</line>
+        <line>Become a recluse</line>
+        <line>And I blame myself because I make things hard</line>
+        <line>And you're just trying to help</line>
+        <line>And when I wake up you're the first to call</line>
+        <line>This is one more late night basement song</line>
+        <line>And I'm so sore</line>
+        <line>My voice has gone to hell</line>
+        <line>And this is one more sleepless night because</line></intro>
+
+        <chorus><line>We don't believe in filler, baby</line>
+        <line>If I could I'd sit this out</line></chorus>
+
+        <verse n="1"><line>(This is over when I say it's over)</line>
+        <line>This is a lesson in procrastination</line>
+        <line>I kill myself because I'm so frustrated</line>
+        <line>And every single second that I put it off</line>
+        <line>Means another lonely night I gotta race the clock</line>
+        <line>(I ignore it and it ignores me too)</line>
+        <line>Let's say we go and crash your car</line>
+        <line>And every time I leave you go and lock the door</line>
+        <line>So I walk myself picking at a chip on my shoulder</line>
+        <line>I'm another day late and one year older</line>
+        <line>It's failure by design</line></verse>
+
+        <verse n="2"><line>And we just want sleep</line>
+        <line>But this night is hell</line>
+        <line>I'm sick and sunk and I blame myself</line>
+        <line>Because I make things hard and you're just trying to help</line>
+        <line>I got no gas (no gas)</line>
+        <line>I'm winding out my gears</line>
+        <line>This is one more day on the verge of tears</line>
+        <line>And now my head hurts (head hurts)</line>
+        <line>And my health is a joke</line>
+        <line>Now I gotta stop because the headphones broke</line></verse>
+
+        <chorus><line>We don't believe in filler, baby</line>
+        <line>If I could I'd sit this out</line></chorus>
+
+        <verse n="3"><line>(This is over when I say it's over)</line>
+        <line>This is a lesson in procrastination</line>
+        <line>I kill myself because I'm so frustrated</line>
+        <line>And every single second that I put it off</line>
+        <line>Means another lonely night I gotta race the clock</line>
+        <line>(I ignore it and it ignores me too)</line>
+        <line>Let's say we go and crash your car</line>
+        <line>And every time I leave you go and lock the door</line>
+        <line>And I walk myself picking at a chip on my shoulder</line>
+        <line>I'm another day late and one year older</line>
+        <line>It's failure by design</line></verse>
+
+        <bridge><line>I'm out of everything</line>
+        <line>No one sleeps till we get this shit out on the shelves</line>
+        <line>It's late, I'm faltering</line>
+        <line>But this time I got nothing to say besides</line>
+        <line>Doo doo doo, doo doo doo</line>
+        <line>Doo doo doo, doo doo doo (Baby, I'm better than this)</line>
+        <line>Doo doo doo, doo doo doo</line>
+        <line>Doo doo doo, doo doo doo (Baby, I'm better than this)</line>
+        <line>Doo doo doo, doo doo doo</line>
+        <line>Doo doo doo, doo doo doo (Baby, I'm better than this)</line>
+        <line>Doo doo doo, doo doo doo</line>
+        <line>Nothing to say besides</line></bridge>
+
+        <outro><line>(This is over when I say it's over)</line>
+        <line>This is a lesson in procrastination</line>
+        <line>I kill myself because I'm so frustrated</line>
+        <line>And every single second that I put it off</line>
+        <line>Means another lonely night I gotta race the clock</line>
+        <line>(I ignore it and it ignores me too)</line>
+        <line>What say we go and crash your car?</line>
+        <line>And every time I leave you go and lock the door</line>
+        <line>So I walk myself picking at a chip on my shoulder</line>
+        <line>I'm another day late and one year older</line>
+        <line>I'm a failure by design</line></outro>
     </lyrics>
-</root>
+</song>

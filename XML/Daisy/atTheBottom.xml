@@ -4,7 +4,7 @@
     
    <info>
         <title>At The Bottom</title>
-        <tempo measurement="BPM">78.6</tempo>
+        <tempo meas="BPM">78.6</tempo>
         <key>D</key>
         <songWriter>Jesse Lacey</songWriter>
         <songWriter>Vincent Accardi</songWriter>
@@ -13,7 +13,7 @@
         <producer>Mike Sapone</producer>
         <label>Interscope Records</label>
         <released>2009-09-22</released>
-        <recorded from="2008" to="2009">2)08-2009</recorded>
+        <recorded from="2008" to="2009">2008-2009</recorded>
         <songLength>00:04:04</songLength>
    </info>
 
