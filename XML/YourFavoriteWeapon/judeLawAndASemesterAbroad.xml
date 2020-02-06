@@ -22,8 +22,8 @@
                 lips.</line></intro>
         <verse n="1">
             <line>But I got a plan (I got a plan)</line>
-            <line>Drink (drift) for forty days and forty nights.</line>
-            <line>A sip for every second-hand tick.</line>
+            <line>Drink (drift) for <ref type="rel">forty days and forty nights</ref>.</line>
+            <line>A sip for every <ref img="time">second-hand tick</ref>.</line>
             <line>And for every time you fed me the line, "you mean so much to me...".</line>
             <line>I'm without you.</line>
         </verse>
@@ -42,14 +42,14 @@
             <line>(And even if her plane)</line>
             <line>And even if her plane crashes tonight she'll find some way to disappoint
                 me,</line>
-            <line>by not burning in the wreckage, or drowning at the bottom of the sea.</line>
-            <line>"Jess, I still taste you, thus reserve my right to hate you."</line>
+            <line>by not <ref img="fire">burning</ref> in the wreckage, or <ref img="water">drowning at the bottom of the sea</ref>.</line>
+            <line>"<ref type="bandMember">Jess</ref>, I still taste you, thus reserve my right to hate you."</line>
             <line>And all this empty space that you create does nothing for my flawless sense of
                 style.</line>
         </verse>
         <verse n="3">
-            <line>It's 8:45 (it's 8:45). The weather is getting better by the hour.</line>
-            <line>(Rains all the time) I hope it rains there all the time.</line>
+            <line>It's <ref img="time">8:45</ref> (it's 8:45). The weather is getting better by the <ref img="time">hour</ref>.</line>
+            <line>(<ref img="water">Rains</ref> all the time) I hope it <ref img="water">rains</ref> there <ref img="time">all the time</ref>.</line>
             <line>And if you ever said you miss me then don't say you never lied.</line>
             <line>I'm without you.</line>
         </verse>
