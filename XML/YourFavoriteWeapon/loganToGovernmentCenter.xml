@@ -1,47 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>Logan To Government Center</title>
+<song>
+    <info><title>Logan To Government Center</title><album>Your Favorite Weapon</album><tempo meas="BPM">175</tempo><key>A Major</key><songWriter>Jesse Lacey</songWriter><composer>Jesse Lacey</composer><producer>Mike Sapone</producer><label>Triple Crown</label><released>2001-10-09</released><recorded from="2001" to="2001"></recorded><songLength>00:03:06</songLength></info>
+    
     <lyrics>
-        Consider this a letter that I never sent
+        <intro><verse n="1">Consider this a letter that I never sent
         However inconsiderate it seems
         Do you still consider me,
         consider me the boy you laughed with
         or that you learned to live without?... I suck,
         I know I'm late,
-        I know you waited
+        I know you waited</verse></intro>
         
-        You wouldn't get me on the phone
-        And you couldn't make me not alone
+        <chorus>You wouldn't get me on the phone
+        And you couldn't make me not alone</chorus>
         
-        My phone bills stacked up by my bedside,
+        <verse>My phone bills stacked up by my bedside,
         with your picture, you're looking surprised
         You're what makes New England so great
         My island nights are all spent dying
         Wait for summer to become wrought with lips,
-        my wishful thinking
-        
+        my wishful thinking</verse>
+        <chorus>
         You wouldn't get me on the phone
         And you couldn't make me not alone
-        (Yeah you wouldn't get me)
+        (Yeah you wouldn't get me)</chorus>
         Yeah you're a blue eyed lightning bolt
         (You wouldn't get me)
         I'm a national phenomenon
         (You wouldn't get me on the phone)
         Nothing's absolutely definite til it's absolutely, definitely gone (definitely gone)
         
-        I never thought this day would end (never thought this day would end)
+        <verse>I never thought this day would end (never thought this day would end)
         I never thought tonight could ever be this close to me (close to me)
         So let my hands stray past that boundaries of your back
         to get you breathing (get you breathing)
-        And get this started (get this started)
+        And get this started (get this started)</verse>
         
-        You wouldn't get me, you wouldn't get me
+      <outro><chorus>  You wouldn't get me, you wouldn't get me
         You wouldn't get me on the phone
         (Yeah, you wouldn't get me)
         Yeah you're a blue eyed lightning bolt
         (You wouldn't get me)
         I'm a national phenomenon
         (You couldn't make me not alone)
-        Nothing's absolutely definite til it's gone
+        Nothing's absolutely definite til it's gone</chorus></outro>
     </lyrics>
-</root>
+</song>
