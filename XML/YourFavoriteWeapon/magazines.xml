@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>Magazines</title>
+<song>
+    <info><title>Magazines</title><album>Your Favorite Weapon</album><tempo meas="BPM">170</tempo><key>A Major</key><songWriter>Jesse Lacey</songWriter><composer>Jesse Lacey</composer><producer>Mike Sapone</producer><label>Triple Crown</label><released>2001-10-09</released><recorded from="2001" to="2001">2001</recorded></info>
     <lyrics>
-        Laetitia, you destroy me,
+        <intro><verse n="1">Laetitia, you destroy me,
         so I can't see why I feel so lonely
         when you and me could be forever
         perfectly perfect together. I know.
         Broken down in my dead bedroom,
         stuttering to pictures of you.
         I know that you can always see me.
-        I saw you staring through my TV last night.
+        I saw you staring through my TV last night.</verse></intro>
         
-        So I'll leave the door open all night,
+       <chorus> So I'll leave the door open all night,
         in case you decide you want to stop on by.
         Because you got to know who's been singing that song on the radio.
-        The one that goes...(the one that goes...)
+        The one that goes...(the one that goes...)</chorus>
         
-        My friends all call me crazy cause I
+        <verse n="2">My friends all call me crazy cause I
         stay up late anticipating,
         and planning for the day I sweep you
         off your feet, I'd never leave you alone.
         Laetitia, you got my hand shaking,
         I'm begging you oh baby please stop breaking
         my heart because I got the feeling
-        that you and I will never really get it on.
+        that you and I will never really get it on.</verse>
         
-        So I'll leave the door open all night,
+        <chorus>So I'll leave the door open all night,
         in case you decide you want to stop on by.
         Because you got to know who's been singing that song on the radio.
-        The one that goes...(the one that goes...)
+        The one that goes...(the one that goes...)</chorus>
         
-        Girl, come to me.
+       <chorus> Girl, come to me.
         The only broken-hearted loser you'll ever need,
-        or I'll be left alone forever with my magazines.
+        or I'll be left alone forever with my magazines.</chorus>
         
-        Come to me.
+        <chorus>Come to me.
         The only broken-hearted loser you'll ever need,
-        or I'll be left alone forever with my magazines.
+        or I'll be left alone forever with my magazines.</chorus>
         
-        Girl, come to me.
+        <verse n="3">Girl, come to me.
         The only broken-hearted loser you'll ever need,
-        or I'll be left alone forever with my magazines.
+        or I'll be left alone forever with my magazines.</verse>
         
-        Girl, come to me.
+        <verse n="4">Girl, come to me.
         The only broken-hearted loser you'll ever need,
-        or I'll be left alone forever…
+        or I'll be left alone forever…</verse>
         
-        Laetitia, you destroy me,
+        <outro>Laetitia, you destroy me,
         so I can see why I feel so lonely
         when you and me could be forever
-        perfectly perfect together. I know.
+        perfectly perfect together. I know.</outro>
     </lyrics>
-</root>
+</song>
