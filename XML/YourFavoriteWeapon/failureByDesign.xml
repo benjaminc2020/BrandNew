@@ -53,7 +53,7 @@
             <line>Because I make things hard and you're just trying to help</line>
             <line>I got <ref img="car">no gas</ref> (no gas)</line>
             <line>I'm winding out my <ref img="car">gears</ref></line>
-            <line>This is one more day on the verge of tears</line>
+            <line>This is one more day <ref type="idiom">on the verge of</ref> tears</line>
             <line>And now my head hurts (head hurts)</line>
             <line>And my health is a joke</line>
             <line>Now I gotta stop because the headphones broke</line>
@@ -65,12 +65,12 @@
             <line>(This is over when I say it's over)</line>
             <line>This is a lesson in procrastination</line>
             <line>I kill myself because I'm so frustrated</line>
-            <line>And every single second that I put it off</line>
+            <line>And <ref img="time">every single second</ref> that I put it off</line>
             <line>Means another lonely night I gotta race the clock</line>
             <line>(I ignore it and it ignores me too)</line>
-            <line>Let's say we go and crash your car</line>
+            <line>Let's say we go and <ref img="car">crash your car</ref></line>
             <line>And every time I leave you go and lock the door</line>
-            <line>And I walk myself picking at a chip on my shoulder</line>
+            <line>And I walk myself picking at a <ref type="idiom">chip on my shoulder</ref></line>
             <line>I'm another day late and one year older</line>
             <line>It's <ref type="songTitle">failure by design</ref></line>
         </chorus>
@@ -90,12 +90,12 @@
                 <line>(This is over when I say it's over)</line>
                 <line>This is a lesson in procrastination</line>
                 <line>I kill myself because I'm so frustrated</line>
-                <line>And every single second that I put it off</line>
-                <line>Means another lonely night I gotta race the clock</line>
+                <line>And <ref img="time">every single second</ref> that I put it off</line>
+                <line>Means another lonely night I gotta <ref type="idiom">race the <ref img="time">clock</ref></ref></line>
                 <line>(I ignore it and it ignores me too)</line>
-                <line>What say we go and crash your car?</line>
+                <line>What say we go and <ref img="car">crash your car</ref>?</line>
                 <line>And every time I leave you go and lock the door</line>
-                <line>So I walk myself picking at a chip on my shoulder</line>
+                <line>So I walk myself picking at a <ref type="idiom">chip on my shoulder</ref></line>
                 <line>I'm another day late and one year older</line>
                 <line>I'm a <ref type="songTitle">failure by design</ref></line>
             </chorus></outro>
