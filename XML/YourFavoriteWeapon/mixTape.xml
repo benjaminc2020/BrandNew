@@ -1,28 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>Mix Tape</title>
+<?xml-model href="../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <info>
+        <title>Mix Tape</title>
+        <album>Your Favorite Weapon</album>
+        <tempo meas="BPM">137</tempo>
+        <key>D Major</key>
+        <songWriter>Jesse Lacey</songWriter>
+        <composer>Jesse Lacey</composer>
+        <producer>Mike Sapone</producer>
+        <label>Triple Crown</label>
+        <released>2001-10-09</released>
+        <recorded from="2001" to="2001">2001</recorded>
+        <songLength>00:03:59</songLength>
+    </info>
     <lyrics>
-        I got a twenty-dollar bill that says no one's ever seen you without makeup.
-        You're always made up.
-        And I'm sick of your tattoos,
-        and the way you always criticize the Smiths... and Morrissey.
-        And I know that you're a sucker for anything acoustic.
-        But when I say let's keep in touch,
-        I really mean I wish that you'd grow up.
-        This is the first song for your mixtape.
-        It's short just like your temper,
-        but somewhat golden like the afternoons we used to spend before you got too cool...
-        
-        I got a twenty-dollar bill that says no one's ever seen you without makeup.
-        You're always made up.
-        And I'm sick of your tattoos, and the way you don't appreciate Brand New or me
-        And I know that you're a sucker for anything acoustic.
-        But when I say let's keep in touch,
-        I hope you know I mean I wish that you'd grow up.
-        This is the first song for your mixtape.
-        It's short just like your temper,
-        but somewhat golden like the afternoons we used to spend before you got too cool...
-        
-        (yeah, but I wish you were my shadow.) [repeat]
+        <verse n="1">
+            <line>I got a twenty-dollar bill that says no one's ever seen you without makeup.</line>
+            <line>You're always made up.</line>
+            <line>And I'm sick of your tattoos,</line>
+            <line>and the way you always criticize the Smiths... and Morrissey.</line>
+            <line>And I know that you're a sucker for anything acoustic.</line>
+            <line>But when I say let's keep in touch,</line>
+            <line>I really mean I wish that you'd grow up.</line>
+            <line>This is the first song for your mixtape.</line>
+            <line>It's short just like your temper,</line>
+            <line>but somewhat golden like the afternoons we used to spend before you got too
+                cool...</line>
+        </verse>
+        <verse n="2">
+            <line>I got a twenty-dollar bill that says no one's ever seen you without makeup.</line>
+            <line>You're always made up.</line>
+            <line>And I'm sick of your tattoos, and the way you don't appreciate Brand New or
+                me</line>
+            <line>And I know that you're a sucker for anything acoustic.</line>
+            <line>But when I say let's keep in touch,</line>
+            <line>I hope you know I mean I wish that you'd grow up.</line>
+            <line>This is the first song for your mixtape.</line>
+            <line>It's short just like your temper,</line>
+            <line>but somewhat golden like the afternoons we used to spend before you got too
+                cool...</line>
+        </verse>
+
+        <outro>
+            <line>(yeah, but I wish you were my shadow.)</line>
+            <line>(yeah, but I wish you were my shadow.)</line>
+        </outro>
     </lyrics>
-</root>
+</song>

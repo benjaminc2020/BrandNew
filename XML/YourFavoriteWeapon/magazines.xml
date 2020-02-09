@@ -1,54 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
-    <info><title>Magazines</title><album>Your Favorite Weapon</album><tempo meas="BPM">170</tempo><key>A Major</key><songWriter>Jesse Lacey</songWriter><composer>Jesse Lacey</composer><producer>Mike Sapone</producer><label>Triple Crown</label><released>2001-10-09</released><recorded from="2001" to="2001">2001</recorded></info>
+    <info>
+        <title>Magazines</title>
+        <album>Your Favorite Weapon</album>
+        <tempo meas="BPM">170</tempo>
+        <key>A Major</key>
+        <songWriter>Jesse Lacey</songWriter>
+        <composer>Jesse Lacey</composer>
+        <producer>Mike Sapone</producer>
+        <label>Triple Crown</label>
+        <released>2001-10-09</released>
+        <recorded from="2001" to="2001">2001</recorded>
+        <songLength>00:02:53</songLength>
+    </info>
     <lyrics>
-        <intro><verse n="1">Laetitia, you destroy me,
-        so I can't see why I feel so lonely
-        when you and me could be forever
-        perfectly perfect together. I know.
-        Broken down in my dead bedroom,
-        stuttering to pictures of you.
-        I know that you can always see me.
-        I saw you staring through my TV last night.</verse></intro>
-        
-       <chorus> So I'll leave the door open all night,
-        in case you decide you want to stop on by.
-        Because you got to know who's been singing that song on the radio.
-        The one that goes...(the one that goes...)</chorus>
-        
-        <verse n="2">My friends all call me crazy cause I
-        stay up late anticipating,
-        and planning for the day I sweep you
-        off your feet, I'd never leave you alone.
-        Laetitia, you got my hand shaking,
-        I'm begging you oh baby please stop breaking
-        my heart because I got the feeling
-        that you and I will never really get it on.</verse>
-        
-        <chorus>So I'll leave the door open all night,
-        in case you decide you want to stop on by.
-        Because you got to know who's been singing that song on the radio.
-        The one that goes...(the one that goes...)</chorus>
-        
-       <chorus> Girl, come to me.
-        The only broken-hearted loser you'll ever need,
-        or I'll be left alone forever with my magazines.</chorus>
-        
-        <chorus>Come to me.
-        The only broken-hearted loser you'll ever need,
-        or I'll be left alone forever with my magazines.</chorus>
-        
-        <verse n="3">Girl, come to me.
-        The only broken-hearted loser you'll ever need,
-        or I'll be left alone forever with my magazines.</verse>
-        
-        <verse n="4">Girl, come to me.
-        The only broken-hearted loser you'll ever need,
-        or I'll be left alone forever…</verse>
-        
-        <outro>Laetitia, you destroy me,
-        so I can see why I feel so lonely
-        when you and me could be forever
-        perfectly perfect together. I know.</outro>
+        <intro>
+            <verse n="1">
+                <line>Laetitia, you destroy me,</line>
+                <line>so I can't see why I feel so lonely</line>
+                <line>when you and me could be forever</line>
+                <line>perfectly perfect together. I know.</line>
+                <line>Broken down in my dead bedroom,</line>
+                <line>stuttering to pictures of you.</line>
+                <line>I know that you can always see me.</line>
+                <line>I saw you staring through my TV last night.</line>
+            </verse>
+        </intro>
+        <chorus>
+            <line>So I'll leave the door open all night,</line>
+            <line>in case you decide you want to stop on by.</line>
+            <line>Because you got to know who's been singing that song on the radio.</line>
+            <line>The one that goes...(the one that goes...)</line>
+        </chorus>
+        <verse n="2">
+            <line>My friends all call me crazy cause I</line>
+            <line>stay up late anticipating,</line>
+            <line>and planning for the day I sweep you</line>
+            <line>off your feet, I'd never leave you alone.</line>
+            <line>Laetitia, you got my hand shaking,</line>
+            <line>I'm begging you oh baby please stop breaking</line>
+            <line>my heart because I got the feeling</line>
+            <line>that you and I will never really get it on.</line>
+        </verse>
+        <chorus>
+            <line>So I'll leave the door open all night,</line>
+            <line>in case you decide you want to stop on by.</line>
+            <line>Because you got to know who's been singing that song on the radio.</line>
+            <line>The one that goes...(the one that goes...)</line>
+        </chorus>
+        <chorus>
+            <line> Girl, come to me.</line>
+            <line>The only broken-hearted loser you'll ever need,</line>
+            <line>or I'll be left alone forever with my magazines.</line>
+        </chorus>
+        <chorus>
+            <line>Come to me.</line>
+            <line>The only broken-hearted loser you'll ever need,</line>
+            <line>or I'll be left alone forever with my magazines.</line>
+        </chorus>
+        <verse n="3">
+            <line>Girl, come to me.</line>
+            <line>The only broken-hearted loser you'll ever need,</line>
+            <line>or I'll be left alone forever with my magazines.</line>
+        </verse>
+        <verse n="4">
+            <line>Girl, come to me.</line>
+            <line>The only broken-hearted loser you'll ever need,</line>
+            <line>or I'll be left alone forever…</line>
+        </verse>
+        <outro>
+            <line>Laetitia, you destroy me,</line>
+            <line>so I can see why I feel so lonely</line>
+            <line>when you and me could be forever</line>
+            <line>perfectly perfect together. I know.</line>
+        </outro>
     </lyrics>
 </song>
