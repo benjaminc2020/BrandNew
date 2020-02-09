@@ -1,46 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>Shower Scene</title>
+<?xml-model href="../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <info>
+        <title>The Shower Scene</title>
+        <album>Your Favorite Weapon</album>
+        <tempo meas="BPM">94</tempo>
+        <key>D Major</key>
+        <songWriter>Jesse Lacey</songWriter>
+        <composer>Jesse Lacey</composer>
+        <producer>Mike Sapone</producer>
+        <label>Triple Crown</label>
+        <released>2001-10-09</released>
+        <recorded from="2001" to="2001">2001</recorded>
+        <songLength>00:02:26</songLength>
+        
+    </info>
     <lyrics>
-        It's funny how your worst enemies always seem to
-        turn out to be all of your
-        best friend's best friends
-        But I folded and I told
-        These aren't things I saved to sink you
-        but I folded, I told
-        So draw or throw and I will explode
-        
-        It's time for you to choose
-        the bullet or the chapstick
-        And you are far too cute or whatever he said
-        
-        Every time I hear it I am wishing I was great
-        I wish her... past tense my best friend
-        But I folded and I told
-        These aren't things I say to save me
-        But I folded, I told
-        I hope she's caught in the explosion
-        
-        It's time for you to choose
-        the bullet or the chapstick
-        And you are far too cute or whatever he said
-        
-        It's time for you to choose
-        It's time for you to choose
-        the bullet or the chapstick
-        This is me in his room
-        This is me in his room
-        This is me in his room
-        
-        Red, gold, I told
-        We don't play fair
-        Red, gold, I told
-        We never stand too close
-        
-        So I update this almost every single day for you
-        I begin to hate you for your face and not just the things you do
-        Go tell him how my wrist is sore
-        from pulling at your insides all night
-        Nothing that you do is new to anything or anyone but you 
+        <verse n="1">
+            <line>It's funny how your worst enemies always seem to</line>
+            <line>turn out to be all of your</line>
+            <line>best friend's best friends</line>
+            <line>But I folded and I told</line>
+            <line>These aren't things I saved to sink you</line>
+            <line>but I folded, I told</line>
+            <line>So draw or throw and I will explode</line>
+        </verse>
+
+        <chorus>
+            <line>It's time for you to choose</line>
+            <line>the bullet or the chapstick</line>
+            <line>And you are far too cute or whatever he said</line>
+        </chorus>
+
+        <verse n="2">
+            <line>Every time I hear it I am wishing I was great</line>
+            <line>I wish her... past tense my best friend</line>
+            <line>But I folded and I told</line>
+            <line>These aren't things I say to save me</line>
+            <line>But I folded, I told</line>
+            <line>I hope she's caught in the explosion</line>
+        </verse>
+
+        <chorus>
+            <line>It's time for you to choose</line>
+            <line>the bullet or the chapstick</line>
+            <line>And you are far too cute or whatever he said</line>
+        </chorus>
+
+        <bridge>
+            <line>It's time for you to choose</line>
+            <line>It's time for you to choose</line>
+            <line>the bullet or the chapstick</line>
+            <line>This is me in his room</line>
+            <line>This is me in his room</line>
+            <line>This is me in his room</line>
+        </bridge>
+
+        <bridge>
+            <line>Red, gold, I told</line>
+            <line>We don't play fair</line>
+            <line>Red, gold, I told</line>
+            <line>We never stand too close</line>
+        </bridge>
+
+        <verse n="3">
+            <line>So I update this almost every single day for you</line>
+            <line>I begin to hate you for your face and not just the things you do</line>
+            <line>Go tell him how my wrist is sore</line>
+            <line>from pulling at your insides all night</line>
+            <line>Nothing that you do is new to anything or anyone but you </line>
+        </verse>
     </lyrics>
-</root>
+</song>

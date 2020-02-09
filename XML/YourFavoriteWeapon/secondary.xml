@@ -1,51 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>Secondary</title>
+<?xml-model href="../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <info>
+        <title>Secondary</title>
+        <album>Your Favorite Weapon</album>
+        <tempo meas="BPM">90</tempo>
+        <key>D Major</key>
+        <songWriter>Jesser Lacey</songWriter>
+        <composer>Jesse Lacey</composer>
+        <producer>Mike Sapone</producer>
+        <label>Triple Crown</label>
+        <released>2001-10-09</released>
+        <recorded from="2001" to="2001">2001</recorded>
+        <songLength>00:03:08</songLength>
+    </info>
     <lyrics>
-        And it comes down to you.
-        Never and ever.
-        Wrecked his day with looks and flirts
-        and midnight in your shortest skirts.
-        
-        Past the point of trying, I'm a dying breed.
-        Thank her for reminding me of all the things I've done completely wrong.
-        
-        Stop these looks and letters.
-        This isn't for the better.
-        You put me down...
-        It's for the worse, you're not my girl.
-        
-        Stop the circulation to my legs and break my bones.
-        Dateless and late, I'm better by myself at home.
-        Past the point of trying, and I'm dying here.
-        Secondary. She laughs at every word I know came out completely wrong.
-        
-        Stop these looks and letters.
-        This isn't for the better.
-        You put me down...
-        It's for the worse, you're not my girl.
-        [x2]
-        
-        And it's my last semester...
-        And brothers always come first.
-        It's my last semester (It's my last semester)
-        At least until next winter. (At least until next winter}
-        But I'm sure that I'll be over this by then.
-        
-        Past the point of trying, I'm a dying breed.
-        Thank her for reminding me of all the things I've done completely wrong.
-        
-        Stop these looks and letters.
-        This isn't for the better.
-        You put me down...
-        It's for the worse, you're not my girl.
-        
-        Better scenes... I wish she'd seen me.
-        Better off if I just let it be.
-        Better pretend it don't matter.
-        I'd be better off if I could have her.
-        Better days since the day I met her.
-        I better hope she got my letters.
-        Better off in two year stretches...
+        <verse n="1">
+            <line>And it comes down to you.</line>
+            <line>Never and ever.</line>
+            <line>Wrecked his day with looks and flirts</line>
+            <line>and midnight in your shortest skirts.</line>
+        </verse>
+        <preChorus>
+            <line>Past the point of trying, I'm a dying breed. </line>
+            <line>Thank her for reminding me of all the things I've done completely wrong.</line>
+        </preChorus>
+        <chorus>
+            <line>Stop these looks and letters.</line>
+            <line>This isn't for the better.</line>
+            <line>You put me down...</line>
+            <line>It's for the worse, you're not my girl.</line>
+        </chorus>
+        <verse n="2">
+            <line>Stop the circulation to my legs and break my bones. </line>
+            <line>Dateless and late, I'm better by myself at home.</line>
+        </verse>
+        <preChorus>
+            <line>Past the point of trying, and I'm dying here.</line>
+            <line>Secondary. She laughs at every word I know came out completely wrong.</line>
+        </preChorus>
+        <chorus>
+            <line>Stop these looks and letters.</line>
+            <line>This isn't for the better.</line>
+            <line>You put me down...</line>
+            <line>It's for the worse, you're not my girl.</line>
+        </chorus>
+        <chorus>
+            <line>Stop these looks and letters.</line>
+            <line>This isn't for the better.</line>
+            <line>You put me down...</line>
+            <line>It's for the worse, you're not my girl.</line>
+        </chorus>
+        <bridge>
+            <line>And it's my last semester...</line>
+            <line>And brothers always come first.</line>
+            <line>It's my last semester (It's my last semester)</line>
+            <line>At least until next winter. (At least until next winter}</line>
+            <line>But I'm sure that I'll be over this by then.</line>
+        </bridge>
+        <preChorus>
+            <line>Past the point of trying, I'm a dying breed.</line>
+            <line>Thank her for reminding me of all the things I've done completely wrong.</line>
+        </preChorus>
+        <chorus>
+            <line>Stop these looks and letters.</line>
+            <line>This isn't for the better.</line>
+            <line>You put me down...</line>
+            <line>It's for the worse, you're not my girl.</line>
+        </chorus>
+        <outro>
+            <line>Better scenes... I wish she'd seen me.</line>
+            <line>Better off if I just let it be.</line>
+            <line>Better pretend it don't matter.</line>
+            <line>I'd be better off if I could have her.</line>
+            <line>Better days since the day I met her.</line>
+            <line>I better hope she got my letters.</line>
+            <line>Better off in two year stretches...</line>
+        </outro>
     </lyrics>
-</root>
+</song>

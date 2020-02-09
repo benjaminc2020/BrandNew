@@ -1,61 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>Seventy Times 7</title>
+<?xml-model href="../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <info>
+        <title>Seventy Times 7</title>
+        <album>Your Favorite Weapon</album>
+        <tempo meas="BPM">91</tempo>
+        <key>A Major</key>
+        <songWriter>Jesse Lacey</songWriter>
+        <composer>Jesse Lacey</composer>
+        <producer>Mike Sapone</producer>
+        <label>Triple Crown</label>
+        <released>2001-10-09</released>
+        <recorded from="2001" to="2001">2001</recorded>
+        <songLength>00:03:34</songLength>
+    </info>
     <lyrics>
-        Back in school they never taught us what we needed to know,
-        like how to deal with despair, or someone breaking your heart.
-        For twelve years I've held it all together but a night like this is begging to pull me apart.
-        I played it quiet, left you deep in conversation.
-        I felt uncool and hung out around the kitchen.
-        I remember I kept thinking that I know you never would,
-        and now I know I want to kill you like only a best friend could.
-        
-        Everyone's caught on to everything you do
-        Everyone's caught on to.
-        
-        As if this happening wasn't enough I got to go
-        and write a song just to remind myself how bad it sucked.
-        Ignore the sun, the cover's over my head.
-        I wrote a message on my pillow that says, "Jesse, stay asleep in bed."
-        So don't apologize. I hope you choke and die.
-        Search your cell for something with which to hang yourself.
-        They say you need to pray if you want to go to heaven
-        but they don't tell you what to say when your whole life has gone to hell.
-        
-        Everyone's caught on to everything you do
-        Everyone's caught on to
-        And everyone's caught on to everything you do (And I can't let you, let me down again.)
-        Everyone's caught on to (And I can't let you, let me down again)
-        
-        So, is that what you call a getaway?
-        Tell me what you got away with.
-        Cause I've seen more spine in jellyfish.
-        I've seen more guts in eleven-year-old kids.
-        Have another drink and drive yourself home.
-        I hope there's ice on all the roads.
-        And you can think of me when you forget your seatbelt,
-        and again when your head goes through the windshield.
-        
-        And is that what you call tact?
-        You're as subtle as a brick in the small of my back.
-        So let's end this call, and end this conversation.
-        and is that what you call a getaway?
-        well tell me what you got away with.
-        cause you left the frays from the ties you severed
-        when you say best friends means friends forever
-        
-        So, is that what you call a getaway?
-        Well tell me what you got away with.
-        Cause I've seen more spine in jellyfish.
-        I've seen more guts in eleven-year-old kids.
-        Have another drink and drive yourself home.
-        I hope there's ice on all the roads.
-        And you can think of me when you forget your seatbelt,
-        and again when your head goes through the windshield.
-        
-        Everyone's caught on to everything you do (And I can't let you, let me down again)
-        Everyone's caught on to (And I can't let you, let me down again)
-        And everyone's caught on to everything you do (And I can't let you, let me down again)
-        Everyone's caught on to (And I can't let you, let me down again)
+        <verse n="1"><line>Back in school they never taught us what we needed to know,</line>
+        <line>like how to deal with despair, or someone breaking your heart.</line>
+        <line>For twelve years I've held it all together but a night like this is begging to pull me
+            apart.</line>
+        <line>I played it quiet, left you deep in conversation.</line>
+        <line>I felt uncool and hung out around the kitchen.</line>
+        <line>I remember I kept thinking that I know you never would,</line>
+        <line>and now I know I want to kill you like only a best friend could.</line>
+</verse>
+        <chorus>
+            <line>Everyone's caught on to everything you do</line>
+            <line>Everyone's caught on to.</line>
+        </chorus>
+
+        <verse n="2">
+            <line>As if this happening wasn't enough I got to go</line>
+            <line>and write a song just to remind myself how bad it sucked.</line>
+            <line>Ignore the sun, the cover's over my head.</line>
+            <line>I wrote a message on my pillow that says, "Jesse, stay asleep in bed."</line>
+            <line>So don't apologize. I hope you choke and die.</line>
+            <line>Search your cell for something with which to hang yourself.</line>
+            <line>They say you need to pray if you want to go to heaven</line>
+            <line>but they don't tell you what to say when your whole life has gone to hell.</line>
+        </verse>
+
+        <chorus>
+            <line>Everyone's caught on to everything you do</line>
+            <line>Everyone's caught on to</line>
+            <line>And everyone's caught on to everything you do (And I can't let you, let me down
+                again.)</line>
+            <line>Everyone's caught on to (And I can't let you, let me down again)</line>
+        </chorus>
+
+        <bridge>
+            <line>So, is that what you call a getaway?</line>
+            <line>Tell me what you got away with.</line>
+            <line>Cause I've seen more spine in jellyfish.</line>
+            <line>I've seen more guts in eleven-year-old kids.</line>
+            <line>Have another drink and drive yourself home.</line>
+            <line>I hope there's ice on all the roads.</line>
+            <line>And you can think of me when you forget your seatbelt,</line>
+            <line>and again when your head goes through the windshield.</line>
+        </bridge>
+
+        <bridge>
+            <line>And is that what you call tact?</line>
+            <line>You're as subtle as a brick in the small of my back.</line>
+            <line>So let's end this call, and end this conversation.</line>
+            <line>and is that what you call a getaway?</line>
+            <line>well tell me what you got away with.</line>
+            <line>cause you left the frays from the ties you severed</line>
+            <line>when you say best friends means friends forever</line>
+        </bridge>
+
+        <bridge>
+            <line>So, is that what you call a getaway?</line>
+            <line>Well tell me what you got away with.</line>
+            <line>Cause I've seen more spine in jellyfish.</line>
+            <line>I've seen more guts in eleven-year-old kids.</line>
+            <line>Have another drink and drive yourself home.</line>
+            <line>I hope there's ice on all the roads.</line>
+            <line>And you can think of me when you forget your seatbelt,</line>
+            <line>and again when your head goes through the windshield.</line>
+        </bridge>
+
+        <chorus>
+            <line>Everyone's caught on to everything you do (And I can't let you, let me down
+                again)</line>
+            <line>Everyone's caught on to (And I can't let you, let me down again)</line>
+            <line>And everyone's caught on to everything you do (And I can't let you, let me down
+                again)</line>
+            <line>Everyone's caught on to (And I can't let you, let me down again)</line>
+        </chorus>
     </lyrics>
-</root>
+</song>

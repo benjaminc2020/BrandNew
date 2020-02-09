@@ -1,48 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>Sudden Death In Carolina</title>
+<?xml-model href="../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <info>
+        <title>Sudden Death In Carolina</title>
+        <album>Your Favorite Weapon</album>
+        <tempo meas="BPM">167</tempo>
+        <key>D Major</key>
+        <songWriter>Jesse Lacey</songWriter>
+        <composer>Jesse Lacey</composer>
+        <producer>Mike Sapone</producer>
+        <label>Triple Crown</label>
+        <released>2001-10-09</released>
+        <recorded from="2001" to="2001">2001</recorded>
+        <songLength>00:03:02</songLength>
+    </info>
     <lyrics>
-        Last night I swallowed liquor and a lighter and this morning I threw up fire.
-        But it's nothing new. I've been piecing it together and it's got something to do
-        with every look thrown like a knife across a crowded room.
-        Every slow and quiet car ride I spent drinking in the backseat.
-        Every stupid melody to every stupid song.
-        And every stupid word that everybody's hanging on.
-        
-        What difference does this difference in age make?
-        I know how it ends... she'll kill me quick.
-        So call 911.
-        I'm already dead but someone should be caught
-        and held responsible for this bloody mess.
-        
-        Last night I fell asleep next to a liar and I woke up with a shiner.
-        And it's all that I remember from a night spent lying on my back
-        with a view of a stone white ceiling and the back of your head.
-        This dark and quiet bed felt like the middle of nowhere.
-        We beat each other up just like we always do.
-        When I'm talking to myself I'd always rather be talking to you.
-        
-        What difference does this difference in age make?
-        I know how it ends... she'll kill me quick.
-        Call 911.
-        I'm already dead but someone should be caught
-        and held responsible for this bloody mess.
-        
-        Call homicide. Take the case to court.
-        Her lips taste like a loaded gun
-        and I'm her number one chalk outline on the floor.
-        
-        They hung her from the bridge on Monday.
-        The gathering turned into a mob out on the lawn.
-        They dropped her body in the river.
-        And school and work returned to normal before long...
-        
-        Call 911.
-        I'm already dead but someone should be caught
-        and held responsible for this bloody mess.
-        
-        Call homicide. Take the case to court.
-        Her lips taste like a loaded gun
-        and I'm her number one chalk outline on the floor.
+        <verse n="1">
+            <line>Last night I swallowed liquor and a lighter and this morning I threw up
+                fire.</line>
+            <line>But it's nothing new. I've been piecing it together and it's got something to
+                do</line>
+            <line>with every look thrown like a knife across a crowded room.</line>
+            <line>Every slow and quiet car ride I spent drinking in the backseat.</line>
+            <line>Every stupid melody to every stupid song.</line>
+            <line>And every stupid word that everybody's hanging on.</line>
+        </verse>
+
+        <chorus>
+            <line>What difference does this difference in age make?</line>
+            <line>I know how it ends... she'll kill me quick.</line>
+            <line>So call 911.</line>
+            <line>I'm already dead but someone should be caught</line>
+            <line>and held responsible for this bloody mess.</line>
+        </chorus>
+
+        <verse n="2">
+            <line>Last night I fell asleep next to a liar and I woke up with a shiner.</line>
+            <line>And it's all that I remember from a night spent lying on my back</line>
+            <line>with a view of a stone white ceiling and the back of your head.</line>
+            <line>This dark and quiet bed felt like the middle of nowhere.</line>
+            <line>We beat each other up just like we always do.</line>
+            <line>When I'm talking to myself I'd always rather be talking to you.</line>
+        </verse>
+
+        <chorus>
+            <line>What difference does this difference in age make?</line>
+            <line>I know how it ends... she'll kill me quick.</line>
+            <line>Call 911.</line>
+            <line>I'm already dead but someone should be caught</line>
+            <line>and held responsible for this bloody mess.</line>
+        </chorus>
+
+        <verse n="3">
+            <line>Call homicide. Take the case to court.</line>
+            <line>Her lips taste like a loaded gun</line>
+            <line>and I'm her number one chalk outline on the floor.</line>
+
+            <line>They hung her from the bridge on Monday.</line>
+            <line>The gathering turned into a mob out on the lawn.</line>
+            <line>They dropped her body in the river.</line>
+            <line>And school and work returned to normal before long...</line>
+        </verse>
+
+        <chorus>
+            <line>Call 911.</line>
+            <line>I'm already dead but someone should be caught</line>
+            <line>and held responsible for this bloody mess.</line>
+            <line>Call homicide. Take the case to court.</line>
+            <line>Her lips taste like a loaded gun</line>
+            <line>and I'm her number one chalk outline on the floor.</line>
+        </chorus>
     </lyrics>
-</root>
+</song>

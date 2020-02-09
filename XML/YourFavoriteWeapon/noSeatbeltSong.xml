@@ -1,32 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>No Seatbelt Song</title>
+<?xml-model href="../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <info>
+        <title>The No Seatbelt Song</title>
+        <album>Your Favorite Weapon</album>
+        <tempo meas="BPM">98</tempo>
+        <key>E Major</key>
+        <songWriter>Jesse Lacey</songWriter>
+        <composer>Jesse Lacey</composer>
+        <producer>Mike Sapone</producer>
+        <label>Triple Crown</label>
+        <released>2001-10-09</released>
+        <recorded from="2001" to="2001">2001</recorded>
+        <songLength>00:04:32</songLength>
+    </info>
     <lyrics>
-        So, it's sad this doesn't suit you now.
-        And me fresh out of rope...
-        Please ignore this lisp, I never meant to sound like this.
-        So take me and break me and make me strong like you.
-        I'll be forever grateful to this and you.
-        It's only you, beautiful.
-        Or I don't want anyone.
-        If I can choose it's only you.
-        Fix me to a chain around your neck and wear me like a nickel.
-        Even new wine served in old skins cheapens the taste.
-        I shot the pilot, now I'm begging you to fly this for me.
-        I'm here for you to use, broken and bruised.
-        Do you understand?
-        It's only you, beautiful.
-        Or don't want anyone.
-        If I can choose, it's only you.
-        But how could I miscalculate... perfect eyes will have perfect aim.
-        If I can choose, it's only you.
-        “We're wrecking” and I'm dry like a drum...when you scream
-        so fine I'll leave... we're spent... we've got time and trials...
-        measured in miles... we slave for days (and weeks).
-        It's only you, beautiful.
-        Or I don't want anyone.
-        If I can choose. It's only you.
-        But how could I miscalculate... perfect lies from a perfect dame.
-        If I can choose... it's only you.
+        <line>So, it's sad this doesn't suit you now.</line>
+        <line>And me fresh out of rope...</line>
+        <line>Please ignore this lisp, I never meant to sound like this.</line>
+        <line>So take me and break me and make me strong like you.</line>
+        <line>I'll be forever grateful to this and you.</line>
+        <line>It's only you, beautiful.</line>
+        <line>Or I don't want anyone.</line>
+        <line>If I can choose it's only you.</line>
+        <line>Fix me to a chain around your neck and wear me like a nickel.</line>
+        <line>Even new wine served in old skins cheapens the taste.</line>
+        <line>I shot the pilot, now I'm begging you to fly this for me.</line>
+        <line>I'm here for you to use, broken and bruised.</line>
+        <line>Do you understand?</line>
+        <line>It's only you, beautiful.</line>
+        <line>Or don't want anyone.</line>
+        <line>If I can choose, it's only you.</line>
+        <line>But how could I miscalculate... perfect eyes will have perfect aim.</line>
+        <line>If I can choose, it's only you.</line>
+        <line>“We're wrecking” and I'm dry like a drum...when you scream</line>
+        <line>so fine I'll leave... we're spent... we've got time and trials...</line>
+        <line>measured in miles... we slave for days (and weeks).</line>
+        <line>It's only you, beautiful.</line>
+        <line>Or I don't want anyone.</line>
+        <line>If I can choose. It's only you.</line>
+        <line>But how could I miscalculate... perfect lies from a perfect dame.</line>
+        <line>If I can choose... it's only you.</line>
     </lyrics>
-</root>
+</song>
