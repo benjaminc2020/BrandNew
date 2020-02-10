@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>
-        No Control
-    </title>
+<song>
+    <info>
+        <title>No Control</title>
+        <album></album>
+        <tempo></tempo>
+        <key></key>
+        <songWriter></songWriter>
+        <composer></composer>
+        <producer></producer>
+        <label></label>
+        <released></released>
+        <recorded></recorded>
+        <songLength></songLength>
+    </info>
     <lyrics>
         In the end, we weren't much
         With the hollow space
@@ -48,5 +58,5 @@
         
         Evil laugh
     </lyrics>
-</root>
+</song>
 

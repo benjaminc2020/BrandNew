@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>
-        Lit Me Up
-    </title>
+<song>
+    <info>
+        <title>Lit Me Up</title>
+        <album></album>
+        <tempo></tempo>
+        <key></key>
+        <songWriter></songWriter>
+        <composer></composer>
+        <producer></producer>
+        <label></label>
+        <released></released>
+        <recorded></recorded>
+        <songLength></songLength>
+    </info>
     <lyrics>
         This tape recounts a dream which occurred close to the termination of approximately 400 hours of intensive, individual therapy. Now, the patient recounts her dream:
         
@@ -56,5 +66,5 @@
         
         If so...you will be dead tonight
     </lyrics>
-</root>
+</song>
 

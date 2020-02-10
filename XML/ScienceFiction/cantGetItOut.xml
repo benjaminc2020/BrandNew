@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>
-        Can't Get It Out    
-    </title>
+<song>
+    <info>
+        <title>Can't Get It Out</title>
+        <album></album>
+        <tempo></tempo>
+        <key></key>
+        <songWriter></songWriter>
+        <composer></composer>
+        <producer></producer>
+        <label></label>
+        <released></released>
+        <recorded></recorded>
+        <songLength></songLength>
+    </info>
     <lyrics>
         As we glide over whatever
         We know to be over forever
@@ -50,5 +60,5 @@
         Sometimes I can't get it out
         Sometimes I can't get it out
     </lyrics>
-</root>
+</song>
 

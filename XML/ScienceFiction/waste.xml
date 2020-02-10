@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>
-        Waste
-    </title>
+<song>
+    <info>
+        <title>Waste</title>
+        <album></album>
+        <tempo></tempo>
+        <key></key>
+        <songWriter></songWriter>
+        <composer></composer>
+        <producer></producer>
+        <label></label>
+        <released></released>
+        <recorded></recorded>
+        <songLength></songLength>
+    </info>
     <lyrics>
         Scream in there.
         
@@ -73,5 +83,5 @@
         Don't give up, my son, this is the last one
         This is the last one
     </lyrics>
-</root>
+</song>
 

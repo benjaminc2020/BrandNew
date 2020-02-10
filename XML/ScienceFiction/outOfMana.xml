@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>
-        Out Of Mana
-    </title>
+<song>
+    <info>
+        <title>Out of Mana</title>
+        <album></album>
+        <tempo></tempo>
+        <key></key>
+        <songWriter></songWriter>
+        <composer></composer>
+        <producer></producer>
+        <label></label>
+        <released></released>
+        <recorded></recorded>
+        <songLength></songLength>
+    </info>
     <lyrics>
         First write down all of your fears
         Then sweep the feathers you've preened
@@ -73,5 +83,5 @@
         I'll never know if it's more or less
         No reset
     </lyrics>
-</root>
+</song>
 

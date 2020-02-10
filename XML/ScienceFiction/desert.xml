@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>
-        Desert
-    </title>
+<song>
+    <info>
+        <title>Desert</title>
+        <album></album>
+        <tempo></tempo>
+        <key></key>
+        <songWriter></songWriter>
+        <composer></composer>
+        <producer></producer>
+        <label></label>
+        <released></released>
+        <recorded></recorded>
+        <songLength></songLength>
+    </info>
     <lyrics>
         Last night I heard a voice that said, "This is the end"
         All my nerves have been worn to the threads
@@ -54,5 +64,5 @@
         
         God is love
     </lyrics>
-</root>
+</song>
 

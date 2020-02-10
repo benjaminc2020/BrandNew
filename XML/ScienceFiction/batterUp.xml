@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>
-        Batter Up
-    </title>
+<song>
+    <info>
+        <title>Batter Up</title>
+        <album></album>
+        <tempo></tempo>
+        <key></key>
+        <songWriter></songWriter>
+        <composer></composer>
+        <producer></producer>
+        <label></label>
+        <released></released>
+        <recorded></recorded>
+        <songLength></songLength>
+    </info>
     <lyrics>
         In the valley of your slowly-fading memory
         Are there pastures bathed in some uncertain light where you won’t graze?
@@ -52,5 +62,5 @@
         
         That was the one right there...This is what we were waiting for...
     </lyrics>
-</root>
+</song>
 

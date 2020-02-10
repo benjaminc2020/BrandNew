@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>
-        In The Water    
-    </title>
+<song>
+    <info>
+        <title>In The Water</title>
+        <album></album>
+        <tempo></tempo>
+        <key></key>
+        <songWriter></songWriter>
+        <composer></composer>
+        <producer></producer>
+        <label></label>
+        <released></released>
+        <recorded></recorded>
+        <songLength></songLength>
+    </info>
     <lyrics>
         In the water, they sort it out
         They were waist to neck in December somehow
@@ -60,5 +70,5 @@
         The seven years
         The seven years
     </lyrics>
-</root>
+</song>
 

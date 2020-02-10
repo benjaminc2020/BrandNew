@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>
-        Could Never Be Heaven    
-    </title>
+<song>
+    <info>
+        <title>Could Never Be Heaven</title>
+        <album></album>
+        <tempo></tempo>
+        <key></key>
+        <songWriter></songWriter>
+        <composer></composer>
+        <producer></producer>
+        <label></label>
+        <released></released>
+        <recorded></recorded>
+        <songLength></songLength>
+    </info>
     <lyrics>
         Do you know the words that make the hidden door open?
         Can you speak my secret name and fix me?
@@ -56,5 +66,5 @@
         
         "You don't know how to break through this contradictory mess... and really find your own... authentic individuality."
     </lyrics>
-</root>
+</song>
 

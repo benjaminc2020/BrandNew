@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>
-        451
-    </title>
+<song>
+    <info>
+        <title>451</title>
+        <album></album>
+        <tempo></tempo>
+        <key></key>
+        <songWriter></songWriter>
+        <composer></composer>
+        <producer></producer>
+        <label></label>
+        <released></released>
+        <recorded></recorded>
+        <songLength></songLength>
+    </info>
     <lyrics>
         I'm awake, there's no part to play
         Drinking Drano, smoking grass, one under the pass
@@ -43,5 +53,5 @@
         I pass the plate and I sit back down
         And go back to my hole in the woods under ground
     </lyrics>
-</root>
+</song>
 

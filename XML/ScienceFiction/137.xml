@@ -1,57 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>
-        137
-    </title>
+<song>
+    <info>
+        <title>137</title>
+        <album></album>
+        <tempo></tempo>
+        <key></key>
+        <songWriter></songWriter>
+        <composer></composer>
+        <producer></producer>
+        <label></label>
+        <released></released>
+        <recorded></recorded>
+        <songLength></songLength>
+    </info>
     <lyrics>
-        Under the ocean
-        Next to a boiling vent
-        He's none the wiser
-        Earth's only resident
-        It piled up
-        Man, it was wall to wall
-        Blink of an eye
-        And all the problems solved
-        
-        Let's all go play Nagasaki
-        We can all get vaporised
-        Hold my hand, let's turn to ash
-        I'll see you on the other side
-        
-        Hey it’s D1
-        I don’t know why it’s been so crazy... I haven’t gotten any letters from you in the last 2 days... I guess the mail kind of screwed up too...when the both of us get here it always is... If there wasn’t a war going on this place would be pretty nice
-        
-        Before the garden
-        When you were all alone
-        You made the atom
-        Was that some inside joke
-        Open the gates
-        And then conceal the path
-        Let's load the gun
-        And see how long they last
-        
-        “There goes the siren again
-        Oh, there, goes another round I gotta- uh, go to a bunker now"
-        
-        Let's go ring and run the bunkers
-        Baby won't you come outside?
-        Across the sea the birds are free
-        Let's watch them scream across the sky
-        Let's all go and meet our maker
-        They don't care whose side you're on
-        We're so afraid, I prayed and prayed
-        Before I learned to love the bomb
-        
-        They won’t send you over to the side you’re not—He’s… he’s brave and he’s always going to that bunker, so don’t worry about him... No I’m not, there’s just not much more to say... Give my love to your parents and to my parents... I’ll send them a few things as soon as I get to where I’m going to—Soon I’ll be back home with my love, soon...I’ll be...But yeah... P.S. Duke, I love you
-        
-        Let's all go play Nagasaki
-        What a lovely way to die
-        A final show and we all go
-        So no one has to say goodbye
-        Let's all go and meet our maker
-        Won't matter whose side you're on
-        We're so afraid, I prayed and prayed
-        When God told me to love the bomb
-    </lyrics>
-</root>
+        <verse>
+            <line>Under the ocean</line>
+            <line>Next to a boiling vent</line>
+            <line>He's none the wiser</line>
+            <line>Earth's only resident</line>
+            <line>It piled up</line>
+            <line>Man, it was wall to wall</line>
+            <line>Blink of an eye</line>
+            <line>And all the problems solved</line>
+        </verse>
 
+        <line>Let's all go play Nagasaki</line>
+        <line>We can all get vaporised</line>
+        <line>Hold my hand, let's turn to ash</line>
+        <line>I'll see you on the other side</line>
+
+        <line>Hey it’s D1</line>
+        <line>I don’t know why it’s been so crazy... I haven’t gotten any letters from you in the
+            last 2 days... I guess the mail kind of screwed up too...when the both of us get here it
+            always is... If there wasn’t a war going on this place would be pretty nice</line>
+
+        <line>Before the garden</line>
+        <line>When you were all alone</line>
+        <line>You made the atom</line>
+        <line>Was that some inside joke</line>
+        <line>Open the gates</line>
+        <line>And then conceal the path</line>
+        <line>Let's load the gun</line>
+        <line>And see how long they last</line>
+
+        <line>“There goes the siren again</line>
+        <line>Oh, there, goes another round I gotta- uh, go to a bunker now"</line>
+
+        <line>Let's go ring and run the bunkers</line>
+        <line>Baby won't you come outside?</line>
+        <line>Across the sea the birds are free</line>
+        <line>Let's watch them scream across the sky</line>
+        <line>Let's all go and meet our maker</line>
+        <line>They don't care whose side you're on</line>
+        <line>We're so afraid, I prayed and prayed</line>
+        <line>Before I learned to love the bomb</line>
+
+        <line>They won’t send you over to the side you’re not—He’s… he’s brave and he’s always going
+            to that bunker, so don’t worry about him... No I’m not, there’s just not much more to
+            say... Give my love to your parents and to my parents... I’ll send them a few things as
+            soon as I get to where I’m going to—Soon I’ll be back home with my love, soon...I’ll
+            be...But yeah... P.S. Duke, I love you</line>
+
+        <line>Let's all go play Nagasaki</line>
+        <line>What a lovely way to die</line>
+        <line>A final show and we all go</line>
+        <line>So no one has to say goodbye</line>
+        <line>Let's all go and meet our maker</line>
+        <line>Won't matter whose side you're on</line>
+        <line>We're so afraid, I prayed and prayed</line>
+        <line>When God told me to love the bomb</line>
+    </lyrics>
+</song>

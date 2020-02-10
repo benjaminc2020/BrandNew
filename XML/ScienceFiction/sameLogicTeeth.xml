@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>
-        Same Logic/Teeth
-    </title>
+<song>
+    <info>
+        <title>Same Logic Teeth</title>
+        <album></album>
+        <tempo></tempo>
+        <key></key>
+        <songWriter></songWriter>
+        <composer></composer>
+        <producer></producer>
+        <label></label>
+        <released></released>
+        <recorded></recorded>
+        <songLength></songLength>
+    </info>
     <lyrics>
         It's hard to walk through all the places that your life used to be in
         So you thought you'd shed a layer, maybe try on some new skin
@@ -55,5 +65,5 @@
         
         We started with psychodrama...
     </lyrics>
-</root>
+</song>
 
