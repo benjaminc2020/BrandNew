@@ -1,37 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root><title>"Jaws Theme Swimming"</title>
+<root>
+    <title>"Jaws Theme Swimming"</title>
 
-<lyrics>In a car outside, we stalk the idle kind
-If you're leaving, just let me know
-Tobacco and peppermint, dusting for fingerprints
-A film in her eyes from the glow
+    <lyrics>
 
-Some rules are made with all intentions to break
-And she defends it with a warped rationale
-And I've seen what happens to the wicked and proud
-When they decide to try to take on the throne for the crown
+        <verse n="1">
+            <line>In a car outside, we stalk the idle kind</line>
+            <line>If you're leaving, just let me know</line>
+            <line>Tobacco and peppermint, dusting for fingerprints</line>
+            <line>A film in her eyes from the glow</line>
 
-[Chorus:]
-And we learn as we age
-We've learned nothing and my body still aches
-And you take cause they give
-Though I love you and my body it leaks like a sieve
+            <line>Some rules are made with all intentions to break</line>
+            <line>And she defends it with a warped rationale</line>
+            <line>And I've seen what happens to the wicked and proud</line>
+            <line>When they decide to try to take on the throne for the crown</line>
+        </verse>
 
-When it got cold outside, smoke beneath the playground lights
-If you're coming home, just let me know
-Sucking on your breath mint, dissected and stuck with pins
-A film in her eyes from the glow
+        <chorus>
+            <line>And we learn as we age</line>
+            <line>We've learned nothing and my body still aches</line>
+            <line>And you take cause they give</line>
+            <line>Though I love you and my body it leaks like a sieve</line>
+        </chorus>
 
-Concrete and water, she's looking for her daughter
-At midnight in torrential downpour
-And everything I said about how messed your head is
-Was cut up and left in bits and pieces on the cutting room floor
+        <verse n="2">
+            <line>When it got cold outside, smoke beneath the playground lights</line>
+            <line>If you're coming home, just let me know</line>
+            <line>Sucking on your breath mint, dissected and stuck with pins</line>
+            <line>A film in her eyes from the glow</line>
 
-[Chorus x2]
+            <line>Concrete and water, she's looking for her daughter</line>
+            <line>At midnight in torrential downpour</line>
+            <line>And everything I said about how messed your head is</line>
+            <line>Was cut up and left in bits and pieces on the cutting room floor</line>
+        </verse>
 
-Take the picture from the wall when you think that nothing matters
-Take the picture from the plane and it's a long ways to the floor
-Cut your finger on the edge cause it's sharper than they told you
-Take a leap from out the window cause it's way too far to go through the door
+        <chorus>
+            <line>And we learn as we age</line>
+            <line>We've learned nothing and my body still aches</line>
+            <line>And you take cause they give</line>
+            <line>Though I love you and my body it leaks like a sieve</line>
+        </chorus>
 
-[Chorus]</lyrics></root>
+        <chorus>
+            <line>And we learn as we age</line>
+            <line>We've learned nothing and my body still aches</line>
+            <line>And you take cause they give</line>
+            <line>Though I love you and my body it leaks like a sieve</line>
+        </chorus>
+
+
+        <bridge>
+            <line>Take the picture from the wall when you think that nothing matters</line>
+            <line>Take the picture from the plane and it's a long ways to the floor</line>
+            <line>Cut your finger on the edge cause it's sharper than they told you</line>
+            <line>Take a leap from out the window cause it's way too far to go through the
+                door</line>
+        </bridge>
+
+        <chorus>
+            <line>And we learn as we age</line>
+            <line>We've learned nothing and my body still aches</line>
+            <line>And you take cause they give</line>
+            <line>Though I love you and my body it leaks like a sieve</line>
+        </chorus>
+
+    </lyrics>
+</root>

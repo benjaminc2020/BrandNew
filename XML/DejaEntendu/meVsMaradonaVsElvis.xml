@@ -1,53 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root><title>"Me Vs. Maradona Vs. Elvis"</title>
+<root>
+    <title>"Me Vs. Maradona Vs. Elvis"</title>
 
-<lyrics>With one or two I get used to the room
-We go slow when we first make our moves
-By five or six bring you out to the car
-Number nine with my head on the bar
+    <lyrics>
+        <verse n="1">
+            <line>With one or two I get used to the room</line>
+            <line>We go slow when we first make our moves</line>
+            <line>By five or six bring you out to the car</line>
+            <line>Number nine with my head on the bar</line>
+        </verse>
 
-And it's sad, but true
-Out of cash and I.O.U's
+        <refrain>
+            <line>And it's sad, but true</line>
+            <line>Out of cash and I.O.U's</line>
+        </refrain>
 
-I've got desperate desires and unadmirable plans
-My tongue will taste of gin and malicious intent
-Bring you back to the bar
-Get you out of the cold
-A sober, straight face gets you out of your clothes
-And they're scared that we know
-All the crimes they'll commit
-Who they'll kiss before they get home
+        <verse n="2">
+            <line>I've got desperate desires and unadmirable plans</line>
+            <line>My tongue will taste of gin and malicious intent</line>
+            <line>Bring you back to the bar</line>
+            <line>Get you out of the cold</line>
+            <line>A sober, straight face gets you out of your clothes</line>
+            <line>And they're scared that we know</line>
+            <line>All the crimes they'll commit</line>
+            <line>Who they'll kiss before they get home</line>
+        </verse>
 
-I will lie awake
-Lie for fun and fake the way I hold you
-Let you fall for every empty word I say
+        <chorus>
+            <line>I will lie awake</line>
+            <line>Lie for fun and fake the way I hold you</line>
+            <line>Let you fall for every empty word I say</line>
+        </chorus>
 
-Barely conscious in the door where you stand
-Your eyes are fighting sleep while your mouth makes your demands
-You laugh at every word trying hard to be cute
-I almost feel sorry for what I'm going to do
-And your hair smells of smoke
-Who will cast the first stone?
-You can sin or spend the night all alone
+        <verse n="3">
+            <line>Barely conscious in the door where you stand</line>
+            <line>Your eyes are fighting sleep while your mouth makes your demands</line>
+            <line>You laugh at every word trying hard to be cute</line>
+            <line>I almost feel sorry for what I'm going to do</line>
+            <line>And your hair smells of smoke</line>
+            <line>Who will cast the first stone?</line>
+            <line>You can sin or spend the night all alone</line>
+        </verse>
 
-Brass buttons on your coat hold the cold
-In the shape of a heart that they cut out of stone
-You're using all your looks that you've thrown from the start
-If you let me have my way I swear I'll tear you apart
-'cause it's all you can be
-You're a drunk and you're scared
-It's ladies' night, all the girls drink for free
+        <verse n="4">
+            <line>Brass buttons on your coat hold the cold</line>
+            <line>In the shape of a heart that they cut out of stone</line>
+            <line>You're using all your looks that you've thrown from the start</line>
+            <line>If you let me have my way I swear I'll tear you apart</line>
+            <line>'cause it's all you can be</line>
+            <line>You're a drunk and you're scared</line>
+            <line>It's ladies' night, all the girls drink for free</line>
+        </verse>
 
-I will lie awake
-And lie for fun and fake the way I hold you
-Let you fall for every empty word I say
+        <chorus>
+            <line>I will lie awake</line>
+            <line>And lie for fun and fake the way I hold you</line>
+            <line>Let you fall for every empty word I say</line>
+        </chorus>
 
-I will lie awake
-And lie for fun and fake the way I hold you
-Let you fall for every empty word I say
+        <!--bb: guitar gets heavy.  instrumental for a bit -->
 
-I will lie awake
-And lie for fun and fake the way I hold you
-Let you fall for every empty word I say </lyrics>
+        <chorus>
+            <line>I will lie awake</line>
+            <line>And lie for fun and fake the way I hold you</line>
+            <line>Let you fall for every empty word I say</line>
+        </chorus>
 
+        <chorus>
+            <line>I will lie awake</line>
+            <line>And lie for fun and fake the way I hold you</line>
+            <line>Let you fall for every empty word I say</line>
+        </chorus>
+    </lyrics>
 </root>

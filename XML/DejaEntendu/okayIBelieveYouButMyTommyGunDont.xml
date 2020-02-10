@@ -1,81 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root><title>"Okay I Believe You, But My Tommy Gun Don't"</title>
+<root>
+    <title>"Okay I Believe You, But My Tommy Gun Don't"</title>
 
-<lyrics>I am heaven sent,
-Don't you dare forget.
-I am all you've ever wanted,
-What all the other boys all promised.
-Sorry I told. I just needed you to know.
-I think in decimals and dollars.
-I am the cause to all your problems,
-Shelter from cold. we are never alone.
-Coordinate brain and mouth.
-Then ask me whats it like to have
-Myself so figured out.
-I wish I knew..
+    <lyrics>
+        <verse n="1">
+            <line>I am heaven sent,</line>
+            <line>Don't you dare forget.</line>
+            <line>I am all you've ever wanted,</line>
+            <line>What all the other boys all promised.</line>
+            <line>Sorry I told. I just needed you to know.</line>
+            <line>I think in decimals and dollars.</line>
+            <line>I am the cause to all your problems,</line>
+            <line>Shelter from cold. we are never alone.</line>
+            <line>Coordinate brain and mouth.</line>
+            <line>Then ask me whats it like to have</line>
+            <line>Myself so figured out.</line>
+            <line>I wish I knew..</line>
+        </verse>
 
-I hope this song starts a craze.
-The kind of song that ignites the airwaves.
-The kind of song that makes people glad
-To be where they are,
-With whomever they're there with.
-This is war.
-Every line is about,
-Who I don't wanna write about anymore.
-Hope you come down with something
-They can't diagnose, don't have the cure for.
-Holding on to your grudge.
-Oh its so hard to have someone to love.
-And keeping quiet is hard.
-Cause you cant keep a secret
-If it never was a secret to start.
-At least pretend you didn't wanna get caught..
+        <verse n="2">
+            <line>I hope this song starts a craze.</line>
+            <line>The kind of song that ignites the airwaves.</line>
+            <line>The kind of song that makes people glad</line>
+            <line>To be where they are,</line>
+            <line>With whomever they're there with.</line>
+            <line>This is war.</line>
+            <line>Every line is about,</line>
+            <line>Who I don't wanna write about anymore.</line>
+            <line>Hope you come down with something</line>
+            <line>They can't diagnose, don't have the cure for.</line>
+            <line>Holding on to your grudge.</line>
+            <line>Oh its so hard to have someone to love.</line>
+            <line>And keeping quiet is hard.</line>
+            <line>Cause you cant keep a secret</line>
+            <line>If it never was a secret to start.</line>
+            <line>At least pretend you didn't wanna get caught..</line>
+        </verse>
 
-We're concentrating on falling apart.
-We were contenders, we're throwing the fight
-But I just wanna believe, I just wanna believe,
-I just wanna believe, in us.
+        <chorus>
+            <line>We're concentrating on falling apart.</line>
+            <line>We were contenders, we're throwing the fight</line>
+            <line>But I just wanna believe, I just wanna believe,</line>
+            <line>I just wanna believe, in us.</line>
+        </chorus>
 
-Oh, we're so c-c-c-c-c-controversial.
-We are entirely smooth.
-We admit to the truth,
-We are the best at what we do.
-And these are the words you wish you wrote down.
-This is the way you wish your voice sounds,
-Handsome and smart.
-Oh my tongue's the only muscle on my body
-That works harder than my heart.
-And its all from watching TV,
-And from speeding up my breathing.
-Wouldn't stop if I could.
-Oh it hurts to be this good.
-You're holding on to your grudge.
-Oh it hurts to always have to be honest
-With the one that you love.
-Oh, so let it go..
+        <verse n="3">
+            <line>Oh, we're so c-c-c-c-c-controversial.</line>
+            <line>We are entirely smooth.</line>
+            <line>We admit to the truth,</line>
+            <line>We are the best at what we do.</line>
+            <line>And these are the words you wish you wrote down.</line>
+            <line>This is the way you wish your voice sounds,</line>
+            <line>Handsome and smart.</line>
+            <line>Oh my tongue's the only muscle on my body</line>
+            <line>That works harder than my heart.</line>
+            <line>And its all from watching TV,</line>
+            <line>And from speeding up my breathing.</line>
+            <line>Wouldn't stop if I could.</line>
+            <line>Oh it hurts to be this good.</line>
+            <line>You're holding on to your grudge.</line>
+            <line>Oh it hurts to always have to be honest</line>
+            <line>With the one that you love.</line>
+            <line>Oh, so let it go..</line>
+        </verse>
 
-We're concentrating on falling apart.
-We were contenders, we're throwing the fight
-But I just wanna believe, I just wanna believe,
-I just wanna believe.
-We're concentrating on falling apart.
-We were contenders, we're throwing the fight
-But I just wanna believe, I just wanna believe,
-I just wanna believe, in us.
+        <chorus>
+            <line>We're concentrating on falling apart.</line>
+            <line>We were contenders, we're throwing the fight</line>
+            <line>But I just wanna believe, I just wanna believe,</line>
+            <line>I just wanna believe.</line>
+            <line>We're concentrating on falling apart.</line>
+            <line>We were contenders, we're throwing the fight</line>
+            <line>But I just wanna believe, I just wanna believe,</line>
+            <line>I just wanna believe, in us.</line>
+        </chorus>
 
-This is the grace that only we can bestow.
-This is the price you pay for loss of control.
-This is the break in the bend,
-This is the closest of calls.
-This is the reason you're alone,
-This is the rise and the fall.
+        <!--bb: Instrumental -->
 
-We're concentrating on falling apart.
-We were contenders, we're throwing the fight
-But I just wanna believe, I just wanna believe,
-I just wanna believe.
-We're concentrating on falling apart.
-We were contenders, we're throwing the fight
-But I just wanna believe, I just wanna believe,
-I just wanna believe, in us. </lyrics>
+        <bridge>
+            <line>This is the grace that only we can bestow.</line>
+            <line>This is the price you pay for loss of control.</line>
+            <line>This is the break in the bend,</line>
+            <line>This is the closest of calls.</line>
+            <line>This is the reason you're alone,</line>
+            <line>This is the rise and the fall.</line>
+        </bridge>
+
+        <chorus>
+            <line>We're concentrating on falling apart.</line>
+            <line>We were contenders, we're throwing the fight</line>
+            <line>But I just wanna believe, I just wanna believe,</line>
+            <line>I just wanna believe.</line>
+            <line>We're concentrating on falling apart.</line>
+            <line>We were contenders, we're throwing the fight</line>
+            <line>But I just wanna believe, I just wanna believe,</line>
+            <line>I just wanna believe, in us. </line>
+        </chorus>
+
+    </lyrics>
 </root>

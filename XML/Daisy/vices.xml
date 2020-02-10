@@ -2,70 +2,96 @@
 <root>
     <title>Vices</title>
     <lyrics>
-        "Far away from any road,
-        Roams my heart in solitude,
-        Where no passer-by can see,
-        On life's highway, God, with Thee,
-        
-        Knowing when all else doth fail,
-        Thy compassion shall prevail.
-        Father, with Thee let me be,
-        On life's highway, God, with Thee."
-        
-        We need vices (oh),
-        We need vices (oh),
-        Where's all my hope and my marriage license,
-        (where's my head?)
-        
-        Those days are dead
-        (forgive me)
-        Those days are dead
-        (forgive me)
-        Those days are dead
-        (forgive me)
-        We need vices at fifty thousand degrees
-        
-        She said goodbye to the ground
-        She said goodbye to the ground
-        She said goodbye to the ground
-        And jumped
-        
-        I got creative (oh no),
-        To try to kill the major,
-        Where is my trigger?
-        My mind eraser
-        (we sing that so subtle...)
-        
-        And that forest burned
-        (you see smoke...)
-        That forest burned
-        (a halo...)
-        That forest burned
-        (a halo...)
-        We need ten years, everyone, so we can return
-        
-        She said goodbye to the ground
-        She said goodbye to the ground
-        She said goodbye to the ground
-        She said goodbye to the ground
-        She said goodbye to the ground
-        And jumped
-        
-        We need vices (oh),
-        We need vices (oh),
-        We have neither the plans nor the disguises
-        
-        'Cause those days are dead
-        (forgive me)
-        'Cause those days are dead
-        (forgive me)
-        'Cause those days are dead
-        (forgive me)
-        We need vices to wave to the good old days
-        
-        She said goodbye to the ground
-        She said goodbye to the ground
-        She said goodbye to the ground
-        And jumped
+
+        <!--bb: this opens with an old piano and a sampled female vocalist-->
+
+        <intro>
+            <line>"Far away from any road,</line>
+            <line>Roams my heart in solitude,</line>
+            <line>Where no passer-by can see,</line>
+            <line>On life's highway, God, with Thee,</line>
+
+            <line>Knowing when all else doth fail,</line>
+            <line>Thy compassion shall prevail.</line>
+            <line>Father, with Thee let me be,</line>
+            <line>On life's highway, God, with Thee."</line>
+        </intro>
+
+        <!--bb: instrumentation gets fucking heavy -->
+
+        <verse n="1">
+            <line>We need vices (oh),</line>
+            <line>We need vices (oh),</line>
+            <line>Where's all my hope and my marriage license,</line>
+            <line>(where's my head?)</line>
+        </verse>
+
+        <preChorus n="1">
+            <line>Those days are dead</line>
+            <line>(forgive me)</line>
+            <line>Those days are dead</line>
+            <line>(forgive me)</line>
+            <line>Those days are dead</line>
+            <line>(forgive me)</line>
+            <line>We need vices at fifty thousand degrees</line>
+        </preChorus>
+
+        <chorus n="1">
+            <line>She said goodbye to the ground</line>
+            <line>She said goodbye to the ground</line>
+            <line>She said goodbye to the ground</line>
+            <line>And jumped</line>
+        </chorus>
+
+        <verse n="2">
+            <line>I got creative (oh no),</line>
+            <line>To try to kill the major,</line>
+            <line>Where is my trigger?</line>
+            <line>My mind eraser</line>
+            <line>(we sing that so subtle...)</line>
+        </verse>
+
+        <preChorus n="2">
+            <line>And that forest burned</line>
+            <line>(you see smoke...)</line>
+            <line>That forest burned</line>
+            <line>(a halo...)</line>
+            <line>That forest burned</line>
+            <line>(a halo...)</line>
+            <line>We need ten years, everyone, so we can return</line>
+        </preChorus>
+
+        <chorus n="2">
+            <line>She said goodbye to the ground</line>
+            <line>She said goodbye to the ground</line>
+            <line>She said goodbye to the ground</line>
+            <line>She said goodbye to the ground</line>
+            <line>She said goodbye to the ground</line>
+            <line>And jumped</line>
+        </chorus>
+
+        <verse n="3">
+            <line>We need vices (oh),</line>
+            <line>We need vices (oh),</line>
+            <line>We have neither the plans nor the disguises</line>
+        </verse>
+
+        <preChorus n="3">
+            <line>'Cause those days are dead</line>
+            <line>(forgive me)</line>
+            <line>'Cause those days are dead</line>
+            <line>(forgive me)</line>
+            <line>'Cause those days are dead</line>
+            <line>(forgive me)</line>
+            <line>We need vices to wave to the good old days</line>
+        </preChorus>
+
+        <chorus n="1">
+            <line>She said goodbye to the ground</line>
+            <line>She said goodbye to the ground</line>
+            <line>She said goodbye to the ground</line>
+            <line>And jumped</line>
+        </chorus>
+
     </lyrics>
 </root>

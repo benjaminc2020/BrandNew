@@ -1,52 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root><title>"Me Vs. Maradona Vs. Elvis"</title>
+<root>
+    <title>"Guernica"</title>
 
-<lyrics>With one or two I get used to the room
-We go slow when we first make our moves
-By five or six bring you out to the car
-Number nine with my head on the bar
+    <lyrics>
+        <verse n="1">
+            <line>Ever since I was young your word is the word that always won</line>
+            <line>Worry and wake the ones you love</line>
+            <line>A phone call I'd rather not receive</line>
+            <line>Please use my body while I sleep</line>
+            <line>My lungs are fresh and yours to keep</line>
+            <line>Kept clean and they will let you breathe</line>
+        </verse>
 
-And it's sad, but true
-Out of cash and I.O.U's
+        <preChorus n="1">
+            <line>Is this the way a toy feels when its batteries run dry?</line>
+            <line>I am the watch you always wear, but you forget to wind</line>
+        </preChorus>
 
-I've got desperate desires and unadmirable plans
-My tongue will taste of gin and malicious intent
-Bring you back to the bar
-Get you out of the cold
-A sober, straight face gets you out of your clothes
-And they're scared that we know
-All the crimes they'll commit
-Who they'll kiss before they get home
+        <chorus>
+            <line>Nobody plans to be half a world away at times like these</line>
+            <line>So I sat alone and waited out the night</line>
+            <line>The best part of what has happened was the part I must have missed</line>
+            <line>So I'm asking you to shine it on and stick around</line>
+            <line>I'm not writing my goodbyes</line>
+        </chorus>
 
-I will lie awake
-Lie for fun and fake the way I hold you
-Let you fall for every empty word I say
+        <verse n="2">
+            <line>I submit no excuse</line>
+            <line>If this is what I have to do</line>
+            <line>I owe you every day I wake</line>
+            <line>If I could I would shrink myself</line>
+            <line>And sink through your skin to your blood cells</line>
+            <line>And remove whatever makes you hurt but</line>
+            <line>I am too weak to be your cure</line>
+        </verse>
 
-Barely conscious in the door where you stand
-Your eyes are fighting sleep while your mouth makes your demands
-You laugh at every word trying hard to be cute
-I almost feel sorry for what I'm going to do
-And your hair smells of smoke
-Who will cast the first stone?
-You can sin or spend the night all alone
+        <preChorus n="1">
+            <line>Is this the way a toy feels when its batteries run dry?</line>
+            <line>I am the watch you always wear, but you forget to wind</line>
+        </preChorus>
 
-Brass buttons on your coat hold the cold
-In the shape of a heart that they cut out of stone
-You're using all your looks that you've thrown from the start
-If you let me have my way I swear I'll tear you apart
-'cause it's all you can be
-You're a drunk and you're scared
-It's ladies' night, all the girls drink for free
+        <chorus>
+            <line>Nobody plans to be half a world away at times like these</line>
+            <line>So I sat alone and waited out the night</line>
+            <line>The best part of what has happened was the part I must have missed</line>
+            <line>So I'm asking you to shine it on and stick around</line>
+            <line>I'm not writing my goodbyes</line>
+        </chorus>
 
-I will lie awake
-And lie for fun and fake the way I hold you
-Let you fall for every empty word I say
+        <!--bb: screamed-->
 
-I will lie awake
-And lie for fun and fake the way I hold you
-Let you fall for every empty word I say
+        <bridge>
+            <line>I'm not letting you check out</line>
+            <line>You will beat this, starting now</line>
+            <line>And you will always be around</line>
+            <line>I'm there to monitor your breathing</line>
+            <line>I will watch you while you're sleeping</line>
+            <line>I will keep you safe and sound</line>
+        </bridge>
 
-I will lie awake
-And lie for fun and fake the way I hold you
-Let you fall for every empty word I say</lyrics> </root>
+        <preChorus n="2">
+            <line>Does anybody remember back when you were very young?</line>
+            <line>Did you ever think that you would be this blessed?</line>
+        </preChorus>
 
+        <chorus>
+            <line>Nobody plans to be half a world away at times like these</line>
+            <line>So I sat alone and waited out the night</line>
+            <line>The best part of what has happened was the part I must have missed</line>
+            <line>So I'm asking you to shine it on and stick around</line>
+            <line>I'm not writing my goodbyes</line>
+        </chorus>
+    </lyrics>
+</root>
