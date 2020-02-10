@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
+<song>
     
-<title>Degausser</title>
+    <info>
+        <title>Degausser</title>
+        <album></album>
+        <tempo></tempo>
+        <key></key>
+        <songWriter></songWriter>
+        <composer></composer>
+        <producer></producer>
+        <label>Interscope</label>
+        <released></released>
+        <recorded></recorded>
+        <songLength></songLength>
+    </info>
     
 <lyrics>[Verse 1]
 Goodbye to sleep
@@ -78,4 +90,4 @@ No matter what they say, I am still the king
 Now, the storm is coming
 The storm is coming in
 </lyrics>
-</root>
+</song>
