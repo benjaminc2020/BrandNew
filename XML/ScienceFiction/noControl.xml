@@ -2,61 +2,60 @@
 <song>
     <info>
         <title>No Control</title>
-        <album></album>
-        <tempo></tempo>
-        <key></key>
-        <songWriter></songWriter>
-        <composer></composer>
-        <producer></producer>
-        <label></label>
-        <released></released>
-        <recorded></recorded>
-        <songLength></songLength>
+        <album>Science Fiction</album>
+        <tempo/>
+        <key/>
+        <songWriter/>
+        <composer/>
+        <producer>Mike Sapone</producer>
+        <label>Procrastinate! Music Traitors</label>
+        <released>2017-17-08</released>
+        <recorded from="2014" to="2014">2014</recorded>
+        <songLength/>
     </info>
     <lyrics>
-        In the end, we weren't much
-        With the hollow space
-        Shrank down inside of all of us
-        For the good
-        Of all men
-        Hold me down
-        Underwater and don't let me up again
-        
-        No control
-        No control
-        No control
-        No control
-        
-        Be for someone else
-        Love is in your actions (yeah!)
-        I got a job
-        So let me find 10 million distractions
-        Some get sick
-        Some don't get cured
-        That's how it goes
-        But the worst is over
-        Chum and throw me overboard
-        
-        No control (I thought I knew the way out but then)
-        No control (It started over again)
-        No control (I hear your voice coming through the grey)
-        No control ("Run away")
-        
-        Holding the mic to this pillar of salt
-        She won't sing anything at all
-        Kiss me once on each eyelid
-        So I can see how I dreamed it
-        
-        No control
-        No control
-        No control
-        No control
-        No control (I thought I knew the way out but then)
-        No control (It started over again)
-        No control (I hear your voice coming through the grey)
-        No control ("Run away")
-        
-        Evil laugh
+        <line>In the end, we weren't much</line>
+        <line>With the hollow space</line>
+        <line>Shrank down inside of all of us</line>
+        <line>For the good</line>
+        <line>Of all men</line>
+        <line>Hold me down</line>
+        <line>Underwater and don't let me up again</line>
+
+        <line>No control</line>
+        <line>No control</line>
+        <line>No control</line>
+        <line>No control</line>
+
+        <line>Be for someone else</line>
+        <line>Love is in your actions (yeah!)</line>
+        <line>I got a job</line>
+        <line>So let me find 10 million distractions</line>
+        <line>Some get sick</line>
+        <line>Some don't get cured</line>
+        <line>That's how it goes</line>
+        <line>But the worst is over</line>
+        <line>Chum and throw me overboard</line>
+
+        <line>No control (I thought I knew the way out but then)</line>
+        <line>No control (It started over again)</line>
+        <line>No control (I hear your voice coming through the grey)</line>
+        <line>No control ("Run away")</line>
+
+        <line>Holding the mic to this pillar of salt</line>
+        <line>She won't sing anything at all</line>
+        <line>Kiss me once on each eyelid</line>
+        <line>So I can see how I dreamed it</line>
+
+        <line>No control</line>
+        <line>No control</line>
+        <line>No control</line>
+        <line>No control</line>
+        <line>No control (I thought I knew the way out but then)</line>
+        <line>No control (It started over again)</line>
+        <line>No control (I hear your voice coming through the grey)</line>
+        <line>No control ("Run away")</line>
+
+        <line>Evil laugh</line>
     </lyrics>
 </song>
-

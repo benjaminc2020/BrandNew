@@ -2,73 +2,72 @@
 <song>
     <info>
         <title>In The Water</title>
-        <album></album>
-        <tempo></tempo>
-        <key></key>
-        <songWriter></songWriter>
-        <composer></composer>
-        <producer></producer>
-        <label></label>
-        <released></released>
-        <recorded></recorded>
-        <songLength></songLength>
+        <album>Science Fiction</album>
+        <tempo/>
+        <key/>
+        <songWriter/>
+        <composer/>
+        <producer>Mike Sapone</producer>
+        <label>Procrastinate! Music Traitors</label>
+        <released>2017-17-08</released>
+        <recorded from="2014" to="2014">2014</recorded>
+        <songLength/>
     </info>
     <lyrics>
-        In the water, they sort it out
-        They were waist to neck in December somehow
-        In the water, they twist and shout
-        They were born again, so they can start living now
-        In the water, they saw the face
-        Of the man who once owned it, ashamed and disgraced
-        In the water, they asked them both
-        "How did you get the gold without digging any holes?"
-        
-        Never had it any other way
-        Drowning in the praise
-        Never had a chance to break apart
-        Hard for them to see
-        What's really in this place, now
-        
-        "Hide your daughters", the old men say
-        You were young once before, you know how we get our way
-        Feel the horror with no delay
-        We all see what once was beautiful has turned and old and grey
-        
-        Never had it any other way
-        Drowning in the praise
-        Never had a chance to break apart
-        Hard for them to see
-        It's really a disgrace
-        
-        I can't think it enough
-        Can't say it enough
-        Can't do it enough
-        I can't make it enough
-        Can't fake it enough
-        I don't want it enough
-        So everyone'll wait
-        
-        Never had it any other way
-        Drowning in the grace
-        Never had a chance to break apart
-        Hard for them to see
-        It's really in its place
-        
-        I can't say it enough
-        Can't sing it enough
-        So I'll find another way
-        
-        And we sing this morning that wonderful and grand ol' message
-        And I don't know about you, I never get tired of it
-        Numbe-
-        
-        The seven years
-        The seven years
-        The seven years
-        The seven years
-        The seven years
-        The seven years
-        The seven years
+        <line>In the water, they sort it out</line>
+        <line>They were waist to neck in December somehow</line>
+        <line>In the water, they twist and shout</line>
+        <line>They were born again, so they can start living now</line>
+        <line>In the water, they saw the face</line>
+        <line>Of the man who once owned it, ashamed and disgraced</line>
+        <line>In the water, they asked them both</line>
+        <line>"How did you get the gold without digging any holes?"</line>
+
+        <line>Never had it any other way</line>
+        <line>Drowning in the praise</line>
+        <line>Never had a chance to break apart</line>
+        <line>Hard for them to see</line>
+        <line>What's really in this place, now</line>
+
+        <line>"Hide your daughters", the old men say</line>
+        <line>You were young once before, you know how we get our way</line>
+        <line>Feel the horror with no delay</line>
+        <line>We all see what once was beautiful has turned and old and grey</line>
+
+        <line>Never had it any other way</line>
+        <line>Drowning in the praise</line>
+        <line>Never had a chance to break apart</line>
+        <line>Hard for them to see</line>
+        <line>It's really a disgrace</line>
+
+        <line>I can't think it enough</line>
+        <line>Can't say it enough</line>
+        <line>Can't do it enough</line>
+        <line>I can't make it enough</line>
+        <line>Can't fake it enough</line>
+        <line>I don't want it enough</line>
+        <line>So everyone'll wait</line>
+
+        <line>Never had it any other way</line>
+        <line>Drowning in the grace</line>
+        <line>Never had a chance to break apart</line>
+        <line>Hard for them to see</line>
+        <line>It's really in its place</line>
+
+        <line>I can't say it enough</line>
+        <line>Can't sing it enough</line>
+        <line>So I'll find another way</line>
+
+        <line>And we sing this morning that wonderful and grand ol' message</line>
+        <line>And I don't know about you, I never get tired of it</line>
+        <line>Numbe-</line>
+
+        <line>The seven years</line>
+        <line>The seven years</line>
+        <line>The seven years</line>
+        <line>The seven years</line>
+        <line>The seven years</line>
+        <line>The seven years</line>
+        <line>The seven years</line>
     </lyrics>
 </song>
-

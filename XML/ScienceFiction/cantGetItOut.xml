@@ -1,64 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<>
+<song>
     <info>
         <title>Can't Get It Out</title>
-        <album></album>
-        <tempo></tempo>
-        <key></key>
-        <songWriter></songWriter>
-        <composer></composer>
-        <producer></producer>
-        <label></label>
-        <released></released>
-        <recorded></recorded>
-        <songLength></songLength>
+        <album/>
+        <tempo/>
+        <key/>
+        <songWriter/>
+        <composer/>
+        <producer/>
+        <label/>
+        <released/>
+        <recorded/>
+        <songLength/>
     </info>
     <lyrics>
-        As we glide over whatever
-        We know to be over forever
-        I really hope the shame is less
-        For what we feel in times of stress
-        
-        But, I guess that's just depression
-        No sense in fighting it now
-        You had me caught in your headlights
-        You were running me down
-        
-        We speak in tongues and start to teethe
-        Lift your voice and scrape your knees
-        Kids in love will plant a seed
-        Resurrect and start to breathe
-        
-        I thought I was a creator
-        I'm here just hanging around
-        Got my messiah impression
-        I think I got it nailed down
-        
-        I want to tell you we're alright
-        Want to erase all your doubt
-        I've got this thorn dug in deeply
-        Sometimes I can't get it out
-        Sometimes I can't get it out
-        Sometimes I can't get it out
-        Sometimes I can't get it out
-        
-        I'm strumming with a heavy wrist
-        Were you one of the cured kids?
-        My shins burn for the replica youth
-        I hope that we can eject soon
-        
-        Because I don't want to surrender
-        Or lose your face in the crowd
-        I finally found all my courage
-        It was buried under the house
-        
-        Not just a manic depressive
-        Toting around my own cloud
-        I've got a positive message
-        Sometimes I can't get it out
-        Sometimes I can't get it out
-        Sometimes I can't get it out
-        Sometimes I can't get it out
-    </lyrics>
-</>
+        <line>As we glide over whatever</line>
+        <line>We know to be over forever</line>
+        <line>I really hope the shame is less</line>
+        <line>For what we feel in times of stress</line>
 
+        <line>But, I guess that's just depression</line>
+        <line>No sense in fighting it now</line>
+        <line>You had me caught in your headlights</line>
+        <line>You were running me down</line>
+
+        <line>We speak in tongues and start to teethe</line>
+        <line>Lift your voice and scrape your knees</line>
+        <line>Kids in love will plant a seed</line>
+        <line>Resurrect and start to breathe</line>
+
+        <line>I thought I was a creator</line>
+        <line>I'm here just hanging around</line>
+        <line>Got my messiah impression</line>
+        <line>I think I got it nailed down</line>
+
+        <line>I want to tell you we're alright</line>
+        <line>Want to erase all your doubt</line>
+        <line>I've got this thorn dug in deeply</line>
+        <line>Sometimes I can't get it out</line>
+        <line>Sometimes I can't get it out</line>
+        <line>Sometimes I can't get it out</line>
+        <line>Sometimes I can't get it out</line>
+
+        <line>I'm strumming with a heavy wrist</line>
+        <line>Were you one of the cured kids?</line>
+        <line>My shins burn for the replica youth</line>
+        <line>I hope that we can eject soon</line>
+
+        <line>Because I don't want to surrender</line>
+        <line>Or lose your face in the crowd</line>
+        <line>I finally found all my courage</line>
+        <line>It was buried under the house</line>
+
+        <line>Not just a manic depressive</line>
+        <line>Toting around my own cloud</line>
+        <line>I've got a positive message</line>
+        <line>Sometimes I can't get it out</line>
+        <line>Sometimes I can't get it out</line>
+        <line>Sometimes I can't get it out</line>
+        <line>Sometimes I can't get it out</line>
+    </lyrics>
+</song>

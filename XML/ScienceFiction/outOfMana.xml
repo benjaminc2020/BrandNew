@@ -2,86 +2,85 @@
 <song>
     <info>
         <title>Out of Mana</title>
-        <album></album>
-        <tempo></tempo>
-        <key></key>
-        <songWriter></songWriter>
-        <composer></composer>
-        <producer></producer>
-        <label></label>
-        <released></released>
-        <recorded></recorded>
-        <songLength></songLength>
+        <album>Science Fiction</album>
+        <tempo/>
+        <key/>
+        <songWriter/>
+        <composer/>
+        <producer>Mike Sapone</producer>
+        <label>Procrastinate! Music Traitors</label>
+        <released>2017-17-08</released>
+        <recorded from="2014" to="2014">2014</recorded>
+        <songLength/>
     </info>
     <lyrics>
-        First write down all of your fears
-        Then sweep the feathers you've preened
-        Next you should dominate
-        All the quests everyone said were too hard
-        Unless you go back to sleep
-        
-        Don't back out
-        Or we'll back down
-        I want you to know
-        If you feel ready to go
-        I can read the rest to myself
-        Hell is digital
-        You're smashed to smithereens
-        
-        We've filled out all of the forms
-        Translated all of our dreams
-        Freed love and perfected every inch
-        Weeknights down at the gym
-        Took every thing that we pleased
-        
-        Don't crack up
-        Don't lose touch
-        I want you to know
-        If you feel ready to go
-        I can read the rest to myself
-        Hell is digital
-        You'll pray to pieces
-        
-        I'll break and create life
-        All praise player one
-        Infinite lives, in time will come up
-        
-        Did we build Babel together
-        Jibber jabber, changing colors
-        Aliens talking to airplanes
-        Every time the place is the same
-        Hope we can do this forever
-        
-        Don't back out
-        Or we'll back down
-        I want you to know
-        If you feel ready to go
-        I can read the rest to myself
-        Hell is digital
-        You're smashed to smithereens
-        
-        Don't back out
-        Or we'll back down
-        I want you to know
-        If you feel ready to go
-        I can read the rest to myself
-        Heaven's digital
-        You burn to little bits
-        I'm psycho
-        Can you know this?
-        
-        I have to go
-        I want to say I'm in love with you
-        And I'm more than the skin of my teeth
-        I digress
-        I am a mess, I'm in love with you
-        I will go without water or sleep
-        I'm a ghost
-        I can't say I know that I'm even here
-        Or is this some eternal test
-        Holy crow
-        I'll never know if it's more or less
-        No reset
+        <line>First write down all of your fears</line>
+        <line>Then sweep the feathers you've preened</line>
+        <line>Next you should dominate</line>
+        <line>All the quests everyone said were too hard</line>
+        <line>Unless you go back to sleep</line>
+
+        <line>Don't back out</line>
+        <line>Or we'll back down</line>
+        <line>I want you to know</line>
+        <line>If you feel ready to go</line>
+        <line>I can read the rest to myself</line>
+        <line>Hell is digital</line>
+        <line>You're smashed to smithereens</line>
+
+        <line>We've filled out all of the forms</line>
+        <line>Translated all of our dreams</line>
+        <line>Freed love and perfected every inch</line>
+        <line>Weeknights down at the gym</line>
+        <line>Took every thing that we pleased</line>
+
+        <line>Don't crack up</line>
+        <line>Don't lose touch</line>
+        <line>I want you to know</line>
+        <line>If you feel ready to go</line>
+        <line>I can read the rest to myself</line>
+        <line>Hell is digital</line>
+        <line>You'll pray to pieces</line>
+
+        <line>I'll break and create life</line>
+        <line>All praise player one</line>
+        <line>Infinite lives, in time will come up</line>
+
+        <line>Did we build Babel together</line>
+        <line>Jibber jabber, changing colors</line>
+        <line>Aliens talking to airplanes</line>
+        <line>Every time the place is the same</line>
+        <line>Hope we can do this forever</line>
+
+        <line>Don't back out</line>
+        <line>Or we'll back down</line>
+        <line>I want you to know</line>
+        <line>If you feel ready to go</line>
+        <line>I can read the rest to myself</line>
+        <line>Hell is digital</line>
+        <line>You're smashed to smithereens</line>
+
+        <line>Don't back out</line>
+        <line>Or we'll back down</line>
+        <line>I want you to know</line>
+        <line>If you feel ready to go</line>
+        <line>I can read the rest to myself</line>
+        <line>Heaven's digital</line>
+        <line>You burn to little bits</line>
+        <line>I'm psycho</line>
+        <line>Can you know this?</line>
+
+        <line>I have to go</line>
+        <line>I want to say I'm in love with you</line>
+        <line>And I'm more than the skin of my teeth</line>
+        <line>I digress</line>
+        <line>I am a mess, I'm in love with you</line>
+        <line>I will go without water or sleep</line>
+        <line>I'm a ghost</line>
+        <line>I can't say I know that I'm even here</line>
+        <line>Or is this some eternal test</line>
+        <line>Holy crow</line>
+        <line>I'll never know if it's more or less</line>
+        <line>No reset</line>
     </lyrics>
 </song>
-
