@@ -1,29 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>Last Chance To Lose Your Keys</title>
+<song>
+    <info>
+        <title>Last Chance To Lose Your Keys</title>
+        <album>Your Favorite Weapon</album>
+        <tempo meas="BPM"></tempo>
+        <key></key>
+        <songWriter>Jesse Lacey</songWriter>
+        <composer>Jesse Lacey</composer>
+        <producer>Mike Sapone</producer>
+        <label>Triple Crown</label>
+        <released>2001-10-09</released>
+        <recorded from="2001" to="2001">2001</recorded>
+        <songLength></songLength>
+        
+    </info>
     <lyrics>
-        I cashed in all my chips tonight and combed my hair till it was just right.
-        Cause I've been thinking about you and me girl, and we got something going on.
-        You told me you can't wait to see me and then you didn't bother to even show up.
-        This whole situation is incredibly typical, I should have seen it all along.
-        It's girls like you that make my think I'm better
-        off at home on a Saturday night with all my doors locked up tight.
-        I won't be thinking about you baby.
-        You call me on the phone, and you don't even want to talk.
-        You're staring at me from across the room then turn your back when I walk up.
-        We got inches away, and I never even got close.
-        So leave your lipstick at home.
-        Don't pick up the phone.
-        Don't bother to look in my direction.
-        I should have seen it all along.
-        It's girls like you that make me
-        think I'm better off home on a Saturday night with all my doors locked up tight.
-        I won't be thinking about you, baby.
-        Forget everything you think you know about me.
-        This isn't highschool
-        this isn't highschool
-        this isn't highschool
-        this isn't highschool
-        this isn't highschool...
+<line>I cashed in all my chips tonight and combed my hair till it was just right.</line>
+<line>Cause I've been thinking about you and me girl, and we got something going on.</line>
+<line>You told me you can't wait to see me and then you didn't bother to even show up.</line>
+<line>This whole situation is incredibly typical, I should have seen it all along.</line>
+<line>It's girls like you that make my think I'm better</line>
+<line>off at home on a Saturday night with all my doors locked up tight.</line>
+<line>I won't be thinking about you baby.</line>
+<line>You call me on the phone, and you don't even want to talk.</line>
+<line>You're staring at me from across the room then turn your back when I walk up.</line>
+<line>We got inches away, and I never even got close.</line>
+<line>So leave your lipstick at home.</line>
+<line>Don't pick up the phone.</line>
+<line>Don't bother to look in my direction.</line>
+<line>I should have seen it all along.</line>
+<line>It's girls like you that make me</line>
+<line>think I'm better off home on a Saturday night with all my doors locked up tight.</line>
+<line>I won't be thinking about you, baby.</line>
+<line>Forget everything you think you know about me.</line>
+<line>This isn't highschool</line>
+<line>this isn't highschool</line>
+<line>this isn't highschool</line>
+<line>this isn't highschool</line>
+<line>this isn't highschool...</line>
     </lyrics>
-</root>
+</song>

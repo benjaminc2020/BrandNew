@@ -19,16 +19,16 @@
             <verse n="1">
                 <line>Laetitia, you destroy me,</line>
                 <line>so I can't see why I feel so lonely</line>
-                <line>when you and me could be forever</line>
+                <line>when you and me could be <ref img="time">forever</ref></line>
                 <line>perfectly perfect together. I know.</line>
-                <line>Broken down in my dead bedroom,</line>
+                <line>Broken down in my dead <ref img="house">bedroom</ref>,</line>
                 <line>stuttering to pictures of you.</line>
                 <line>I know that you can always see me.</line>
                 <line>I saw you staring through my TV last night.</line>
             </verse>
         </intro>
         <chorus>
-            <line>So I'll leave the door open all night,</line>
+            <line>So I'll leave the <ref img="house">door</ref> open <ref img="time">all night</ref>,</line>
             <line>in case you decide you want to stop on by.</line>
             <line>Because you got to know who's been singing that song on the radio.</line>
             <line>The one that goes...(the one that goes...)</line>
@@ -44,7 +44,7 @@
             <line>that you and I will never really get it on.</line>
         </verse>
         <chorus>
-            <line>So I'll leave the door open all night,</line>
+            <line>So I'll leave the <ref img="house">door </ref>open <ref img="time">all night</ref>,</line>
             <line>in case you decide you want to stop on by.</line>
             <line>Because you got to know who's been singing that song on the radio.</line>
             <line>The one that goes...(the one that goes...)</line>
@@ -59,16 +59,16 @@
             <line>The only broken-hearted loser you'll ever need,</line>
             <line>or I'll be left alone forever with my magazines.</line>
         </chorus>
-        <verse n="3">
+        <chorus>
             <line>Girl, come to me.</line>
             <line>The only broken-hearted loser you'll ever need,</line>
             <line>or I'll be left alone forever with my magazines.</line>
-        </verse>
-        <verse n="4">
+        </chorus>
+        <chorus>
             <line>Girl, come to me.</line>
             <line>The only broken-hearted loser you'll ever need,</line>
             <line>or I'll be left alone forever…</line>
-        </verse>
+        </chorus>
         <outro>
             <line>Laetitia, you destroy me,</line>
             <line>so I can see why I feel so lonely</line>
