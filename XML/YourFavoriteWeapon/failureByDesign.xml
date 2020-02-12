@@ -20,14 +20,14 @@
         <intro>
             <verse n="1">
                 <line>Watch you on the ones and twos</line>
-                <line>Through a window in a well lit room</line>
+                <line>Through a window in a well lit <ref img="house">room</ref></line>
                 <line>Become a recluse</line>
                 <line>And I blame myself because I make things hard</line>
                 <line>And you're just trying to help</line>
                 <line>And when I wake up you're the first to call</line>
-                <line>This is one more late night basement song</line>
+                <line>This is one more late night <ref img="house">basement</ref> song</line>
                 <line>And I'm so sore</line>
-                <line>My voice has gone to hell</line>
+                <line>My voice has gone to <ref type="rel">hell</ref></line>
                 <!-- could hell be a rel ref? -->
                 <line>And this is one more sleepless night because</line>
             </verse></intro>
@@ -49,7 +49,7 @@
         </chorus>
         <verse n="2">
             <line>And we just want sleep</line>
-            <line>But this night is hell</line>
+            <line>But this night is <ref type="rel">hell</ref></line>
             <line>I'm sick and sunk and I blame myself</line>
             <line>Because I make things hard and you're just trying to help</line>
             <line>I got <ref img="car">no gas</ref> (no gas)</line>
