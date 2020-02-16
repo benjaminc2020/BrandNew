@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/albumSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <album>
+        <info>
+            <name>Your Favorite Weapon</name>
+            <noTracks>12</noTracks>
+            <length>00:41:27</length>
+            <recorded>2001</recorded>
+            <producer>Mike Sapone</producer>
+            <producer>Brand New</producer>
+            <studio>The Magic Shop Recording Studios<location>Manhattan, NY</location></studio>
+            <studio>Nada Studios<location>New Windsor, NY</location></studio>
+            <released>2001-09-10</released>
+            <single>Jude Law and a Semester Abroad<released>2002-11-11</released></single>
+            <origLabel>Triple Crown</origLabel>
+            <reRelease><label>Razor &amp; Tie</label> <year>2003</year></reRelease>
+            <reRelease><label>Procrastinate! Music Traitors </label><year>2011</year></reRelease>
+            <personnel>Jesse Lacey-Vocalist/Rhythm Guitar</personnel>
+            <personnel>Garrett Tierney-Bass</personnel>
+            <personnel>Vincent Accardi-Lead Guitar/Backing Vocals</personnel>
+            <personnel>Brian Lane-Drums/Percussion </personnel>
+        </info>
+        <trackListing>
+            <song n="1">The Shower Scene</song>
+            <song n="2">Jude Law and a Semester Abroad</song>
+            <song n="3">Sudden Death in Carolina</song>
+            <song n="4">Mix Tape</song>
+            <song n="5">Failure by Design</song>
+            <song n="6">Last Chance to Lose Your Keys</song>
+            <song n="7">Logan to Government Center</song>
+            <song n="8">The No Seatbelt Song</song>
+            <song n="9">Seventy Times 7</song>
+            <song n="10">Secondary</song>
+            <song n="11">Magazines</song>
+            <song n="12">Soco Amaretto Lime</song>
+        </trackListing>
+    </album>
+</xml>
