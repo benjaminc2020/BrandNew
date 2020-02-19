@@ -1,54 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
+<song>
     
-<title>Jesus Christ</title>
+    <title ref="#4-JC-3">Jesus Christ</title>
+    <album ref ="#4-TDAGARIM">The Devil And God Are Raging Inside Me</album>
+    <tempo meas="BPM">78.6</tempo>
+    <key>D</key>
+    <songWriter>Jesse Lacey</songWriter>
+    <composer>Jesse Lacey</composer>
+    <producer>Mike Sapone</producer>
+    <label>Interscope Records</label>
+    <released>2006-11-20</released>
+    <recorded from="2006" to="2006">2006</recorded>
+    <songLength>00:04:04</songLength>
     
 <lyrics>
-[Verse 1]
-Jesus Christ, that's a pretty face
-The kind you'd find on someone that could save
-If they don't put me away
-Well, it’ll be a miracle
-Do you believe you're missing out?
-That everything good is happening somewhere else
-But with nobody in your bed
-The night's hard to get through
-
-[Chorus 1]
-And I will die all alone
-And when I arrive I won’t know anyone
-
-[Verse 2]
-Well, Jesus Christ, I’m alone again
-So what did you do those three days you were dead?
-Because this problem's gonna last
-More than the weekend
-Well, Jesus Christ, I’m not scared to die
-But I’m a little bit scared of what comes after
-Do I get the gold chariot?
-Do I float through the ceiling?
-
-[Chorus 2]
-Do I divide and pull apart?
-'Cause my bright is too slight to hold back all my dark
-And this ship went down in sight of land
-And at the gates does Thomas ask to see my hands?
-
-[Bridge]
-I know you're coming in the night like a thief
-But I’ve had some time, O Lord, to hone my lying technique
-I know you think that I’m someone you can trust
-But I’m scared I’ll get scared and I swear I’ll try to nail you back up
-So do you think that we could work out a sign
-So I’ll know it's you and that it's over so I won't even try
-I know you're coming for the people like me
-But we all got wood and nails
-And we turn out hate in factories
-We all got wood and nails
-And we turn out hate in factories
-We all got wood and nails
-And we sleep inside of this machine
-
-[Outro]
+            [Verse 1]
+            Jesus Christ, that's a pretty face
+            The kind you'd find on someone that could save
+            If they don't put me away
+            Well, it’ll be a miracle
+            Do you believe you're missing out?
+            That everything good is happening somewhere else
+            But with nobody in your bed
+            The night's hard to get through
+            
+            [Chorus 1]
+            And I will die all alone
+            And when I arrive I won’t know anyone
+            
+            [Verse 2]
+            Well, Jesus Christ, I’m alone again
+            So what did you do those three days you were dead?
+            Because this problem's gonna last
+            More than the weekend
+            Well, Jesus Christ, I’m not scared to die
+            But I’m a little bit scared of what comes after
+            Do I get the gold chariot?
+            Do I float through the ceiling?
+            
+            [Chorus 2]
+            Do I divide and pull apart?
+            'Cause my bright is too slight to hold back all my dark
+            And this ship went down in sight of land
+            And at the gates does Thomas ask to see my hands?
+            
+            [Bridge]
+            I know you're coming in the night like a thief
+            But I’ve had some time, O Lord, to hone my lying technique
+            I know you think that I’m someone you can trust
+            But I’m scared I’ll get scared and I swear I’ll try to nail you back up
+            So do you think that we could work out a sign
+            So I’ll know it's you and that it's over so I won't even try
+            I know you're coming for the people like me
+            But we all got wood and nails
+            And we turn out hate in factories
+            We all got wood and nails
+            And we turn out hate in factories
+            We all got wood and nails
+            And we sleep inside of this machine
+            
+            [Outro]
 </lyrics>
-</root>
+</song>

@@ -2,17 +2,22 @@
 <song>
     
     <info>
-        <title>Degausser</title>
-        <album>The Devil And God Are Raging Inside Me</album>
-        <tempo></tempo>
-        <key></key>
-        <songWriter></songWriter>
-        <composer></composer>
-        <producer></producer>
+        <title ref="#3-D-4">Degausser</title>
+        <album ref="#3-TDAGARIM">The Devil And God Are Raging Inside Me</album>
+        <tempo bpm ="144"></tempo>
+        <key>G</key>
+        <songWriter>Vincent Accardi</songWriter>
+        <songWriter>Jesse Lacey</songWriter>
+        <songWriter>Brian Lane</songWriter>
+        <songWriter>Garrett Tierney</songWriter>
+        <composer>Vincent Accardi</composer>
+        <composer>Jesse Lacey</composer>
+        <composer>Brian Lane</composer>
+        <composer>Garrett Tierney</composer>
+        <producer>Brand New</producer>
+        <producer>Mike Sapone</producer>
         <label>Interscope</label>
-        <released></released>
-        <recorded></recorded>
-        <songLength></songLength>
+        <songLength>00:05:24</songLength>
     </info>
     
 <lyrics>[Verse 1]

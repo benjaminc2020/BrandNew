@@ -3,9 +3,9 @@
 <song>
     
    <info>
-        <title xml:id="ATB">At The Bottom</title>
-       <album>Daisy</album>
-        <tempo meas="BPM">78.6</tempo>
+        <title ref="#4-ATB-3">At The Bottom</title>
+       <album ref ="#4-D">Daisy</album>
+        <tempo bpm="BPM">78.6</tempo>
         <key>D</key>
         <songWriter>Jesse Lacey</songWriter>
         <songWriter>Vincent Accardi</songWriter>
