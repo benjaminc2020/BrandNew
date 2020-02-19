@@ -16,12 +16,12 @@
     </info>
     <lyrics>
         <verse n="1">
-            <line>Last night I swallowed liquor and a lighter and this morning I threw up
+            <line>Last night I swallowed <ref img="alcohol">liquor</ref> and a lighter and this <ref img="time">morning</ref> I threw up
                 fire.</line>
             <line>But it's nothing new. I've been piecing it together and it's got something to
                 do</line>
             <line>with every look thrown like a knife across a crowded room.</line>
-            <line>Every slow and quiet car ride I spent drinking in the backseat.</line>
+            <line>Every slow and quiet <ref img="car">car ride</ref> I spent <ref img="alcohol">drinking</ref> in the <ref img="car">backseat</ref>.</line>
             <line>Every stupid melody to every stupid song.</line>
             <line>And every stupid word that everybody's hanging on.</line>
         </verse>
@@ -35,8 +35,8 @@
         </chorus>
 
         <verse n="2">
-            <line>Last night I fell asleep next to a liar and I woke up with a shiner.</line>
-            <line>And it's all that I remember from a night spent lying on my back</line>
+            <line><ref img="time">Last night</ref> I fell asleep next to a liar and I woke up with a shiner.</line>
+            <line>And it's all that I remember from a <ref img="time">night</ref> spent lying on my back</line>
             <line>with a view of a stone white ceiling and the back of your head.</line>
             <line>This dark and quiet bed felt like the middle of nowhere.</line>
             <line>We beat each other up just like we always do.</line>

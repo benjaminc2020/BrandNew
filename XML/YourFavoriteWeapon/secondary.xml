@@ -16,10 +16,10 @@
     </info>
     <lyrics>
         <verse n="1">
-            <line>And it comes down to you.</line>
+            <line>And it <ref type="idiom">comes down to you</ref>.</line>
             <line>Never and ever.</line>
-            <line>Wrecked his day with looks and flirts</line>
-            <line>and midnight in your shortest skirts.</line>
+            <line>Wrecked his <ref img="time">day</ref> with looks and flirts</line>
+            <line>and <ref img="time">midnight</ref> in your shortest skirts.</line>
         </verse>
         <preChorus>
             <line>Past the point of trying, I'm a dying breed. </line>
@@ -28,34 +28,34 @@
         <chorus>
             <line>Stop these looks and letters.</line>
             <line>This isn't for the better.</line>
-            <line>You put me down...</line>
+            <line><ref type="idiom">You put me down</ref>...</line>
             <line>It's for the worse, you're not my girl.</line>
         </chorus>
         <verse n="2">
             <line>Stop the circulation to my legs and break my bones. </line>
-            <line>Dateless and late, I'm better by myself at home.</line>
+            <line>Dateless and <ref img="time">late</ref>, I'm better by myself at home.</line>
         </verse>
         <preChorus>
             <line>Past the point of trying, and I'm dying here.</line>
-            <line>Secondary. She laughs at every word I know came out completely wrong.</line>
+            <line><ref type="songTitle">Secondary</ref>. She laughs at every word I know came out completely wrong.</line>
         </preChorus>
         <chorus>
             <line>Stop these looks and letters.</line>
             <line>This isn't for the better.</line>
-            <line>You put me down...</line>
+            <line>You <ref type="idiom">put me down</ref>...</line>
             <line>It's for the worse, you're not my girl.</line>
         </chorus>
         <chorus>
             <line>Stop these looks and letters.</line>
             <line>This isn't for the better.</line>
-            <line>You put me down...</line>
+            <line>You <ref type="idiom">put me down</ref>...</line>
             <line>It's for the worse, you're not my girl.</line>
         </chorus>
         <bridge>
-            <line>And it's my last semester...</line>
+            <line>And it's my last <ref img="school">semester</ref>...</line>
             <line>And brothers always come first.</line>
-            <line>It's my last semester (It's my last semester)</line>
-            <line>At least until next winter. (At least until next winter}</line>
+            <line>It's my last <ref img="school">semester</ref> (It's my last <ref img="school">semester</ref>)</line>
+            <line>At least until next <ref img="season">winter</ref>. (At least until next winter}</line>
             <line>But I'm sure that I'll be over this by then.</line>
         </bridge>
         <preChorus>
@@ -65,17 +65,17 @@
         <chorus>
             <line>Stop these looks and letters.</line>
             <line>This isn't for the better.</line>
-            <line>You put me down...</line>
+            <line>You <ref type="idiom">put me down</ref>...</line>
             <line>It's for the worse, you're not my girl.</line>
         </chorus>
         <outro>
             <line>Better scenes... I wish she'd seen me.</line>
-            <line>Better off if I just let it be.</line>
+            <line><ref type="idiom">Better off</ref> if I just let it be.</line>
             <line>Better pretend it don't matter.</line>
-            <line>I'd be better off if I could have her.</line>
-            <line>Better days since the day I met her.</line>
+            <line>I'd be <ref type="idiom">better off</ref> if I could have her.</line>
+            <line>Better <ref img="time">days</ref> since the <ref img="time">day </ref>I met her.</line>
             <line>I better hope she got my letters.</line>
-            <line>Better off in two year stretches...</line>
+            <line>Better off in two <ref img="time">year</ref> stretches...</line>
         </outro>
     </lyrics>
 </song>

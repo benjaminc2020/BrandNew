@@ -38,7 +38,7 @@
             <line>But I folded and I told</line>
             <line>These aren't things I say to save me</line>
             <line>But I folded, I told</line>
-            <line>I hope she's caught in the explosion</line>
+            <line>I hope she's caught in the <ref img="fire">explosion</ref></line>
         </verse>
 
         <chorus>
@@ -51,9 +51,9 @@
             <line>It's time for you to choose</line>
             <line>It's time for you to choose</line>
             <line>the bullet or the chapstick</line>
-            <line>This is me in his room</line>
-            <line>This is me in his room</line>
-            <line>This is me in his room</line>
+            <line>This is me in his <ref img="house">room</ref></line>
+            <line>This is me in his <ref img="house">room</ref></line>
+            <line>This is me in his <ref img="house">room</ref></line>
         </bridge>
 
         <bridge>
@@ -64,10 +64,10 @@
         </bridge>
 
         <verse n="3">
-            <line>So I update this almost every single day for you</line>
+            <line>So I update this almost every single <ref img="time">day</ref> for you</line>
             <line>I begin to hate you for your face and not just the things you do</line>
             <line>Go tell him how my wrist is sore</line>
-            <line>from pulling at your insides all night</line>
+            <line>from pulling at your insides <ref img="time">all night</ref></line>
             <line>Nothing that you do is new to anything or anyone but you </line>
         </verse>
     </lyrics>

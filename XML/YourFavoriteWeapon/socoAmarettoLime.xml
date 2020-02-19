@@ -2,7 +2,7 @@
 <?xml-model href="../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <info>
-        <title>Soco Amaretto Lime</title>
+        <title><ref img="alcohol">Soco Amaretto Lime</ref></title>
         <album>Your Favorite Weapon</album>
         <tempo meas="BPM">96</tempo>
         <key>D Major</key>
@@ -16,23 +16,23 @@
     </info>
     <lyrics>
         <verse n="1">
-            <line>Passed out on the overpass</line>
-            <line>Sunday best and broken glass</line>
-            <line>Broken down from the bikes and bars</line>
-            <line>Suspended like spirits over speeding cars</line>
-            <line>You and me were kings over the parkway tonight</line>
-            <line>And tonight will go on forever while we</line>
+            <line>Passed out on the <ref img="car">overpass</ref></line>
+            <line><ref type="idiom"><ref type="rel"><ref img="time">Sunday</ref> best</ref></ref> and broken glass</line>
+            <line>Broken down from the bikes and <ref img="alcohol">bars</ref></line>
+            <line>Suspended like spirits over <ref img="car">speeding cars</ref></line>
+            <line>You and me were kings over the <ref img="car">parkway</ref> tonight</line>
+            <line>And <ref img="time">tonight</ref> will go on <ref img="time">forever</ref> while we</line>
             <line>walk around this town like we own the streets</line>
             <line>and stay awake through summer like we own the heat</line>
-            <line>Singing "everybody wake up (wake up) it's time to get down"</line>
-            <line>(everybody, everybody wake up its time to get down)</line>
-            <line>And when I pass the bottle back to Pete</line>
-            <line>on the overpass tonight, I bet we laugh</line>
+            <line>Singing "everybody wake up (wake up) it's <ref img="time">time</ref> to get down"</line>
+            <line>(everybody, everybody wake up its <ref img="time">time</ref> to get down)</line>
+            <line>And when I <ref img="alcohol">pass the bottle</ref> back to Pete</line>
+            <line>on the <ref img="car">overpass</ref> tonight, I bet we laugh</line>
         </verse>
 
         <chorus>
-            <line>I'm gonna stay eighteen forever (cut me open)</line>
-            <line>So we can stay like this forever (sun poisoned)</line>
+            <line>I'm gonna stay eighteen <ref img="time">forever</ref> (cut me open)</line>
+            <line>So we can stay like this <ref img="time">forever</ref> (sun poisoned)</line>
             <line>And we'll never miss a party (this offer...)</line>
             <line>cause we keep them going constantly (...stands forever)</line>
             <line>And we'll never have to listen (new haircut)</line>
@@ -40,12 +40,12 @@
             <line>cause it's all been done and it's all been said (eyeliner)</line>
             <line>we're the coolest kids and we take what we can get</line>
 
-            <line>The hell out of this town</line>
+            <line>The <ref type="rel">hell</ref> out of this town</line>
             <line>Find some conversation</line>
-            <line>The low fuel lights been on for days</line>
+            <line>The <ref img="car">low fuel lights</ref> been on for <ref img="time">days</ref></line>
             <line>It doesn't mean anything</line>
             <line>I've got another 500, 'nother 500 miles</line>
-            <line>before we shut this engine down,</line>
+            <line>before we shut this <ref img="car">engine</ref> down,</line>
             <line>we shut it down</line>
         </chorus>
 
@@ -65,15 +65,15 @@
             <line>Eighteen forever (first kisses)</line>
             <line>(your stomach's filled up but you're starved for conversation)</line>
             <line>So we can stay like this forever (new stitches)</line>
-            <line>(you're spending all your nights growing old in your bed)</line>
+            <line>(you're spending all your <ref img="time">nights</ref> growing old in your <ref img="bed">bed</ref>)</line>
             <line>And we'll never miss a party (collar weekend)</line>
             <line>(and your tearin up your photos cause you wanna forget... it's over)</line>
             <line>cause we keep them going constantly (appearance ticket)</line>
             <line>(you're just jealous cause I'm young and in love)</line>
-            <line>And we'll never have to listen (November to...)</line>
+            <line>And we'll never have to listen (<ref img="time">November</ref> to...)</line>
             <line>(your stomach's filled up but you're starved for conversation)</line>
             <line>to anyone about anything cause it's all been done (...remember)</line>
-            <line>(you're spending all your nights growing old in your bed)</line>
+            <line>(you're spending all your <ref img="time">nights</ref> growing old in your <ref img="bed">bed</ref>)</line>
             <line>and it's all been said (nightswimmers)</line>
             <line>(and your tearin up your photos cause you wanna forget... it's over)</line>
             <line>we're the coolest kids and we take what we can get</line>

@@ -15,29 +15,29 @@
         <songLength>00:03:34</songLength>
     </info>
     <lyrics>
-        <verse n="1"><line>Back in school they never taught us what we needed to know,</line>
-        <line>like how to deal with despair, or someone breaking your heart.</line>
-        <line>For twelve years I've held it all together but a night like this is begging to pull me
-            apart.</line>
+        <verse n="1"><line>Back in <ref img="school">school</ref> they never <ref img="school">taught</ref> us what we needed to know,</line>
+        <line>like how to deal with despair, or someone <ref type="idiom">breaking your heart</ref>.</line>
+        <line>For twelve <ref img="time">years</ref> I've <ref type="idiom">held it all together</ref> but a <ref img="time">night</ref> like this is begging to <ref type="idiom">pull me
+            apart</ref>.</line>
         <line>I played it quiet, left you deep in conversation.</line>
         <line>I felt uncool and hung out around the kitchen.</line>
         <line>I remember I kept thinking that I know you never would,</line>
         <line>and now I know I want to kill you like only a best friend could.</line>
 </verse>
         <chorus>
-            <line>Everyone's caught on to everything you do</line>
-            <line>Everyone's caught on to.</line>
+            <line>Everyone's <ref type="idiom">caught on</ref> to everything you do</line>
+            <line>Everyone's <ref type="idiom">caught on</ref> to.</line>
         </chorus>
 
         <verse n="2">
             <line>As if this happening wasn't enough I got to go</line>
             <line>and write a song just to remind myself how bad it sucked.</line>
             <line>Ignore the sun, the cover's over my head.</line>
-            <line>I wrote a message on my pillow that says, "Jesse, stay asleep in bed."</line>
+            <line>I wrote a message on my <ref img="bed">pillow</ref> that says, "<ref type="bandMember">Jesse</ref>, stay <ref img="bed">asleep in bed</ref>."</line>
             <line>So don't apologize. I hope you choke and die.</line>
-            <line>Search your cell for something with which to hang yourself.</line>
-            <line>They say you need to pray if you want to go to heaven</line>
-            <line>but they don't tell you what to say when your whole life has gone to hell.</line>
+            <line>Search your cell for something with which to <ref img="suicide">hang yourself</ref>.</line>
+            <line>They say you need to <ref type="rel">pray if you want to go to heaven</ref></line>
+            <line>but they don't tell you what to say when your whole life has gone to <ref type="rel">hell</ref>.</line>
         </verse>
 
         <chorus>
