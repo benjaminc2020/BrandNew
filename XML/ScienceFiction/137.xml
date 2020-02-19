@@ -15,12 +15,12 @@
     </info>
     <lyrics>
         <verse>
-            <line>Under the ocean</line>
-            <line>Next to a boiling vent</line>
-            <line>He's none the wiser</line>
+            <line>Under the <ref img="water">ocean</ref></line>
+            <line>Next to a <ref img="water">boiling</ref> vent</line>
+            <line>He's <ref type="idiom">none the wiser</ref></line>
             <line>Earth's only resident</line>
             <line>It piled up</line>
-            <line>Man, it was wall to wall</line>
+            <line>Man, it was <ref type="idiom">wall to wall</ref></line>
             <line>Blink of an eye</line>
             <line>And all the problems solved</line>
         </verse>
