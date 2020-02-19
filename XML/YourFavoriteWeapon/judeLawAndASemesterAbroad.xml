@@ -3,15 +3,15 @@
 <song>
     <info>
         <title>Jude Law And A Semester Abroad</title>
-        <album>Your Favorite Weapon</album>
-        <tempo meas="BPM">89</tempo>
+        <album ref="#1-YFW">Your Favorite Weapon</album>
+        <track n="2"></track>
+        <tempo bpm="89"></tempo>
         <key>A Major</key>
         <songWriter>Jesse Lacey</songWriter>
         <composer>Jesse Lacey</composer>
         <producer>Mike Sapone</producer>
         <label>Triple Crown</label>
-        <released>2001-10-09</released> <!--So this is the album release date, but the release date as a single is 2002-11-11, so maybe add a singRelease? -->
-        <recorded from="2001" to="2001">2001</recorded>
+        <singRelease>2002-11-11</singRelease>
         <songLength>00:03:42</songLength>
     </info>
     <lyrics>

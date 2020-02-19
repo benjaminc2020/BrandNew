@@ -4,14 +4,13 @@
     <info>
         <title>Secondary</title>
         <album>Your Favorite Weapon</album>
-        <tempo meas="BPM">90</tempo>
+        <track n="10"></track>
+        <tempo bpm="90"></tempo>
         <key>D Major</key>
         <songWriter>Jesser Lacey</songWriter>
         <composer>Jesse Lacey</composer>
         <producer>Mike Sapone</producer>
         <label>Triple Crown</label>
-        <released>2001-10-09</released>
-        <recorded from="2001" to="2001">2001</recorded>
         <songLength>00:03:08</songLength>
     </info>
     <lyrics>

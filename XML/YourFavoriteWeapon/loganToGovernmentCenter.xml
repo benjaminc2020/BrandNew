@@ -4,14 +4,13 @@
     <info>
         <title>Logan To Government Center</title>
         <album>Your Favorite Weapon</album>
-        <tempo meas="BPM">175</tempo>
+        <track n="7"></track>
+        <tempo bpm="175"></tempo>
         <key>A Major</key>
         <songWriter>Jesse Lacey</songWriter>
         <composer>Jesse Lacey</composer>
         <producer>Mike Sapone</producer>
         <label>Triple Crown</label>
-        <released>2001-10-09</released>
-        <recorded from="2001" to="2001">2001</recorded>
         <songLength>00:03:06</songLength>
     </info>
 

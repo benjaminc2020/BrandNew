@@ -4,15 +4,14 @@
     <info>
         <title>Magazines</title>
         <album>Your Favorite Weapon</album>
-        <tempo meas="BPM">170</tempo>
+        <track n="11"></track>
+        <tempo bpm="170"></tempo>
         <key>A Major</key>
         <songWriter>Jesse Lacey</songWriter>
         <songWriter>John Nolan</songWriter>
         <composer>Jesse Lacey</composer>
         <producer>Mike Sapone</producer>
         <label>Triple Crown</label>
-        <released>2001-10-09</released>
-        <recorded from="2001" to="2001">2001</recorded>
         <songLength>00:02:53</songLength>
     </info>
     <lyrics>
