@@ -21,7 +21,9 @@
             <line>Earth's only resident</line>
             <line>It piled up</line>
             <line>Man, it was <ref type="idiom">wall to wall</ref></line>
-            <line>Blink of an eye</line>
+            <line>
+                <ref type="idiom">Blink of an eye</ref>
+            </line>
             <line>And all the problems solved</line>
         </verse>
 
@@ -32,13 +34,14 @@
 
         <line>Hey it’s D1</line>
         <line>I don’t know why it’s been so crazy... I haven’t gotten any letters from you in the
-            last 2 days... I guess the mail kind of screwed up too...when the both of us get here it
-            always is... If there wasn’t a war going on this place would be pretty nice</line>
+                <ref img="time">last 2 days</ref>... I guess the mail kind of screwed up too...when
+            the both of us get here it always is... If there wasn’t a war going on this place would
+            be pretty nice</line>
 
         <line>Before the garden</line>
         <line>When you were all alone</line>
         <line>You made the atom</line>
-        <line>Was that some inside joke</line>
+        <line>Was that some <ref type="idiom">inside joke</ref></line>
         <line>Open the gates</line>
         <line>And then conceal the path</line>
         <line>Let's load the gun</line>
@@ -49,11 +52,11 @@
 
         <line>Let's go ring and run the bunkers</line>
         <line>Baby won't you come outside?</line>
-        <line>Across the sea the birds are free</line>
+        <line>Across the <ref img="water">sea</ref> the birds are free</line>
         <line>Let's watch them scream across the sky</line>
         <line>Let's all go and meet our maker</line>
         <line>They don't care whose side you're on</line>
-        <line>We're so afraid, I prayed and prayed</line>
+        <line>We're so afraid, I <ref type="rel">prayed and prayed</ref></line>
         <line>Before I learned to love the bomb</line>
 
         <line>They won’t send you over to the side you’re not—He’s… he’s brave and he’s always going
@@ -66,9 +69,9 @@
         <line>What a lovely way to die</line>
         <line>A final show and we all go</line>
         <line>So no one has to say goodbye</line>
-        <line>Let's all go and meet our maker</line>
+        <line>Let's all go and <ref type="idiom">meet our maker</ref></line>
         <line>Won't matter whose side you're on</line>
         <line>We're so afraid, I prayed and prayed</line>
-        <line>When God told me to love the bomb</line>
+        <line>When <ref type="rel">God</ref> told me to love the bomb</line>
     </lyrics>
 </song>
