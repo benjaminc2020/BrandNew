@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
-    
-   <info>
+
+    <info>
         <title xml:id="ATB">At The Bottom</title>
-       <album>Daisy</album>
-        <tempo meas="BPM">78.6</tempo>
+        <album>Daisy</album>
+        <track></track>
+        <tempo bpm="78"/>
         <key>D</key>
         <songWriter>Jesse Lacey</songWriter>
         <songWriter>Vincent Accardi</songWriter>
@@ -13,10 +14,8 @@
         <composer>Vincent Accardi</composer>
         <producer>Mike Sapone</producer>
         <label>Interscope Records</label>
-        <released>2009-09-22</released>
-        <recorded from="2008" to="2009">2008-2009</recorded>
         <songLength>00:04:04</songLength>
-   </info>
+    </info>
 
     <lyrics>
         <intro>
@@ -37,7 +36,8 @@
             <line> 'Cause I make little lies and then I pull them apart</line>
             <line> Think something dark's living down in my heart</line>
             <line> And if I wanted to die before I got old</line>
-            <line> I should've started some years ago <ref img="earth">digging</ref> that hole</line>
+            <line> I should've started some years ago <ref img="earth">digging</ref> that
+                hole</line>
         </verse>
 
 
@@ -62,7 +62,8 @@
             <line> And then we all turned to <ref type="rel">dirt and dust</ref></line>
 
 
-            <line> Some men die under the <ref img="earth">mountain</ref> just looking for gold</line>
+            <line> Some men die under the <ref img="earth">mountain</ref> just looking for
+                gold</line>
             <line> Some die looking for a hand to hold</line>
         </verse>
 
@@ -79,7 +80,8 @@
 
         <verse n="3">
             <line> I stole bricks from the <ref img="water">dam</ref> almost every day</line>
-            <line> Now I'm <ref img="water">drowning</ref> in the <ref img="water">flood</ref> I've made</line>
+            <line> Now I'm <ref img="water">drowning</ref> in the <ref img="water">flood</ref> I've
+                made</line>
             <line> Who'll explain myself to me on the other side</line>
             <line> I'm gonna want some answers when I die.</line>
         </verse>

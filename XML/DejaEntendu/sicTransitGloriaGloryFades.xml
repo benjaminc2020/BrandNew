@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <info>
         <title>Sic Transit Gloria Glory Fades</title>
         <album></album>
-        <tempo></tempo>
+        <track></track>
+        <tempo bpm=""></tempo>
         <key></key>
         <songWriter></songWriter>
         <composer></composer>
         <producer></producer>
         <label>Triple Crown and Razor &amp; Tie</label>
-        <released></released>
-        <recorded></recorded>
+        <video></video>
         <songLength></songLength>
     </info>
     <lyrics> Keep the noise low. She doesn't wanna blow it. Shaking head to toe while your left hand
