@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    
-<title>Handcuffs</title>
-    
+<song>
+    <info>
+        <title ref="#3-H-12">Handcuffs</title>
+        <album ref="#3-TDAGARIM">The Devil And God Are Raging Inside Me</album>
+        <tempo bpm ="102.3"></tempo>
+        <key>D</key>
+        <songWriter>Vincent Accardi</songWriter>
+        <composer>Vincent Accardi</composer>
+        <producer>Brand New</producer>
+        <producer>Mike Sapone</producer>
+        <label>Interscope</label>
+        <songLength>00:04:10</songLength>
+    </info>
 <lyrics>
     [Verse 1]
     I'd arrest you if I had handcuffs
@@ -55,4 +64,4 @@
     When you're still lyin'
     You're still lyin'
 </lyrics>
-</root>
+</song>
