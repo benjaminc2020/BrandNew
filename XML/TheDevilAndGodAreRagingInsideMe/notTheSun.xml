@@ -1,74 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    
-<title>Not the Sun</title>
-    
-<lyrics>
-    [Verse 1]
-    Please don't be technology
-    So I can turn off your love like some cold machine
-    Don't feed me scraps from your bed
-    I won't be the stray comin' back just to be fed
-    
-    Don't be waves, come and seal my fate marine
-    Just pretend that you want me
-    
-    [Chorus]
-    And be my babe, be my babe
-    Be my babe, be my babe
-    Be my babe, be my babe
-    Be my babe, be my babe
-    Be my—
-    
-    [Verse 2]
-    Well, don't be that note I can't hold
-    Well, don't be that joke that I told and told till it got old
-    Don't be that hand 'round my throat so I can't breathe
-    Say you're my friend but why won't you be my family?
-    
-    And if you breed, just don't tell me
-    
-    [Chorus]
-    
-    And be my babe, be my babe
-    Be my babe, be my babe
-    Be my babe, be my babe
-    Be my babe, be my babe
-    Be my babe, be my babe
-    Be my babe, be my babe
-    Be my babe, be my babe
-    Be my babe, be my babe	 
-    
-    
-    
-    We will celebrate, but we’ve gone faster we’ll have our harmonies, wanting quick slaughter and would you want me? For the millionth time I’ve said it time and time again
-    [Bridge]
-    Be my serene
-    Tell me you know what I mean
-    You've set on me
-    But you are not the sun
-    You are not the sun
-    
-    Outside, I'm growin' roots again
-    You set on me
-    But you are not the sun
-    You are not the sun
-    You are not the sun	 
-    
-    Prove me wrong
-    
-    
-    How do they know
-    What I am?
-    Burn it down
-    Come around
-    So let's pretend that you love me
-    
-    [Chorus]
-    And be my babe, be my babe
-    Be my babe, be my babe
-    Be my babe, be my babe
-    Be my babe, be my babe
-    Be my—
-</lyrics>
-</root>
+<song>
+    <info>
+        <title>Not The Sun</title>
+        <album>The Devil And God Are Raging Inside Me</album>
+        <track n="8"/>
+        <tempo bpm=""/>
+        <key/>
+        <songWriter>Jesse Lacey</songWriter>
+        <composer>
+            <li n="1">Vince Accardi</li>
+            <li n="2">Jesse Lacey</li>
+        </composer>
+        <producer>Mike Sapone</producer>
+        <label>Interscope</label>
+        <songLength>00:03:09</songLength>
+    </info>
+    <lyrics>
+        <verse>
+            <line>Please don't be technology</line>
+            <line>So I can turn off your love like some cold machine</line>
+            <line>Don't feed me scraps from your bed</line>
+            <line>I won't be the stray comin' back just to be fed</line>
+            <line>Don't be waves, come and seal my fate marine</line>
+            <line>Just pretend that you want me</line>
+        </verse>
+        <chorus>
+            <line>And be my babe, be my babe</line>
+            <line>Be my babe, be my babe</line>
+            <line>Be my babe, be my babe</line>
+            <line>Be my babe, be my babe</line>
+            <line>Be my—</line>
+        </chorus>
+        <verse>
+            <line>Well, don't be that note I can't hold</line>
+            <line>Well, don't be that joke that I told and told till it got old</line>
+            <line>Don't be that hand 'round my throat so I can't breathe</line>
+            <line>Say you're my friend but why won't you be my family?</line>
+            <line>And if you breed, just don't tell me</line>
+        </verse>
+        <chorus>
+            <line>And be my babe, be my babe</line>
+            <line>Be my babe, be my babe</line>
+            <line>Be my babe, be my babe</line>
+            <line>Be my babe, be my babe</line>
+            <line>Be my babe, be my babe</line>
+            <line>Be my babe, be my babe</line>
+            <line>Be my babe, be my babe</line>
+            <line>Be my babe, be my babe </line>
+        </chorus>
+        <verse>
+            <line>We will celebrate, but we’ve gone faster we’ll have our harmonies, wanting quick
+                slaughter and would you want me? For the millionth time I’ve said it time and time
+                again</line>
+        </verse>
+        <bridge>
+            <line>Be my serene</line>
+            <line>Tell me you know what I mean</line>
+            <line>You've set on me</line>
+            <line>But you are not the sun</line>
+            <line>You are not the sun</line>
+            <line>Outside, I'm growin' roots again</line>
+            <line>You set on me</line>
+            <line>But you are not the sun</line>
+            <line>You are not the sun</line>
+            <line>You are not the sun </line>
+        </bridge>
+        <verse>
+            <line>Prove me wrong</line>
+            <line>How do they know</line>
+            <line>What I am?</line>
+            <line>Burn it down</line>
+            <line>Come around</line>
+            <line>So let's pretend that you love me</line>
+        </verse>
+        <chorus>
+            <line>And be my babe, be my babe</line>
+            <line>Be my babe, be my babe</line>
+            <line>Be my babe, be my babe</line>
+            <line>Be my babe, be my babe</line>
+            <line>Be my—</line>
+        </chorus>
+    </lyrics>
+</song>

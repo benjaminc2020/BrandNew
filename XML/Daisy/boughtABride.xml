@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>Bought A Bride</title>
+<song>
+    <info>
+        <title>Bought A Bride</title>
+        <album>Daisy</album>
+        <track n="8"/>
+        <tempo bpm=""/>
+        <key></key>
+        <songWriter>Vince Accardi</songWriter>
+        <composer>
+            <li n="1">Brand New</li>
+            <li n="2">Mike Sapone</li>
+        </composer>
+        <producer>Mike Sapone</producer>
+        <label>Interscope Records</label>
+        <songLength>00:03:07</songLength>
+    </info>
     <lyrics>
         <verse n="1">
             <line>Trees will make a forest</line>
@@ -12,7 +26,6 @@
             <line>Then I'm a little red house</line>
             <line>And no one's living in it</line>
         </verse>
-
         <chorus>
             <line>Cars are little blood cells</line>
             <line>We are oxygen</line>
@@ -26,12 +39,10 @@
             <line>Bought a bride</line>
             <line>Bought a bride</line>
         </chorus>
-
         <verse n="2">
             <line>Little cities names labeled along the map</line>
             <line>They tied her up and laid her on the train tracks</line>
         </verse>
-
         <chorus>
             <line>Where are all the seedlings</line>
             <line>We grew from violence</line>
@@ -45,13 +56,11 @@
             <line>Bought a bride</line>
             <line>Bought a bride</line>
         </chorus>
-
         <verse n="3">
             <line>Coming down the alley while the horns play "Taps"</line>
             <line>They tied her up and laid her on the train tracks</line>
-
             <line>Somehow I always knew when everything was unsaid</line>
             <line>Go and buy a hammer never sing again</line>
         </verse>
     </lyrics>
-</root>
+</song>

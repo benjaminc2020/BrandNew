@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-    <title>"Good To Know That If I Ever Need Attention All I Have To Do Is Die"</title>
-
+    <info>
+        <title>Good To Know That If I Ever Need Attention All I Have To Do Is Die</title>
+        <album>Deja Entendu</album>
+        <track n="10"/>
+        <tempo bpm=""/>
+        <key></key>
+        <songWriter>Jesse Lacey</songWriter>
+        <composer>Jesse Lacey</composer>
+        <producer>Mike Sapone</producer>
+        <label>Triple Crown and Razor &amp; Tie</label>
+        <songLength>00:07:00</songLength>
+    </info>
     <lyrics>
         <verse n="1">
             <line>Am I correct to defend the fist that holds this pen?</line>

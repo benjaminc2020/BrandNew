@@ -3,15 +3,16 @@
     <info>
         <title>No Control</title>
         <album>Science Fiction</album>
+        <track n="10"/>
         <tempo/>
         <key/>
         <songWriter/>
-        <composer/>
+        <composer>Brand New</composer>
         <producer>Mike Sapone</producer>
         <label>Procrastinate! Music Traitors</label>
         <released>2017-17-08</released>
         <recorded from="2014" to="2014">2014</recorded>
-        <songLength/>
+        <songLength>00:03:55</songLength>
     </info>
     <lyrics>
         <line>In the end, we weren't much</line>

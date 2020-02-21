@@ -1,136 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    
     <info>
-        <title ref="#3-L-5">Limousine</title>
-        <album ref="#3-TDAGARIM">The Devil And God Are Raging Inside Me</album>
-        <tempo bpm ="153.4"></tempo>
-        <key>D</key>
+        <title>Limousine</title>
+        <album>The Devil And God Are Raging Inside Me</album>
+        <track n="5"/>
+        <tempo bpm="153.4"/>
+        <key></key>
         <songWriter>Jesse Lacey</songWriter>
         <composer>Jesse Lacey</composer>
-        <producer>Brand New</producer>
         <producer>Mike Sapone</producer>
         <label>Interscope</label>
         <songLength>00:07:42</songLength>
     </info>
-    
-<lyrics>
-            [Verse 1]
-            Kate, it's your ride
-            Get your petals out and lay them in the aisle
-            Pretend you're God and grow, and it’s your day to wed
-            We found your man, he's drinking up, he's All-American
-            And he'll drive
-            He's volunteered with grace to end your life
-            He'll tidy up
-            It's sad to hold, but leave your shell to us
-            You explode
-            You firefly, you tiny boat with oars
-            Feather oars. The world tilts back and pours and pours
-            And so, you satellite
-            You tidal wave, you're a big surprise
-            And I've one more night to be your mother
-            
-            [Chorus]
-            The signal interrupted
-            My baby's frequency not strong enough
-            Remain in my hands and smile
-            We will miss you but in time you'll get set up
-            And we will write
-            
-            [Verse 2]
-            A beauty supreme, yeah you were right about me
-            Can I get myself out from underneath this guilt that will crush me
-            And in the choir I saw a sad messiah
-            He was bored and tired of my laments
-            Said, "I died for you one time but never again"
-            Never again
-            Never again
-            Never again
-            Never again
-            Never again
-            Never again
-            Never again
-            Well I love you so much (never again)
-            But do me a favor, baby, don't reply (never again)
-            'Cause I can dish it out, but I can't take it (never again)
-            
-            Well I love you so much
-            Never again
-            But do me a favor, baby, don't reply
-            Never again
-            'Cause I can dish it out, but I can't take it
-            Never again
-            
-            One'll love you so much
-            Never again
-            But do me a favor, baby, don't reply
-            Never again
-            'Cause I can dish it out, but I can't take it
-            Never again
-            
-            Two'll love you so much
-            Never again
-            But do me a favor, baby, don't reply
-            Never again
-            'Cause I can dish it out, but I can't take it
-            Never again
-            
-            Three'll love you so much
-            Never again
-            But do me a favor, baby, don't reply
-            Never again
-            'Cause I can dish it out, but I can't take it
-            Never again
-            
-            Four'll love you so much
-            Never again
-            But do me a favor, baby, don't reply
-            Never again
-            'Cause I can dish it out, but I can't take it
-            Never again
-            
-            Five'll love you so much
-            Never again
-            But do me a favor, baby, don't reply
-            Never again
-            'Cause I can dish it out, but I can't take it
-            Never again
-            
-            Six'll love you so much
-            Never again
-            But do me a favor, baby, don't reply
-            Never again
-            'Cause I can dish it out, but I can't take it
-            Never again
-            
-            Seven loves you so much
-            Never again
-            But do me a favor, baby, don't reply
-            Never again
-            'Cause I can dish it out, but I can't take it
-            Never again
-            
-            Seven loved you so much
-            We'll never have to buy adjacent plots of earth
-            But do me a favor
-            We'll never have to rot together under the dirt
-            Baby, don't reply
-            I'll never have to lose my baby in the crowd
-            'Cause I can dish it out, but I can't take it
-            Well I should be laughing right now
-            Seven loved you so much
-            We'll never have to buy adjacent plots of earth
-            But do me a favor
-            We'll never have to rot together under the dirt
-            Baby, don't reply
-            I'll never have to lose my baby in the crowd
-            'Cause I can dish it out, but I can't take it
-            Well I should be laughing right now
-            
-            [Instrumental]
-            
-            [Outro]
-            I don't know what's going on—maybe you could fill me in about the recording
-</lyrics>
+    <lyrics>
+        <verse>
+            <line>Kate, it's your ride</line>
+            <line>Get your petals out and lay them in the aisle</line>
+            <line>Pretend you're God and grow, and it’s your day to wed</line>
+            <line>We found your man, he's drinking up, he's All-American</line>
+            <line>And he'll drive</line>
+            <line>He's volunteered with grace to end your life</line>
+            <line>He'll tidy up</line>
+            <line>It's sad to hold, but leave your shell to us</line>
+            <line>You explode</line>
+            <line>You firefly, you tiny boat with oars</line>
+            <line>Feather oars. The world tilts back and pours and pours</line>
+            <line>And so, you satellite</line>
+            <line>You tidal wave, you're a big surprise</line>
+            <line>And I've one more night to be your mother</line>
+        </verse>
+        <verse>
+            <line>The signal interrupted</line>
+            <line>My baby's frequency not strong enough</line>
+            <line>Remain in my hands and smile</line>
+            <line>We will miss you but in time you'll get set up</line>
+            <line>And we will write</line>
+        </verse>
+        <verse>
+            <line>A beauty supreme, yeah you were right about me</line>
+            <line>Can I get myself out from underneath this guilt that will crush me</line>
+            <line>And in the choir I saw a sad messiah</line>
+            <line>He was bored and tired of my laments</line>
+            <line>Said, "I died for you one time but never again"</line>
+        </verse>
+        <hook>
+            <line>Never again</line>
+            <line>Never again</line>
+            <line>Never again</line>
+            <line>Never again</line>
+            <line>Never again</line>
+            <line>Never again</line>
+            <line>Never again</line>
+            <line>Well I love you so much (never again)</line>
+            <line>But do me a favor, baby, don't reply (never again)</line>
+            <line>'Cause I can dish it out, but I can't take it (never again)</line>
+        </hook>
+        <chorus>
+            <line>Well I love you so much</line>
+            <line>Never again</line>
+            <line>But do me a favor, baby, don't reply</line>
+            <line>Never again</line>
+            <line>'Cause I can dish it out, but I can't take it</line>
+            <line>Never again</line>
+        </chorus>
+        <chorus>
+            <line>One'll love you so much</line>
+            <line>Never again</line>
+            <line>But do me a favor, baby, don't reply</line>
+            <line>Never again</line>
+            <line>'Cause I can dish it out, but I can't take it</line>
+            <line>Never again</line>
+        </chorus>
+        <chorus>
+            <line>Two'll love you so much</line>
+            <line>Never again</line>
+            <line>But do me a favor, baby, don't reply</line>
+            <line>Never again</line>
+            <line>'Cause I can dish it out, but I can't take it</line>
+            <line>Never again</line>
+        </chorus>
+        <chorus>
+            <line>Three'll love you so much</line>
+            <line>Never again</line>
+            <line>But do me a favor, baby, don't reply</line>
+            <line>Never again</line>
+            <line>'Cause I can dish it out, but I can't take it</line>
+            <line>Never again</line>
+        </chorus>
+        <chorus>
+            <line>Four'll love you so much</line>
+            <line>Never again</line>
+            <line>But do me a favor, baby, don't reply</line>
+            <line>Never again</line>
+            <line>'Cause I can dish it out, but I can't take it</line>
+            <line>Never again</line>
+        </chorus>
+        <chorus>
+            <line>Five'll love you so much</line>
+            <line>Never again</line>
+            <line>But do me a favor, baby, don't reply</line>
+            <line>Never again</line>
+            <line>'Cause I can dish it out, but I can't take it</line>
+            <line>Never again</line>
+        </chorus>
+        <chorus>
+            <line>Six'll love you so much</line>
+            <line>Never again</line>
+            <line>But do me a favor, baby, don't reply</line>
+            <line>Never again</line>
+            <line>'Cause I can dish it out, but I can't take it</line>
+            <line>Never again</line>
+        </chorus>
+        <chorus>
+            <line>Seven loves you so much</line>
+            <line>Never again</line>
+            <line>But do me a favor, baby, don't reply</line>
+            <line>Never again</line>
+            <line>'Cause I can dish it out, but I can't take it</line>
+            <line>Never again</line>
+        </chorus>
+        <chorus>
+            <line>Seven loved you so much</line>
+            <line>We'll never have to buy adjacent plots of earth</line>
+            <line>But do me a favor</line>
+            <line>We'll never have to rot together under the dirt</line>
+            <line>Baby, don't reply</line>
+            <line>I'll never have to lose my baby in the crowd</line>
+            <line>'Cause I can dish it out, but I can't take it</line>
+            <line>Well I should be laughing right now</line>
+            <line>Seven loved you so much</line>
+            <line>We'll never have to buy adjacent plots of earth</line>
+            <line>But do me a favor</line>
+            <line>We'll never have to rot together under the dirt</line>
+            <line>Baby, don't reply</line>
+            <line>I'll never have to lose my baby in the crowd</line>
+            <line>'Cause I can dish it out, but I can't take it</line>
+            <line>Well I should be laughing right now</line>
+        </chorus>
+        <outro>
+            <line>I don't know what's going on—maybe you could fill me in about the recording</line>
+        </outro>
+    </lyrics>
 </song>

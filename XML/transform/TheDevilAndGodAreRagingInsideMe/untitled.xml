@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <info>
+      <title ref="#3-U-10">Untitled</title>
+      <album ref="#3-TDAGARIM">The Devil And God Are Raging Inside Me</album>
+      <track n="10"/>
+      <tempo bpm=""/>
+      <key/>
+      <songWriter>Jesse Lacey</songWriter>
+      <composer>Jesse Lacey</composer>
+      <producer>Mike Sapone</producer>
+      <label>Interscope</label>
+      <songLength>00:02:04</songLength>
+   </info>
+   <lyrics>
+      <verse n="1">I can never lose it</verse>
+      <verse n="2">I can never lose it</verse>
+      <verse n="3">I can never lose it</verse>
+      <verse n="4">I can never lose it</verse>
+      <verse n="5">I can never lose it</verse>
+      <verse n="6">I can never lose it</verse>
+      <verse n="7">I can never lose it</verse>
+      <verse n="8">I can never lose it</verse>
+      <verse n="9">I can never lose it</verse>
+      <verse n="10">I can never lose it</verse>
+      <verse n="11">I can never lose it</verse>
+      <verse n="12">I can never lose it</verse>
+      <verse n="13">I can never lose it</verse>
+      <verse n="14">I can never lose it</verse>
+      <verse n="15">I can never lose it</verse>
+      <verse n="16">I can never lose it</verse>
+      <verse n="17">I can never lose it</verse>
+      <verse n="18">I can never lose it</verse>
+      <verse n="19">I can never lose it</verse>
+      <verse n="20">I can never lose it</verse>
+      <verse n="21">I can never lose it</verse>
+      <verse n="22">I can never lose it</verse>
+      <verse n="23">I can never lose it</verse>
+      <verse n="24">I can never lose it</verse>
+   </lyrics>
+</song>

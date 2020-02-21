@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-    <title>Be Gone</title>
+    <info>
+        <title>Be Gone</title>
+        <album>Daisy</album>
+        <track n="6"/>
+        <tempo bpm=""/>
+        <key></key>
+        <songWriter>Vince Accardi</songWriter>
+        <composer>
+            <li n="1">Brand New</li>
+            <li n="2">Mike Sapone</li>
+        </composer>
+        <producer>Mike Sapone</producer>
+        <label>Interscope Records</label>
+        <songLength>00:01:31</songLength>
+    </info>
     <lyrics>
         <line>It's getting hard to stay up</line>
         <line>I think I can hear God calling my name</line>

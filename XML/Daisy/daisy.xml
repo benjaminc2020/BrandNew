@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>Daisy</title>
+<song>
+    <info>
+        <title>Daisy</title>
+        <album>Daisy</album>
+        <track n="9"/>
+        <tempo bpm=""/>
+        <key></key>
+        <songWriter>Vince Accardi</songWriter>
+        <composer>
+            <li n="1">Brand New</li>
+            <li n="2">Mike Sapone</li>
+        </composer>
+        <producer>Mike Sapone</producer>
+        <label>Interscope Records</label>
+        <songLength>00:03:06</songLength>
+    </info>
     <lyrics>
         <intro>
             <spoken n="pastor">[Recording:]</spoken>
@@ -9,7 +23,6 @@
             <line>I don't know about you but I never get tired of it</line>
             <line>Number 99: Just As I Am.</line>
         </intro>
-
         <verse n="1">
             <line>I'm a mountain that has been moved</line>
             <line>I'm a river that is all dried up</line>
@@ -20,21 +33,18 @@
             <line>I'm a mouth that doesn't smile</line>
             <line>I'm a word that no one ever wants to say.</line>
         </verse>
-
         <interlude>
             <spoken n="child">[Child Speaking:]</spoken>
             <line>I don't wanna be,</line>
             <line>He wasn't finding anybody when he was on the shelf</line>
             <line>I saw him in my dream</line>
         </interlude>
-
         <verse n="2">
             <line>I'm a mountain that has been moved</line>
             <line>I'm a fugitive that has no legs to run</line>
             <line>I'm a preacher with no pulpit</line>
             <line>Spewing a sermon that goes on and on and on.</line>
         </verse>
-
         <chorus>
             <line>Well if we take all these things</line>
             <line>and we bury them fast</line>
@@ -48,7 +58,6 @@
             <line>It'd be all right, it's all right,</line>
             <line>it'd be easier that way.</line>
         </chorus>
-
         <chorus>
             <line>Well if we take all these things</line>
             <line>and we bury them fast</line>
@@ -63,4 +72,4 @@
             <line>it'd be easier that way</line>
         </chorus>
     </lyrics>
-</root>
+</song>

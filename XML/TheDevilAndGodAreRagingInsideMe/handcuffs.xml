@@ -1,67 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
     <info>
-        <title ref="#3-H-12">Handcuffs</title>
-        <album ref="#3-TDAGARIM">The Devil And God Are Raging Inside Me</album>
-        <tempo bpm ="102.3"></tempo>
-        <key>D</key>
-        <songWriter>Vincent Accardi</songWriter>
-        <composer>Vincent Accardi</composer>
-        <producer>Brand New</producer>
+        <title>Handcuffs</title>
+        <album>The Devil And God Are Raging Inside Me</album>
+        <track n="12"/>
+        <tempo bpm="102.3"/>
+        <key/>
+        <songWriter>Vince Accarcdi</songWriter>
+        <composer>Vince Accarcdi</composer>
         <producer>Mike Sapone</producer>
         <label>Interscope</label>
         <songLength>00:04:10</songLength>
     </info>
-<lyrics>
-    [Verse 1]
-    I'd arrest you if I had handcuffs
-    I'd arrest you if I had the time
-    I'd throw you down in the backseat
-    As if you committed a terrible crime
-    
-    I'd break into towns worth of houses
-    And rob whole families blind
-    I'd do it to you like you'd do it to me
-    If I knew you would get away fine
-    
-    I'd drown all these crying babies
-    If I knew that their mothers wouldn't cry
-    I'd hold them down and I'd squeeze real soft
-    And let a piece of myself die
-    
-    [Chorus]
-    It's hard to be the better man
-    When you forget you're tryin'
-    It's hard to be the better man
-    
-    [Verse 2]
-    I'd arrest you if I had handcuffs
-    I'd arrest you if I had the time
-    I'd wait for you outside the courtroom—and taunt you
-    As all of your appeals were declined
-    
-    I'd drive my car off of the bridge
-    If I knew that you weren't inside
-    Put the pedal to the floor, who could ask for more?
-    A fantastic way to kill some time
-    
-    You could lay on your back and be beaten
-    You could put up your fists and fight
-    You could try any way out
-    Way out
-    Way out
-    Way out
-    
-    [Chorus]
-    It's hard to be the better man
-    When you forget you're tryin'
-    It's hard to be the better man
-    When you're still lyin'
-    
-    It's hard to be the better man
-    When you forget you're tryin'
-    It's hard to be the better man
-    When you're still lyin'
-    You're still lyin'
-</lyrics>
+    <lyrics>
+        <verse>
+            <line>I'd arrest you if I had handcuffs</line>
+            <line>I'd arrest you if I had the time</line>
+            <line>I'd throw you down in the backseat</line>
+            <line>As if you committed a terrible crime</line>
+        </verse>
+        <verse>
+            <line>I'd break into towns worth of houses</line>
+            <line>And rob whole families blind</line>
+            <line>I'd do it to you like you'd do it to me</line>
+            <line>If I knew you would get away fine</line>
+        </verse>
+        <verse>
+            <line>I'd drown all these crying babies</line>
+            <line>If I knew that their mothers wouldn't cry</line>
+            <line>I'd hold them down and I'd squeeze real soft</line>
+            <line>And let a piece of myself die</line>
+        </verse>
+        <chorus>
+            <line>It's hard to be the better man</line>
+            <line>When you forget you're tryin'</line>
+            <line>It's hard to be the better man</line>
+        </chorus>
+        <verse>
+            <line>I'd arrest you if I had handcuffs</line>
+            <line>I'd arrest you if I had the time</line>
+            <line>I'd wait for you outside the courtroom—and taunt you</line>
+            <line>As all of your appeals were declined</line>
+        </verse>
+        <verse>
+            <line>I'd drive my car off of the bridge</line>
+            <line>If I knew that you weren't inside</line>
+            <line>Put the pedal to the floor, who could ask for more?</line>
+            <line>A fantastic way to kill some time</line>
+        </verse>
+        <bridge>
+            <line>You could lay on your back and be beaten</line>
+            <line>You could put up your fists and fight</line>
+            <line>You could try any way out</line>
+            <line>Way out</line>
+            <line>Way out</line>
+            <line>Way out</line>
+        </bridge>
+        <chorus>
+            <line>It's hard to be the better man</line>
+            <line>When you forget you're tryin'</line>
+            <line>It's hard to be the better man</line>
+            <line>When you're still lyin'</line>
+        </chorus>
+        <chorus>
+            <line>It's hard to be the better man</line>
+            <line>When you forget you're tryin'</line>
+            <line>It's hard to be the better man</line>
+            <line>When you're still lyin'</line>
+            <line>You're still lyin'</line>
+        </chorus>
+    </lyrics>
 </song>

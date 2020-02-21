@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <info>
+      <title ref="#6-BU-12">Batter Up</title>
+      <album ref="#6-SF">Science Fiction</album>
+      <track n="12"/>
+      <tempo bpm=""/>
+      <key/>
+      <songWriter>Brand New</songWriter>
+      <composer/>
+      <producer>Mike Sapone</producer>
+      <label>Procrastinate! Music Traitors</label>
+      <songLength>00:08:28</songLength>
+   </info>
+    <lyrics>
+        <line n="1">In the valley of your slowly-fading memory</line>
+        <line n="2">Are there pastures bathed in some uncertain light where you won’t graze?</line>
+        <line n="3">Paths you won't take?</line>
+        
+        <line n="4">Spin around now</line>
+        <line n="5">Can you hear me?</line>
+        <line n="6">Am I still buzzing in my sleep?</line>
+        <line n="7">What does it feel like to shine between everything?</line>
+        
+        <line n="8">It's never going to stop</line>
+        <line n="9">Batter up</line>
+        <line n="10">Give me your best shot</line>
+        <line n="11">Batter up</line>
+        
+        <line n="12">I saw something in the night sky over Camden</line>
+        <line n="13">Turned around and drove the opposite direction 'cause I fear them</line>
+        <line n="14">Now when will they come?</line>
+        
+        <line n="15">You were all I see</line>
+        <line n="16">You were everything</line>
+        <line n="17">Cast about you, turning up your gravity and pull me in</line>
+        <line n="18">Or under</line>
+        
+        <line n="19">It's never going to stop</line>
+        <line n="20">Batter up</line>
+        <line n="21">Give me your best shot</line>
+        <line n="22">Batter up</line>
+        
+        <line n="23">And even though the roar died in your throat</line>
+        <line n="24">The lines get blurred</line>
+        <line n="25">Lose whoever you once were</line>
+        <line n="26">Died and returned to the earth</line>
+        <line n="27">Found ourselves back</line>
+        <line n="28">In love</line>
+        
+        <line n="29">It's never going to stop</line>
+        <line n="30">Batter up</line>
+        <line n="31">Give me your best shot</line>
+        <line n="32">Batter up</line>
+        <line n="33">Never gets forgot</line>
+        <line n="34">Batter up</line>
+        <line n="35">Don't get what you want</line>
+        <line n="36">Batter up</line>
+        <line n="37">Batter up</line>
+        <line n="38">Batter up</line>
+        
+        <line n="39">That was the one right there...This is what we were waiting for...</line>
+    </lyrics>
+</song>

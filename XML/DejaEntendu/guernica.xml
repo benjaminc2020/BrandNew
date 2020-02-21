@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-    <title>"Guernica"</title>
-
+    <info>
+        <title>Guernica</title>
+        <album>Deja Entendu</album>
+        <track n="9"/>
+        <tempo bpm=""/>
+        <key/>
+        <songWriter>Jesse Lacey</songWriter>
+        <composer>
+            <li>Jesse Lacey</li>
+            <li>Vincent Accardi</li>
+        </composer>
+        <producer>Mike Sapone</producer>
+        <label>Triple Crown and Razor &amp; Tie</label>
+        <songLength>00:03:23</songLength>
+    </info>
     <lyrics>
         <verse n="1">
             <line>Ever since I was young your word is the word that always won</line>

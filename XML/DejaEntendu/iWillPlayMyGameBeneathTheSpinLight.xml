@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-    <title>"I Will Play My Game Beneath the Spin Light"</title>
+    <info>
+        <title>I Will Play My Game Beneath the Spin Light</title>
+        <album>Deja Entendu</album>
+        <track n="3"/>
+        <tempo bpm=""/>
+        <key></key>
+        <songWriter>Jesse Lacey</songWriter>
+        <composer>Jesse Lacey</composer>
+        <producer>Mike Sapone</producer>
+        <label>Triple Crown and Razor &amp; Tie</label>
+        <songLength>00:03:57</songLength>
+    </info>
     <lyrics>
         <verse n="1">
             <line>The time has come for colds and overcoats. </line>

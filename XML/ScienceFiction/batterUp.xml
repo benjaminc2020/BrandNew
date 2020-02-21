@@ -3,64 +3,65 @@
     <info>
         <title>Batter Up</title>
         <album>Science Fiction</album>
-        <tempo></tempo>
+        <track n="12"/>
+        <tempo/>
         <key></key>
-        <songWriter></songWriter>
-        <composer></composer>
+        <songWriter>Brand New</songWriter>
+        <composer/>
         <producer>Mike Sapone</producer>
         <label>Procrastinate! Music Traitors</label>
         <released>2017-17-08</released>
         <recorded from="2014" to="2015">2014</recorded>
-        <songLength></songLength>
+        <songLength>00:08:28</songLength>
     </info>
     <lyrics>
-        In the valley of your slowly-fading memory
-        Are there pastures bathed in some uncertain light where you won’t graze?
-        Paths you won't take?
+        <line>In the valley of your slowly-fading memory</line>
+        <line>Are there pastures bathed in some uncertain light where you won’t graze?</line>
+        <line>Paths you won't take?</line>
         
-        Spin around now
-        Can you hear me?
-        Am I still buzzing in my sleep?
-        What does it feel like to shine between everything?
+        <line>Spin around now</line>
+        <line>Can you hear me?</line>
+        <line>Am I still buzzing in my sleep?</line>
+        <line>What does it feel like to shine between everything?</line>
         
-        It's never going to stop
-        Batter up
-        Give me your best shot
-        Batter up
+        <line>It's never going to stop</line>
+        <line>Batter up</line>
+        <line>Give me your best shot</line>
+        <line>Batter up</line>
         
-        I saw something in the night sky over Camden
-        Turned around and drove the opposite direction 'cause I fear them
-        Now when will they come?
+        <line>I saw something in the night sky over Camden</line>
+        <line>Turned around and drove the opposite direction 'cause I fear them</line>
+        <line>Now when will they come?</line>
         
-        You were all I see
-        You were everything
-        Cast about you, turning up your gravity and pull me in
-        Or under
+        <line>You were all I see</line>
+        <line>You were everything</line>
+        <line>Cast about you, turning up your gravity and pull me in</line>
+        <line>Or under</line>
         
-        It's never going to stop
-        Batter up
-        Give me your best shot
-        Batter up
+        <line>It's never going to stop</line>
+        <line>Batter up</line>
+        <line>Give me your best shot</line>
+        <line>Batter up</line>
         
-        And even though the roar died in your throat
-        The lines get blurred
-        Lose whoever you once were
-        Died and returned to the earth
-        Found ourselves back
-        In love
+        <line>And even though the roar died in your throat</line>
+        <line>The lines get blurred</line>
+        <line>Lose whoever you once were</line>
+        <line>Died and returned to the earth</line>
+        <line>Found ourselves back</line>
+        <line>In love</line>
         
-        It's never going to stop
-        Batter up
-        Give me your best shot
-        Batter up
-        Never gets forgot
-        Batter up
-        Don't get what you want
-        Batter up
-        Batter up
-        Batter up
+        <line>It's never going to stop</line>
+        <line>Batter up</line>
+        <line>Give me your best shot</line>
+        <line>Batter up</line>
+        <line>Never gets forgot</line>
+        <line>Batter up</line>
+        <line>Don't get what you want</line>
+        <line>Batter up</line>
+        <line>Batter up</line>
+        <line>Batter up</line>
         
-        That was the one right there...This is what we were waiting for...
+        <line>That was the one right there...This is what we were waiting for...</line>
     </lyrics>
 </song>
 

@@ -1,9 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-    
-<title>Untitled</title>
-    
+    <info>
+        <title>Untitled</title>
+        <album>The Devil And God Are Raging Inside Me</album>
+        <track n="10"/>
+        <tempo bpm=""/>
+        <key></key>
+        <songWriter>Jesse Lacey</songWriter>
+        <composer>Jesse Lacey</composer>
+        <producer>Mike Sapone</producer>
+        <label>Interscope</label>
+        <songLength>00:02:04</songLength>
+    </info>
 <lyrics>
-    I can never lose it [x24]
+    <verse>I can never lose it</verse>
+    <verse>I can never lose it</verse>
+    <verse>I can never lose it</verse>
+    <verse>I can never lose it</verse>
+    <verse>I can never lose it</verse>
+    <verse>I can never lose it</verse>
+    <verse>I can never lose it</verse>
+    <verse>I can never lose it</verse>
+    <verse>I can never lose it</verse>
+    <verse>I can never lose it</verse>
+    <verse>I can never lose it</verse>
+    <verse>I can never lose it</verse>
+    <verse>I can never lose it</verse>
+    <verse>I can never lose it</verse>
+    <verse>I can never lose it</verse>
+    <verse>I can never lose it</verse>
+    <verse>I can never lose it</verse>
+    <verse>I can never lose it</verse>
+    <verse>I can never lose it</verse>
+    <verse>I can never lose it</verse>
+    <verse>I can never lose it</verse>
+    <verse>I can never lose it</verse>
+    <verse>I can never lose it</verse>
+    <verse>I can never lose it</verse>
 </lyrics>
 </root>

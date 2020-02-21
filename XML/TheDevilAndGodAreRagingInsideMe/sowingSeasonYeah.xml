@@ -1,80 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<root>
-
-<title>Sowing Season (Yeah)</title>
-    
-<lyrics>[Verse 1]
-Was losing all my friends
-Was losing them to drinking and to driving
-Was losing all my friends, but I got them back
-I am on the mend
-At least now I can say that I am trying
-And I hope you will forget things I still lack
-
-[Hook]
-Yeah
-Yeah
-
-[Verse 2]
-Is it in you now
-To bear to hear the truth that you have spoken?
-Twisted up by knaves
-To make a trap for fools
-Is it in you now
-To watch the things you gave your life to broken?
-And stoop and build them up with worn out tools
-
-[Hook]
-Yeah!
-Yeah!
-Yeah! Yeah!
-Yeah!
-
-[Verse 3]
-Nothing gets so bad
-A whisper from your father couldn't fix it
-Your whisper's like a bridge, it's a river span
-Take all that you have
-And turn it into something you would miss if
-Somebody threw that brick, shattered all your plans
-
-[Hook]
-Yeah!
-Yeah!
-Yeah! Yeah!
-Yeah!
-
-[Post-Chorus]
-Time to get the seeds into the cold ground
-It takes a while to grow anything
-Before it's coming to an end, yeah
-Before you put my body in the cold ground
-Take some time to warm it with your hand
-Before it's coming to an end, yeah
-
-[Bridge]
-It's coming to an end, yeah
-It's coming to an end, yeah
-
-[Verse 4]
-Do you miss the blend?
-Colors she left in your black and white field?
-Do you feel condemned just being there?
-I am not your friend
-I am just a man who knows how to feel
-I am not your friend
-I'm not your lover
-I'm not your family
-
-[Hook]
-Yeah!
-Yeah!
-Yeah! Yeah!
-Yeah!
-
-[Post-Chorus]
-Time to get the seeds into the cold ground
-It takes a while to grow anything
-Before it's coming to an end, yeah!</lyrics>
-</root>
+<song>
+    <info>
+        <title>Sowing Season (Yeah)</title>
+        <album>The Devil And God Are Raging Inside Me</album>
+        <track n="1"/>
+        <tempo bpm=""/>
+        <key></key>
+        <songWriter>Jesse Lacey</songWriter>
+        <composer>
+            <li n="1">Jesse Lacey</li>
+            <li n="2">Vince Accardi</li>
+        </composer>
+        <producer>Mike Sapone</producer>
+        <label>Interscope</label>
+        <songLength>00:04:31</songLength>
+    </info>
+    <lyrics>
+        <verse>
+            <line>Was losing all my friends</line>
+            <line>Was losing them to drinking and to driving</line>
+            <line>Was losing all my friends, but I got them back</line>
+            <line>I am on the mend</line>
+            <line>At least now I can say that I am trying</line>
+            <line>And I hope you will forget things I still lack</line>
+        </verse>
+        <hook>
+            <line>Yeah</line>
+            <line>Yeah</line>
+        </hook>
+        <verse>
+            <line>Is it in you now</line>
+            <line>To bear to hear the truth that you have spoken?</line>
+            <line>Twisted up by knaves</line>
+            <line>To make a trap for fools</line>
+            <line>Is it in you now</line>
+            <line>To watch the things you gave your life to broken?</line>
+            <line>And stoop and build them up with worn out tools</line>
+        </verse>
+        <hook>
+            <line>Yeah!</line>
+            <line>Yeah!</line>
+            <line>Yeah! Yeah!</line>
+            <line>Yeah!</line>
+        </hook>
+        <verse>
+            <line>Nothing gets so bad</line>
+            <line>A whisper from your father couldn't fix it</line>
+            <line>Your whisper's like a bridge, it's a river span</line>
+            <line>Take all that you have</line>
+            <line>And turn it into something you would miss if</line>
+            <line>Somebody threw that brick, shattered all your plans</line>
+        </verse>
+        <hook>
+            <line>Yeah!</line>
+            <line>Yeah!</line>
+            <line>Yeah! Yeah!</line>
+            <line>Yeah!</line>
+        </hook>
+        <chorus>
+            <line>Time to get the seeds into the cold ground</line>
+            <line>It takes a while to grow anything</line>
+            <line>Before it's coming to an end, yeah</line>
+            <line>Before you put my body in the cold ground</line>
+            <line>Take some time to warm it with your hand</line>
+            <line>Before it's coming to an end, yeah</line>
+        </chorus>
+        <bridge>
+            <line>It's coming to an end, yeah</line>
+            <line>It's coming to an end, yeah</line>
+        </bridge>
+        <verse>
+            <line>Do you miss the blend?</line>
+            <line>Colors she left in your black and white field?</line>
+            <line>Do you feel condemned just being there?</line>
+            <line>I am not your friend</line>
+            <line>I am just a man who knows how to feel</line>
+            <line>I am not your friend</line>
+            <line>I'm not your lover</line>
+            <line>I'm not your family</line>
+        </verse>
+        <hook>
+            <line>Yeah!</line>
+            <line>Yeah!</line>
+            <line>Yeah! Yeah!</line>
+            <line>Yeah!</line>
+        </hook>
+        <chorus>
+            <line>Time to get the seeds into the cold ground</line>
+            <line>It takes a while to grow anything</line>
+            <line>Before it's coming to an end, yeah!</line>
+        </chorus>
+    </lyrics>
+</song>

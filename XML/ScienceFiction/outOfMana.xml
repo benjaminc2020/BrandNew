@@ -4,14 +4,14 @@
         <title>Out of Mana</title>
         <album>Science Fiction</album>
         <tempo/>
-        <key/>
-        <songWriter/>
+        <key></key>
+        <songWriter>Brand New</songWriter>
         <composer/>
         <producer>Mike Sapone</producer>
         <label>Procrastinate! Music Traitors</label>
         <released>2017-17-08</released>
         <recorded from="2014" to="2014">2014</recorded>
-        <songLength/>
+        <songLength>00:05:15</songLength>
     </info>
     <lyrics>
         <line>First write down all of your fears</line>
@@ -19,7 +19,6 @@
         <line>Next you should dominate</line>
         <line>All the quests everyone said were too hard</line>
         <line>Unless you go back to sleep</line>
-
         <line>Don't back out</line>
         <line>Or we'll back down</line>
         <line>I want you to know</line>
@@ -27,13 +26,11 @@
         <line>I can read the rest to myself</line>
         <line>Hell is digital</line>
         <line>You're smashed to smithereens</line>
-
         <line>We've filled out all of the forms</line>
         <line>Translated all of our dreams</line>
         <line>Freed love and perfected every inch</line>
         <line>Weeknights down at the gym</line>
         <line>Took every thing that we pleased</line>
-
         <line>Don't crack up</line>
         <line>Don't lose touch</line>
         <line>I want you to know</line>
@@ -41,17 +38,14 @@
         <line>I can read the rest to myself</line>
         <line>Hell is digital</line>
         <line>You'll pray to pieces</line>
-
         <line>I'll break and create life</line>
         <line>All praise player one</line>
         <line>Infinite lives, in time will come up</line>
-
         <line>Did we build Babel together</line>
         <line>Jibber jabber, changing colors</line>
         <line>Aliens talking to airplanes</line>
         <line>Every time the place is the same</line>
         <line>Hope we can do this forever</line>
-
         <line>Don't back out</line>
         <line>Or we'll back down</line>
         <line>I want you to know</line>
@@ -59,7 +53,6 @@
         <line>I can read the rest to myself</line>
         <line>Hell is digital</line>
         <line>You're smashed to smithereens</line>
-
         <line>Don't back out</line>
         <line>Or we'll back down</line>
         <line>I want you to know</line>
@@ -69,7 +62,6 @@
         <line>You burn to little bits</line>
         <line>I'm psycho</line>
         <line>Can you know this?</line>
-
         <line>I have to go</line>
         <line>I want to say I'm in love with you</line>
         <line>And I'm more than the skin of my teeth</line>

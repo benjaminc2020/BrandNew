@@ -3,15 +3,16 @@
     <info>
         <title>137</title>
         <album>Science Fiction</album>
+        <track n="6"/>
         <tempo/>
-        <key/>
-        <songWriter/>
+        <key></key>
+        <songWriter>Brand New</songWriter>
         <composer/>
         <producer>Mike Sapone</producer>
         <label>Procrastinate! Music Traitors</label>
         <released>2017-17-08</released>
         <recorded from="2014" to="2014"/>
-        <songLength/>
+        <songLength>00:05:02</songLength>
     </info>
     <lyrics>
         <verse>
@@ -26,18 +27,15 @@
             </line>
             <line>And all the problems solved</line>
         </verse>
-
         <line>Let's all go play Nagasaki</line>
         <line>We can all get vaporised</line>
         <line>Hold my hand, let's turn to ash</line>
         <line>I'll see you on the other side</line>
-
         <line>Hey it’s D1</line>
         <line>I don’t know why it’s been so crazy... I haven’t gotten any letters from you in the
                 <ref img="time">last 2 days</ref>... I guess the mail kind of screwed up too...when
             the both of us get here it always is... If there wasn’t a war going on this place would
             be pretty nice</line>
-
         <line>Before the garden</line>
         <line>When you were all alone</line>
         <line>You made the atom</line>
@@ -46,10 +44,8 @@
         <line>And then conceal the path</line>
         <line>Let's load the gun</line>
         <line>And see how long they last</line>
-
         <line>“There goes the siren again</line>
         <line>Oh, there, goes another round I gotta- uh, go to a bunker now"</line>
-
         <line>Let's go ring and run the bunkers</line>
         <line>Baby won't you come outside?</line>
         <line>Across the <ref img="water">sea</ref> the birds are free</line>
@@ -58,13 +54,11 @@
         <line>They don't care whose side you're on</line>
         <line>We're so afraid, I <ref type="rel">prayed and prayed</ref></line>
         <line>Before I learned to love the bomb</line>
-
         <line>They won’t send you over to the side you’re not—He’s… he’s brave and he’s always going
             to that bunker, so don’t worry about him... No I’m not, there’s just not much more to
             say... Give my love to your parents and to my parents... I’ll send them a few things as
             soon as I get to where I’m going to—Soon I’ll be back home with my love, soon...I’ll
             be...But yeah... P.S. Duke, I love you</line>
-
         <line>Let's all go play Nagasaki</line>
         <line>What a lovely way to die</line>
         <line>A final show and we all go</line>

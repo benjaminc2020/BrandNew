@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <info>
         <title>Last Chance To Lose Your Keys</title>
         <album>Your Favorite Weapon</album>
         <track n="6"/>
         <tempo bpm=""/>
-        <key/>
-        <songWriter>Jesse Lacey</songWriter>
+        <key></key>
+        <songWriter>
+            <li n="1">Jesse Lacey</li>
+            <li n="2">Vincent Accardi</li>
+            <li n="3">Garrett Tierney</li>
+            <li n="4">Brian Lane</li>
+        </songWriter>
         <composer>Jesse Lacey</composer>
         <producer>Mike Sapone</producer>
         <label>Triple Crown</label>

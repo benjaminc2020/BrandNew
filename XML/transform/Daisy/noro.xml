@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <info>
+      <title ref="#4-N-10">Noro</title>
+      <album ref="#4-D">Daisy</album>
+      <track n="10"/>
+      <tempo bpm=""/>
+      <key/>
+      <songWriter>Vince Accardi</songWriter>
+      <composer>
+            <li n="1">Brand New</li>
+            <li n="2">Mike Sapone</li>
+        </composer>
+      <producer>Mike Sapone</producer>
+      <label>Interscope Records</label>
+      <songLength>00:06:27</songLength>
+   </info>
+    <lyrics>
+        
+        <verse n="1">
+            <line n="1">Little light lead us through the night</line>
+            <line n="2">And if we die burn down the forest</line>
+            <line n="3">Chariots, carry us</line>
+            <line n="4">Distances we don't care to walk</line>
+        </verse>
+        
+            <line n="5">I'm on my way to hell</line>
+            <line n="6">I'm on my way to hell</line>
+        
+        <verse n="2">
+            <line n="7">Why doesn't anyone in Noro sleep?</line>
+            <line n="8">Are they all just scared of their dreams?</line>
+            <line n="9">When they lay their heads down at night,</line>
+            <line n="10">What are they haunted by?</line>
+            <line n="11">Why won't anyone just close their eyes?</line>
+            <line n="12">Could it hurt them to rest for a while?</line>
+            <line n="13">Do they need their friend to be a lover,</line>
+            <line n="14">Or their lover to be a friend?</line>
+        </verse>
+        <chorus n="1">
+            <line n="15">(Because)</line>
+            <line n="16">I'm on my way to hell</line>
+            <line n="17">(Well I've tried, god knows that I've tried)</line>
+            <line n="18">I'm on my way to hell</line>
+            <line n="19">(One time, two time, three time, again)</line>
+        </chorus>
+        <verse n="3">
+            <line n="20">Sitting duck</line>
+            <line n="21">Running out of luck</line>
+            <line n="22">And our car's stuck on a train crossing</line>
+            <line n="23">How are we ever gonna know peace</line>
+            <line n="24">How will I ever see your light through the trees</line>
+            <line n="25">I wanna burn down everything we begun</line>
+            <line n="26">I wanna kill and eat my young</line>
+        </verse>
+        <chorus n="2">
+            <line n="27">(Because)</line>
+            <line n="28">I'm on my way to hell</line>
+            <line n="29">(Well I've tried, god knows that I've tried)</line>
+            <line n="30">I'm on my way to hell</line>
+            <line n="31">(One time, two time, three time, again)</line>
+            <line n="32">I'm on my way to hell</line>
+            <line n="33">(Well I've tried, god knows that I've tried)</line>
+            <line n="34">I'm on my way to hell</line>
+            <line n="35">(One time, two time, three time, again)</line>
+        </chorus>
+        
+        
+            <line n="36">I'm on my way to hell</line>
+            <line n="37">I'm on my way to hell</line>
+            <line n="38">I'm on my way to hell</line>
+            <line n="39">I'm on my way to hell</line>
+        
+    </lyrics>
+</song>

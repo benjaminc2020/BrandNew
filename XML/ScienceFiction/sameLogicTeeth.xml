@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
     <info>
-        <title>Same Logic Teeth</title>
+        <title>Same Logic/Teeth</title>
         <album>Science Fiction</album>
+        <track n="5"/>
         <tempo/>
-        <key/>
-        <songWriter/>
+        <key></key>
+        <songWriter>Brand New</songWriter>
         <composer/>
         <producer>Mike Sapone</producer>
         <label>Procrastinate! Music Traitors</label>
         <released>2017-17-08</released>
         <recorded from="2014" to="2014">2014</recorded>
-        <songLength/>
+        <songLength>00:05:34</songLength>
     </info>
     <lyrics>
         <line>It's hard to walk through all the places that your life used to be in</line>

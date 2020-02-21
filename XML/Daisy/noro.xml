@@ -1,22 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-    <title>Noro</title>
+    <info>
+        <title>Noro</title>
+        <album>Daisy</album>
+        <track n="10"/>
+        <tempo bpm=""/>
+        <key></key>
+        <songWriter>Vince Accardi</songWriter>
+        <composer>
+            <li n="1">Brand New</li>
+            <li n="2">Mike Sapone</li>
+        </composer>
+        <producer>Mike Sapone</producer>
+        <label>Interscope Records</label>
+        <songLength>00:06:27</songLength>
+    </info>
     <lyrics>
-
         <intro><!--bb: instrumental here--></intro>
-
         <verse n="1">
             <line>Little light lead us through the night</line>
             <line>And if we die burn down the forest</line>
             <line>Chariots, carry us</line>
             <line>Distances we don't care to walk</line>
         </verse>
-
         <interlude>
             <line>I'm on my way to hell</line>
             <line>I'm on my way to hell</line>
         </interlude>
-
         <verse n="2">
             <line>Why doesn't anyone in Noro sleep?</line>
             <line>Are they all just scared of their dreams?</line>
@@ -27,7 +37,6 @@
             <line>Do they need their friend to be a lover,</line>
             <line>Or their lover to be a friend?</line>
         </verse>
-
         <chorus>
             <line>(Because)</line>
             <line>I'm on my way to hell</line>
@@ -35,18 +44,15 @@
             <line>I'm on my way to hell</line>
             <line>(One time, two time, three time, again)</line>
         </chorus>
-
         <verse n="3">
             <line>Sitting duck</line>
             <line>Running out of luck</line>
             <line>And our car's stuck on a train crossing</line>
-
             <line>How are we ever gonna know peace</line>
             <line>How will I ever see your light through the trees</line>
             <line>I wanna burn down everything we begun</line>
             <line>I wanna kill and eat my young</line>
         </verse>
-
         <chorus>
             <line>(Because)</line>
             <line>I'm on my way to hell</line>
@@ -58,15 +64,12 @@
             <line>I'm on my way to hell</line>
             <line>(One time, two time, three time, again)</line>
         </chorus>
-
         <!--bb: instrumental here too-->
-
         <outro>
             <line>I'm on my way to hell</line>
             <line>I'm on my way to hell</line>
             <line>I'm on my way to hell</line>
             <line>I'm on my way to hell</line>
         </outro>
-
     </lyrics>
 </root>

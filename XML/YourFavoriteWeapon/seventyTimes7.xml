@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <info>
         <title>Seventy Times 7</title>
@@ -7,11 +6,16 @@
         <track n="9"></track>
         <tempo bpm="91"></tempo>
         <key>A Major</key>
-        <songWriter>Jesse Lacey</songWriter>
+        <songWriter>
+            <li n="1">Jesse Lacey</li>
+            <li n="2">Vincent Accardi</li>
+            <li n="3">Garrett Tierney</li>
+            <li n="4">Brian Lane</li>
+        </songWriter>
         <composer>Jesse Lacey</composer>
         <producer>Mike Sapone</producer>
         <label>Triple Crown</label>
-        <songLength>00:03:34</songLength>
+        <songLength>00:03:33</songLength>
     </info>
     <lyrics>
         <verse n="1"><line>Back in <ref img="school">school</ref> they never <ref img="school">taught</ref> us what we needed to know,</line>

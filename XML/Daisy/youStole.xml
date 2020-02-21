@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>You Stole</title>
+<song>
+    <info>
+        <title>You Stole</title>
+        <album>Daisy</album>
+        <track n="5"/>
+        <tempo bpm=""/>
+        <key></key>
+        <songWriter>
+            <li n="1">Vince Accardi</li>
+            <li n="2">Jesse Lacey</li>
+        </songWriter>
+        <composer>
+            <li n="1">Brand New</li>
+            <li n="2">Mike Sapone</li>
+        </composer>
+        <producer>Mike Sapone</producer>
+        <label>Interscope Records</label>
+        <songLength>00:06:00</songLength>
+    </info>
     <lyrics>
         <verse n="1">
             <line>Last night they said the fire had spread</line>
@@ -11,14 +28,11 @@
             <line>And in the morning hope that we're all the same</line>
             <line>Just sit around like broke down cars in the lot Waiting for repairs</line>
         </verse>
-
         <interlude>
             <line>There you go</line>
             <line>There it goes...</line>
         </interlude>
-
         <!--bb: instrumental here-->
-
         <verse n="2">
             <line>Well I wish that I was as good as you</line>
             <line>Caring and trusting</line>
@@ -28,7 +42,6 @@
             <line>And I pretend like I got something to say</line>
             <line>But I've got nothing</line>
         </verse>
-
         <chorus>
             <line>Now I know that you stole</line>
             <line>Yeah you stole</line>
@@ -40,9 +53,7 @@
             <line>At least we both know where the other one sleeps</line>
             <line>So let's end this tonight</line>
         </chorus>
-
         <!--bb: instrumental here-->
-
         <chorus>
             <line>Now I know that you stole</line>
             <line>Yeah, you stole</line>
@@ -54,7 +65,6 @@
             <line>At least we both know where the other one sleeps</line>
             <line>So let's end this tonight</line>
         </chorus>
-
         <!--bb: instrumental here-->
     </lyrics>
-</root>
+</song>

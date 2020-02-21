@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <title>Gasoline</title>
+<song>
+    <info>
+        <title>Gasoline</title>
+        <album>Daisy</album>
+        <track n="4"/>
+        <tempo bpm=""/>
+        <key></key>
+        <songWriter>Vince Accardi</songWriter>
+        <composer>
+            <li n="1">Brand New</li>
+            <li n="2">Mike Sapone</li>
+        </composer>
+        <producer>Mike Sapone</producer>
+        <label>Interscope Records</label>
+        <songLength>00:03:32</songLength>
+    </info>
     <lyrics>
         <verse n="1">
             <line>So you tried to put a fire out</line>
@@ -12,7 +26,6 @@
             <line>I think it drowned in holy water</line>
             <line>I think it's time we all come clean</line>
         </verse>
-
         <chorus>
             <line>I swear it's like dying</line>
             <line>To catch a ghost</line>
@@ -23,7 +36,6 @@
             <line>It feels like I'm trying</line>
             <line>To hold smoke</line>
         </chorus>
-
         <verse n="2">
             <line>When the army had to hold the line</line>
             <line>Well you were nowhere near the front</line>
@@ -34,17 +46,14 @@
             <line>You think that no one else is lonesome</line>
             <line>You think that you're the only one</line>
         </verse>
-
         <bridge>
             <line>It feels like I'm jumping towards a train</line>
             <line>It feels like I'm jumping towards a train</line>
             <line>Well I'm trying to find a way</line>
-
             <line>It feels like I'm jumping towards a train</line>
             <line>It feels like I'm jumping towards a train</line>
             <line>Well I'm trying to find a way</line>
         </bridge>
-        
         <outro><!--bb: there's some dankass guitar effects here --></outro>
     </lyrics>
-</root>
+</song>

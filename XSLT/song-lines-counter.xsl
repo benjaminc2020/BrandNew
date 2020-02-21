@@ -1,13 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    exclude-result-prefixes="xs"
-    version="2.0">
-
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
+    <xsl:variable name="bnAlbum1" as="document-node()+" select="collection('../XML/YourFavoriteWeapon/?select=*.xml')"/>
+    <xsl:variable name="bnAlbum2" as="document-node()+" select="collection('../XML/DejaEntendu/?select=*.xml')"/>
+    <xsl:variable name="bnAlbum3" as="document-node()+" select="collection('../XML/TheDevilAndGodAreRagingInsideMe/?select=*.xml')"/>
+    <xsl:variable name="bnAlbum4" as="document-node()+" select="collection('../XML/Daisy/?select=*.xml')"/>
+    <xsl:variable name="bnAlbum5" as="document-node()+" select="collection('../XML/LeakedDemos2006/?select=*.xml')"/>
+    <xsl:variable name="bnAlbum6" as="document-node()+" select="collection('../XML/ScienceFiction/?select=*.xml')"/>
+    <xsl:variable name="bnAlbum7" as="document-node()+" select="collection('../XML/EPs/?select=*.xml')"/>
     <xsl:template match="/">
-        <song>
-            <xsl:apply-templates/>
-        </song>
+        <xsl:for-each select="$bnAlbum1//root()">
+            <xsl:variable name="filename">
+                <xsl:value-of select="replace(base-uri(), '\.xml', '.xml') ! tokenize(., '/')[last()]"/>
+            </xsl:variable>
+            <xsl:result-document method="xml" indent="yes" href="../XML/transform/YourFavoriteWeapon/{$filename}">
+                <xsl:processing-instruction name="xml-model">href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"</xsl:processing-instruction>
+                <song>
+                    <xsl:apply-templates/>
+                </song>
+            </xsl:result-document>
+        </xsl:for-each>
+        <xsl:for-each select="$bnAlbum2//root()">
+            <xsl:variable name="filename">
+                <xsl:value-of select="replace(base-uri(), '\.xml', '.xml') ! tokenize(., '/')[last()]"/>
+            </xsl:variable>
+            <xsl:result-document method="xml" indent="yes" href="../XML/transform/DejaEntendu/{$filename}">
+                <xsl:processing-instruction name="xml-model">href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"</xsl:processing-instruction>
+                <song>
+                    <xsl:apply-templates/>
+                </song>
+            </xsl:result-document>
+        </xsl:for-each>
+        <xsl:for-each select="$bnAlbum3//root()">
+            <xsl:variable name="filename">
+                <xsl:value-of select="replace(base-uri(), '\.xml', '.xml') ! tokenize(., '/')[last()]"/>
+            </xsl:variable>
+            <xsl:result-document method="xml" indent="yes" href="../XML/transform/TheDevilAndGodAreRagingInsideMe/{$filename}">
+                <xsl:processing-instruction name="xml-model">href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"</xsl:processing-instruction>
+                <song>
+                    <xsl:apply-templates/>
+                </song>
+            </xsl:result-document>
+        </xsl:for-each>
+        <xsl:for-each select="$bnAlbum4//root()">
+            <xsl:variable name="filename">
+                <xsl:value-of select="replace(base-uri(), '\.xml', '.xml') ! tokenize(., '/')[last()]"/>
+            </xsl:variable>
+            <xsl:result-document method="xml" indent="yes" href="../XML/transform/Daisy/{$filename}">
+                <xsl:processing-instruction name="xml-model">href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"</xsl:processing-instruction>
+                <song>
+                    <xsl:apply-templates/>
+                </song>
+            </xsl:result-document>
+        </xsl:for-each>
+        <xsl:for-each select="$bnAlbum5//root()">
+            <xsl:variable name="filename">
+                <xsl:value-of select="replace(base-uri(), '\.xml', '.xml') ! tokenize(., '/')[last()]"/>
+            </xsl:variable>
+            <xsl:result-document method="xml" indent="yes" href="../XML/transform/LeakedDemos2006/{$filename}">
+                <xsl:processing-instruction name="xml-model">href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"</xsl:processing-instruction>
+                <song>
+                    <xsl:apply-templates/>
+                </song>
+            </xsl:result-document>
+        </xsl:for-each>
+        <xsl:for-each select="$bnAlbum6//root()">
+            <xsl:variable name="filename">
+                <xsl:value-of select="replace(base-uri(), '\.xml', '.xml') ! tokenize(., '/')[last()]"/>
+            </xsl:variable>
+            <xsl:result-document method="xml" indent="yes" href="../XML/transform/ScienceFiction/{$filename}">
+                <xsl:processing-instruction name="xml-model">href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"</xsl:processing-instruction>
+                <song>
+                    <xsl:apply-templates/>
+                </song>
+            </xsl:result-document>
+        </xsl:for-each>
+        <xsl:for-each select="$bnAlbum7//root()">
+            <xsl:variable name="filename">
+                <xsl:value-of select="replace(base-uri(), '\.xml', '.xml') ! tokenize(., '/')[last()]"/>
+            </xsl:variable>
+            <xsl:result-document method="xml" indent="yes" href="../XML/transform/EPs/{$filename}">
+                <xsl:processing-instruction name="xml-model">href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"</xsl:processing-instruction>
+                <song>
+                    <xsl:apply-templates/>
+                </song>
+            </xsl:result-document>
+        </xsl:for-each>
     </xsl:template>
 
     <xsl:template match="line/ref">
@@ -29,83 +106,129 @@
         </line>
     </xsl:template>
 
-    <xsl:template match="title">
-        <xsl:if test="root()//album[contains(., 'Your Favorite Weapon')]">
-            <title ref="#1-{//title ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}-{root()//track/@n}">
-                <xsl:apply-templates/>
-            </title>
+    <xsl:template match="descendant::info">
+        <xsl:if test="child::album[contains(., 'Your Favorite Weapon')]">
+            <info>
+                <title ref="#1-{child::title ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}-{root()//track/@n}">
+                    <xsl:apply-templates/>
+                </title>
+                <album ref="#1-{child::album ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}">
+                    <xsl:apply-templates/>
+                </album>
+                <track n="{@n}"/>
+                <key><xsl:apply-templates/></key>
+                <songWriter><xsl:apply-templates/></songWriter>
+                <composer><xsl:apply-templates/></composer>
+                <producer><xsl:apply-templates/></producer>
+                <label><xsl:apply-templates/></label>
+                <songLength><xsl:apply-templates/></songLength>
+            </info>
         </xsl:if>
-        <xsl:if test="root()//album[contains(., 'Deja Entendu')]">
-            <title ref="#2-{//title ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}-{root()//track/@n}">
-                <xsl:apply-templates/>
-            </title>
+        <xsl:if test="child::album[contains(., 'Deja Entendu')]">
+            <info>
+                <title ref="#2-{child::title ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}-{root()//track/@n}">
+                    <xsl:apply-templates/>
+                </title>
+                <album ref="#2-{child::album ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}">
+                    <xsl:apply-templates/>
+                </album>
+                <track n="{@n}"/>
+                <key><xsl:apply-templates/></key>
+                <songWriter><xsl:apply-templates/></songWriter>
+                <composer><xsl:apply-templates/></composer>
+                <producer><xsl:apply-templates/></producer>
+                <label><xsl:apply-templates/></label>
+                <songLength><xsl:apply-templates/></songLength>
+            </info>
         </xsl:if>
-        <xsl:if test="root()//album[contains(., 'The Devil And God Are Raging Inside Me')]">
-            <title ref="#3-{//title ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}-{root()//track/@n}">
-                <xsl:apply-templates/>
-            </title>
+        <xsl:if test="child::album[contains(., 'The Devil And God Are Raging Inside Me')]">
+            <info>
+                <title ref="#3-{child::title ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}-{root()//track/@n}">
+                    <xsl:apply-templates/>
+                </title>
+                <album ref="#3-{child::album ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}">
+                    <xsl:apply-templates/>
+                </album>
+                <track n="{@n}"/>
+                <key><xsl:apply-templates/></key>
+                <songWriter><xsl:apply-templates/></songWriter>
+                <composer><xsl:apply-templates/></composer>
+                <producer><xsl:apply-templates/></producer>
+                <label><xsl:apply-templates/></label>
+                <songLength><xsl:apply-templates/></songLength>
+            </info>
         </xsl:if>
-        <xsl:if test="root()//album[contains(., 'Daisy')]">
-            <title ref="#4-{//title ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}-{root()//track/@n}">
-                <xsl:apply-templates/>
-            </title>
+        <xsl:if test="child::album[contains(., 'Daisy')]">
+            <info>
+                <title ref="#4-{child::title ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}-{root()//track/@n}">
+                    <xsl:apply-templates/>
+                </title>
+                <album ref="#4-{child::album ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}">
+                    <xsl:apply-templates/>
+                </album>
+                <track n="{@n}"/>
+                <key><xsl:apply-templates/></key>
+                <songWriter><xsl:apply-templates/></songWriter>
+                <composer><xsl:apply-templates/></composer>
+                <producer><xsl:apply-templates/></producer>
+                <label><xsl:apply-templates/></label>
+                <songLength><xsl:apply-templates/></songLength>
+            </info>
         </xsl:if>
-        <xsl:if test="root()//album[contains(., 'Leaked Demos 2006')]">
-            <title ref="#5-{//title ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}-{root()//track/@n}">
-                <xsl:apply-templates/>
-            </title>
+        <xsl:if test="child::album[contains(., 'Leaked Demos 2006')]">
+            <info>
+                <title ref="#5-{child::title ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}-{root()//track/@n}">
+                    <xsl:apply-templates/>
+                </title>
+                <album ref="#5-{child::album ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}">
+                    <xsl:apply-templates/>
+                </album>
+                <track n="{@n}"/>
+                <key><xsl:apply-templates/></key>
+                <songWriter><xsl:apply-templates/></songWriter>
+                <composer><xsl:apply-templates/></composer>
+                <producer><xsl:apply-templates/></producer>
+                <label><xsl:apply-templates/></label>
+                <songLength><xsl:apply-templates/></songLength>
+            </info>
         </xsl:if>
-        <xsl:if test="root()//album[contains(., 'Science Fiction')]">
-            <title ref="#6-{//title ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}-{root()//track/@n}">
-                <xsl:apply-templates/>
-            </title>
+        <xsl:if test="child::album[contains(., 'Science Fiction')]">
+            <info>
+                <title ref="#6-{child::title ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}-{root()//track/@n}">
+                    <xsl:apply-templates/>
+                </title>
+                <album ref="#6-{child::album ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}">
+                    <xsl:apply-templates/>
+                </album>
+                <track n="{@n}"/>
+                <key><xsl:apply-templates/></key>
+                <songWriter><xsl:apply-templates/></songWriter>
+                <composer><xsl:apply-templates/></composer>
+                <producer><xsl:apply-templates/></producer>
+                <label><xsl:apply-templates/></label>
+                <songLength><xsl:apply-templates/></songLength>
+            </info>
         </xsl:if>
-        <xsl:if test="root()//album[contains(., 'EPs')]">
-            <title ref="#7-{//title ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}-{root()//track/@n}">
-                <xsl:apply-templates/>
-            </title>
+        <xsl:if test="child::album[contains(., 'EPs')]">
+            <info>
+                <title ref="#7-{child::title ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}-{root()//track/@n}">
+                    <xsl:apply-templates/>
+                </title>
+                <album ref="#7-{child::album ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}">
+                    <xsl:apply-templates/>
+                </album>
+                <track n="{@n}"/>
+                <key><xsl:apply-templates/></key>
+                <songWriter><xsl:apply-templates/></songWriter>
+                <composer><xsl:apply-templates/></composer>
+                <producer><xsl:apply-templates/></producer>
+                <label><xsl:apply-templates/></label>
+                <songLength><xsl:apply-templates/></songLength>
+            </info>
         </xsl:if>
     </xsl:template>
 
-    <xsl:template match="album">
-        <xsl:if test=".[contains(., 'Your Favorite Weapon')]">
-            <title ref="#1-{//album ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}">
-                <xsl:apply-templates/>
-            </title>
-        </xsl:if>
-        <xsl:if test=".[contains(., 'Deja Entendu')]">
-            <title ref="#2-{//album ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}">
-                <xsl:apply-templates/>
-            </title>
-        </xsl:if>
-        <xsl:if test=".[contains(., 'The Devil And God Are Raging Inside Me')]">
-            <title ref="#3-{//album ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}">
-                <xsl:apply-templates/>
-            </title>
-        </xsl:if>
-        <xsl:if test=".[contains(., 'Daisy')]">
-            <title ref="#4-{//album ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}">
-                <xsl:apply-templates/>
-            </title>
-        </xsl:if>
-        <xsl:if test=".[contains(., 'Leaked Demos 2006')]">
-            <title ref="#5-{//album ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}">
-                <xsl:apply-templates/>
-            </title>
-        </xsl:if>
-        <xsl:if test=".[contains(., 'Science Fiction')]">
-            <title ref="#6-{//album ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}">
-                <xsl:apply-templates/>
-            </title>
-        </xsl:if>
-        <xsl:if test=".[contains(., 'EPs')]">
-            <title ref="#7-{//album ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}">
-                <xsl:apply-templates/>
-            </title>
-        </xsl:if>
-    </xsl:template>
-
-    <xsl:template match="verse">
+    <xsl:template match="descendant::verse">
         <verse n="{preceding::verse => count() + 1}">
             <xsl:apply-templates/>
         </verse>
@@ -129,58 +252,10 @@
         </lyrics>
     </xsl:template>
 
-    <xsl:template match="info">
-        <info>
+    <xsl:template match="li">
+        <li n="{@n}">
             <xsl:apply-templates/>
-        </info>
-    </xsl:template>
-
-    <xsl:template match="track">
-        <track n="{@n}">
-            <xsl:apply-templates/>
-        </track>
-    </xsl:template>
-
-    <xsl:template match="tempo">
-        <tempo bpm="{@bpm}">
-            <xsl:apply-templates/>
-        </tempo>
-    </xsl:template>
-
-    <xsl:template match="key">
-        <key>
-            <xsl:apply-templates/>
-        </key>
-    </xsl:template>
-
-    <xsl:template match="songWriter">
-        <songWriter>
-            <xsl:apply-templates/>
-        </songWriter>
-    </xsl:template>
-
-    <xsl:template match="composer">
-        <composer>
-            <xsl:apply-templates/>
-        </composer>
-    </xsl:template>
-
-    <xsl:template match="producer">
-        <producer>
-            <xsl:apply-templates/>
-        </producer>
-    </xsl:template>
-
-    <xsl:template match="label">
-        <label>
-            <xsl:apply-templates/>
-        </label>
-    </xsl:template>
-
-    <xsl:template match="songLength">
-        <songLength>
-            <xsl:apply-templates/>
-        </songLength>
+        </li>
     </xsl:template>
 
 </xsl:stylesheet>
