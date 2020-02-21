@@ -49,10 +49,10 @@
             <line n="19">Let's say we go and <refer img="car">crash your car</refer>
          </line>
             <line n="20">And every time I leave you go and lock the door</line>
-            <line n="21">So I walk myself picking at a <refer img="idiom">chip on my shoulder</refer>
+            <line n="21">So I walk myself picking at a <refer type="idiom">chip on my shoulder</refer>
          </line>
-            <line n="22">I'm another day late and one year older</line>
-            <line n="23">It's <refer img="songTitle">failure by design</refer>
+            <line n="22">I'm <refer img="time">another day late and one year older</refer></line>
+            <line n="23">It's <refer type="songTitle">failure by design</refer>
          </line>
         </chorus>
         <verse n="2">
@@ -64,7 +64,7 @@
             <line n="28">I got <refer img="car">no gas</refer> (no gas)</line>
             <line n="29">I'm winding out my <refer img="car">gears</refer>
          </line>
-            <line n="30">This is one more day <refer img="idiom">on the verge of</refer> tears</line>
+            <line n="30">This is <refer img="time">one more day</refer> <refer type="idiom">on the verge of</refer> tears</line>
             <line n="31">And now my head hurts (head hurts)</line>
             <line n="32">And my health is a joke</line>
             <line n="33">Now I gotta stop because the headphones broke</line>
@@ -82,16 +82,16 @@
             <line n="42">Let's say we go and <refer img="car">crash your car</refer>
          </line>
             <line n="43">And every time I leave you go and lock the door</line>
-            <line n="44">And I walk myself picking at a <refer img="idiom">chip on my shoulder</refer>
+            <line n="44">And I walk myself picking at a <refer type="idiom">chip on my shoulder</refer>
          </line>
-            <line n="45">I'm another day late and one year older</line>
-            <line n="46">It's <refer img="songTitle">failure by design</refer>
+            <line n="45">I'm <refer img="time">another day late and one year older</refer></line>
+            <line n="46">It's <refer type="songTitle">failure by design</refer>
          </line>
         </chorus>
         <bridge n="1">
          <line n="47">I'm out of everything</line>
-            <line n="48">No one sleeps till we get this shit out on the shelves</line>
-            <line n="49">It's late, I'm faltering</line>
+            <line n="48">No one <refer img="bed">sleeps</refer> till we get this shit out on the shelves</line>
+            <line n="49">It's <refer img ="time">late</refer>, I'm faltering</line>
             <line n="50">But this time I got nothing to say besides</line>
             <line n="51">Doo doo doo, doo doo doo</line>
             <line n="52">Doo doo doo, doo doo doo (Baby, I'm better than this)</line>
@@ -107,15 +107,15 @@
                 <line n="60">This is a lesson in procrastination</line>
                 <line n="61">I kill myself because I'm so frustrated</line>
                 <line n="62">And <refer img="time">every single second</refer> that I put it off</line>
-                <line n="63">Means another lonely night I gotta <refer img="idiom">race the clock</refer>
+                <line n="63">Means another lonely night I gotta <refer type="idiom">race the clock</refer>
          </line>
                 <line n="64">(I ignore it and it ignores me too)</line>
                 <line n="65">What say we go and <refer img="car">crash your car</refer>?</line>
                 <line n="66">And every time I leave you go and lock the door</line>
-                <line n="67">So I walk myself picking at a <refer img="idiom">chip on my shoulder</refer>
+                <line n="67">So I walk myself picking at a <refer type="idiom">chip on my shoulder</refer>
          </line>
                 <line n="68">I'm another day late and one year older</line>
-                <line n="69">I'm a <refer img="songTitle">failure by design</refer>
+                <line n="69">I'm a <refer type="songTitle">failure by design</refer>
          </line>
             </chorus>
     </lyrics>
