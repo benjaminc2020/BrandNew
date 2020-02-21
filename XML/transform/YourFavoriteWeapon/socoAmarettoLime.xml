@@ -2,7 +2,7 @@
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <info>
-      <title ref="#1-SAL-12"/>
+      <title ref="#1-SAL-12"><refer img="alcohol">Soco Amaretto Lime</refer></title>
       <album ref="#1-YFW">Your Favorite Weapon</album>
       <track n="12"/>
       <tempo bpm="96"/>
@@ -23,7 +23,7 @@
             <line n="1">Passed out on the <refer img="car">overpass</refer>
          </line>
             <line n="2">
-            <refer img="idiom">Sunday best</refer> and broken glass</line>
+            <refer type="idiom">Sunday best</refer> and broken glass</line>
             <line n="3">Broken down from the bikes and <refer img="alcohol">bars</refer>
          </line>
             <line n="4">Suspended like spirits over <refer img="car">speeding cars</refer>
@@ -31,7 +31,7 @@
             <line n="5">You and me were kings over the <refer img="car">parkway</refer> tonight</line>
             <line n="6">And <refer img="time">tonight</refer> will go on <refer img="time">forever</refer> while we</line>
             <line n="7">walk around this town like we own the streets</line>
-            <line n="8">and stay awake through summer like we own the heat</line>
+            <line n="8">and stay awake through <refer img="season">summer</refer> like we own the heat</line>
             <line n="9">Singing "everybody wake up (wake up) it's <refer img="time">time</refer> to get down"</line>
             <line n="10">(everybody, everybody wake up its <refer img="time">time</refer> to get down)</line>
             <line n="11">And when I <refer img="alcohol">pass the bottle</refer> back to Pete</line>

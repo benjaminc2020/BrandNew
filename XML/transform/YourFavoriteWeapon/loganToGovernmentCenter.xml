@@ -30,19 +30,19 @@
                 <line n="7">I know you waited</line>
             </verse>
         <chorus n="1">
-            <line n="8">You wouldn't get me on the phone</line>
+            <line n="8">You wouldn't get me on the <refer img="phone">phone</refer></line>
             <line n="9">And you couldn't make me not alone</line>
         </chorus>
         <verse n="2">
-            <line n="10">My phone bills stacked up by my bedside,</line>
+            <line n="10">My <refer img="phone">phone bills</refer> stacked up by my bedside,</line>
             <line n="11">with your picture, you're looking surprised</line>
             <line n="12">You're what makes New England so great</line>
-            <line n="13">My island nights are all spent dying</line>
-            <line n="14">Wait for summer to become wrought with lips,</line>
+            <line n="13">My island <refer img="time">nights</refer> are all spent <refer img="death">dying</refer></line>
+            <line n="14">Wait for <refer img="season">summer</refer> to become wrought with lips,</line>
             <line n="15">my wishful thinking</line>
         </verse>
         <chorus n="2">
-            <line n="16">You wouldn't get me on the phone</line>
+            <line n="16">You wouldn't get me on the <refer img="phone">phone</refer></line>
             <line n="17">And you couldn't make me not alone</line>
             <line n="18">(Yeah you wouldn't get me</line>
             <line n="19">Yeah you're a blue eyed lightning bolt</line>
@@ -53,15 +53,15 @@
                 gone)</line>
         </chorus>
         <verse n="3">
-            <line n="24">I never thought this <refer img="time">day</refer> would end (never thought this day would end)</line>
-            <line n="25">I never thought tonight could ever be this close to me (close to me)</line>
+            <line n="24">I never thought this <refer img="time">day</refer> would end (never thought this <refer img="time">day</refer> would end)</line>
+            <line n="25">I never thought <refer img="day">tonight</refer> could ever be this close to me (close to me)</line>
             <line n="26">So let my hands stray past that boundaries of your back</line>
             <line n="27">to get you breathing (get you breathing)</line>
             <line n="28">And get this started (get this started)</line>
         </verse>
         <chorus n="3">
                 <line n="29">You wouldn't get me, you wouldn't get me</line>
-                <line n="30">You wouldn't get me on the phone</line>
+                <line n="30">You wouldn't get me on the <refer img="phone">phone</refer></line>
                 <line n="31">(Yeah, you wouldn't get me)</line>
                 <line n="32">Yeah you're a blue eyed lightning bolt</line>
                 <line n="33">(You wouldn't get me)</line>

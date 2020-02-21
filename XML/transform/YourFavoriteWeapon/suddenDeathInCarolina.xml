@@ -5,7 +5,7 @@
       <title ref="#1-SDIC-3">Sudden Death In Carolina</title>
       <album ref="#1-YFW">Your Favorite Weapon</album>
       <track n="3"/>
-      <tempo bpm=""/>
+      <tempo bpm="2"/>
       <key/>
       <songWriter>
             <li n="1">Jesse Lacey</li>
@@ -22,12 +22,12 @@
         <verse n="1">
             <line n="1">Last night I swallowed <refer img="alcohol">liquor</refer> and <refer img="fire">a
                     lighter</refer> and this <refer img="time">morning</refer> I threw up fire.</line>
-            <line n="2">But it's nothing new. I've been <refer img="idiom">piecing it together</refer> and
+            <line n="2">But it's nothing new. I've been <refer type="idiom">piecing it together</refer> and
                 it's got something to do</line>
             <line n="3">with every look thrown like a knife across a crowded room.</line>
             <line n="4">Every slow and quiet <refer img="car">car ride</refer> I spent <refer img="alcohol">drinking</refer> in the <refer img="car">backseat</refer>.</line>
             <line n="5">Every stupid melody to every stupid song.</line>
-            <line n="6">And every stupid word that everybody's <refer img="idiom">hanging on</refer>.</line>
+            <line n="6">And every stupid word that everybody's <refer type="idiom">hanging on</refer>.</line>
         </verse>
 
         <chorus n="1">
@@ -56,7 +56,7 @@
             <line n="19">I know how it ends... she'll <refer img="death">kill</refer> me quick.</line>
             <line n="20">Call 911.</line>
             <line n="21">I'm already <refer img="death">dead</refer> but someone should be caught</line>
-            <line n="22">and <refer img="idiom">held responsible</refer> for this bloody mess.</line>
+            <line n="22">and <refer type="idiom">held responsible</refer> for this bloody mess.</line>
         </chorus>
 
         <verse n="3">
@@ -77,7 +77,7 @@
             <line n="32">and held responsible for this bloody mess.</line>
             <line n="33">Call <refer img="death">homicide</refer>. Take the case to court.</line>
             <line n="34">Her lips taste like a loaded gun</line>
-            <line n="35">and <refer img="idiom">I'm her number one</refer>
+            <line n="35">and <refer type="idiom">I'm her number one</refer>
                 <refer img="death">chalk outline</refer> on the <refer img="house">floor</refer>.</line>
         </chorus>
     </lyrics>

@@ -36,7 +36,7 @@
         </chorus>
 
         <verse n="2">
-            <line n="11">Every time I hear it I am wishing I was great</line>
+            <line n="11"><refer img="time">Every time</refer> I hear it I am wishing I was great</line>
             <line n="12">I wish her... past tense my best friend</line>
             <line n="13">But I folded and I told</line>
             <line n="14">These aren't things I say to save me</line>
@@ -54,24 +54,24 @@
             <line n="20">It's time for you to choose</line>
             <line n="21">It's time for you to choose</line>
             <line n="22">the bullet or the chapstick</line>
-            <line n="23">This is me in his room</line>
-            <line n="24">This is me in his room</line>
-            <line n="25">This is me in his room</line>
+            <line n="23">This is me in his <refer img="house">room</refer></line>
+            <line n="24">This is me in his <refer img="house">room</refer></line>
+            <line n="25">This is me in his <refer img="house">room</refer></line>
         </bridge>
 
         <bridge n="2">
             <line n="26">Red, gold, I told</line>
-            <line n="27">We don't play fair</line>
+            <line n="27">We don't <refer type="idiom">play fair</refer></line>
             <line n="28">Red, gold, I told</line>
             <line n="29">We never stand too close</line>
         </bridge>
 
         <verse n="3">
-            <line n="30">So I update this almost every single day for
+            <line n="30">So I update this almost <refer img="time">every single day</refer> for
                 you</line>
             <line n="31">I begin to hate you for your face and not just the things you do</line>
             <line n="32">Go tell him how my wrist is sore</line>
-            <line n="33">from pulling at your insides all night</line>
+            <line n="33">from pulling at your insides <refer img="time">all night</refer></line>
             <line n="34">Nothing that you do is new to anything or anyone but you </line>
         </verse>
     </lyrics>

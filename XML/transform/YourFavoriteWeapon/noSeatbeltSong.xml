@@ -19,7 +19,7 @@
       <songLength>00:04:31</songLength>
    </info>
     <lyrics>
-        <line n="1">So, it's sad this doesn't <refer img="idiom">suit you</refer> now.</line>
+        <line n="1">So, it's sad this doesn't <refer type="idiom">suit you</refer> now.</line>
         <line n="2">And me fresh out of rope...</line>
         <line n="3">Please ignore this lisp, I never meant to sound like this.</line>
         <line n="4">So take me and break me and make me strong like you.</line>
@@ -28,7 +28,7 @@
         <line n="7">Or I don't want anyone.</line>
         <line n="8">If I can choose it's only you.</line>
         <line n="9">Fix me to a chain around your neck and wear me like a nickel.</line>
-        <line n="10">Even <refer img="rel">new wine served in old skins</refer> cheapens the taste.</line>
+        <line n="10">Even <refer type="bible">new wine served in old skins</refer> cheapens the taste.</line>
         <line n="11">I shot the pilot, now I'm begging you to fly this for me.</line>
         <line n="12">I'm here for you to use, broken and bruised.</line>
         <line n="13">Do you understand?</line>

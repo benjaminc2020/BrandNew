@@ -20,7 +20,7 @@
    </info>
     <lyrics>
         <verse n="1">
-            <line n="1">And it <refer img="idiom">comes down to you</refer>.</line>
+            <line n="1">And it <refer type="idiom">comes down to you</refer>.</line>
             <line n="2">Never and ever.</line>
             <line n="3">Wrecked his <refer img="time">day</refer> with looks and flirts</line>
             <line n="4">and <refer img="time">midnight</refer> in your shortest skirts.</line>
@@ -33,7 +33,7 @@
             <line n="7">Stop these looks and letters.</line>
             <line n="8">This isn't for the better.</line>
             <line n="9">
-            <refer img="idiom">You put me down</refer>...</line>
+            <refer type="idiom">You put me down</refer>...</line>
             <line n="10">It's for the worse, you're not my girl.</line>
         </chorus>
         <verse n="2">
@@ -43,18 +43,18 @@
         
             <line n="13">Past the point of trying, and I'm dying here.</line>
             <line n="14">
-         <refer img="songTitle">Secondary</refer>. She laughs at every word I know came out completely wrong.</line>
+         <refer type="songTitle">Secondary</refer>. She laughs at every word I know came out completely wrong.</line>
         
         <chorus n="2">
             <line n="15">Stop these looks and letters.</line>
             <line n="16">This isn't for the better.</line>
-            <line n="17">You <refer img="idiom">put me down</refer>...</line>
+            <line n="17">You <refer type="idiom">put me down</refer>...</line>
             <line n="18">It's for the worse, you're not my girl.</line>
         </chorus>
         <chorus n="3">
             <line n="19">Stop these looks and letters.</line>
             <line n="20">This isn't for the better.</line>
-            <line n="21">You <refer img="idiom">put me down</refer>...</line>
+            <line n="21">You <refer type="idiom">put me down</refer>...</line>
             <line n="22">It's for the worse, you're not my girl.</line>
         </chorus>
         <bridge n="1">
@@ -71,15 +71,15 @@
         <chorus n="4">
             <line n="30">Stop these looks and letters.</line>
             <line n="31">This isn't for the better.</line>
-            <line n="32">You <refer img="idiom">put me down</refer>...</line>
+            <line n="32">You <refer type="idiom">put me down</refer>...</line>
             <line n="33">It's for the worse, you're not my girl.</line>
         </chorus>
         
             <line n="34">Better scenes... I wish she'd seen me.</line>
             <line n="35">
-         <refer img="idiom">Better off</refer> if I just let it be.</line>
+         <refer type="idiom">Better off</refer> if I just let it be.</line>
             <line n="36">Better pretend it don't matter.</line>
-            <line n="37">I'd be <refer img="idiom">better off</refer> if I could have her.</line>
+            <line n="37">I'd be <refer type="idiom">better off</refer> if I could have her.</line>
             <line n="38">Better <refer img="time">days</refer> since the <refer img="time">day </refer>I met her.</line>
             <line n="39">I better hope she got my letters.</line>
             <line n="40">Better off in two <refer img="time">year</refer> stretches...</line>
