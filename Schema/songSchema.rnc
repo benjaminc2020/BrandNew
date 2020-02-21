@@ -2,7 +2,7 @@ datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start = song
 song = element song {info, lyrics}
-info = element info{title, album, track, tempo, key, songWriter+, composer+, producer+, label+, singRelease*, video*, songLength}
+info = element info{title, album, track, tempo, key, songWriter+, composer+, producer+, singRelease*, video*, songLength}
 title = element title {ref, refer*, text}
 xmlid = attribute xml:id {xsd:ID}
 album = element album {ref, ("Daisy" | "Deja Entendu" | "EPs" | "Leaked Demos" | "Science Fiction" | "The Devil And God Are Raging Inside Me" | "Your Favorite Weapon")}
@@ -15,7 +15,6 @@ songWriter = element songWriter{li+}
 li = element li {n, text}
 composer = element composer{text}
 producer = element producer{text}
-label = element label{text}
 singRelease = element singRelease {xsd:date}
 video = element video {released, dir?, prod?, text}
 dir = element dir {text}

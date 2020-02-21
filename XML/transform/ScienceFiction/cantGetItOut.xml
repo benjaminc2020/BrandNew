@@ -2,33 +2,34 @@
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <info>
-      <title ref="#6-C'tGIO-2">Can't Get It Out</title>
-      <album ref="#6-SF">Science Fiction</album>
-      <track n="2"/>
-      <tempo bpm=""/>
-      <key/>
-      <songWriter>Brand New</songWriter>
-      <composer/>
-      <producer>Mike Sapone</producer>
-      <label>Procrastinate! Music Traitors</label>
-      <songLength>00:03:43</songLength>
-   </info>
+        <title ref="#6-C'tGIO-2">Can't Get It Out</title>
+        <album ref="#6-SF">Science Fiction</album>
+        <track n="2"/>
+        <tempo bpm="1"/>
+        <key/>
+        <songWriter>
+            <li n="1">Brand New</li>
+        </songWriter>
+        <composer></composer>
+        <producer>Mike Sapone</producer>
+        <songLength>00:03:43</songLength>
+    </info>
     <lyrics>
         <line n="1">As we glide over whatever</line>
-        <line n="2">We know to be over forever</line>
+        <line n="2">We know to be over <refer img="time">forever</refer></line>
         <line n="3">I really hope the shame is less</line>
         <line n="4">For what we feel in times of stress</line>
         <line n="5">But, I guess that's just depression</line>
         <line n="6">No sense in fighting it now</line>
-        <line n="7">You had me caught in your headlights</line>
+        <line n="7">You had me caught in your <refer img="car">headlights</refer></line>
         <line n="8">You were running me down</line>
-        <line n="9">We speak in tongues and start to teethe</line>
+        <line n="9">We <refer img="rel">speak in tongues</refer> and start to teethe</line>
         <line n="10">Lift your voice and scrape your knees</line>
         <line n="11">Kids in love will plant a seed</line>
         <line n="12">Resurrect and start to breathe</line>
         <line n="13">I thought I was a creator</line>
         <line n="14">I'm here just hanging around</line>
-        <line n="15">Got my messiah impression</line>
+        <line n="15">Got my <refer img="rel">messiah</refer> impression</line>
         <line n="16">I think I got it nailed down</line>
         <line n="17">I want to tell you we're alright</line>
         <line n="18">Want to erase all your doubt</line>
