@@ -110,120 +110,127 @@
         <xsl:if test="child::album[contains(., 'Your Favorite Weapon')]">
             <info>
                 <title ref="#1-{child::title ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}-{root()//track/@n}">
-                    <xsl:apply-templates/>
+                    <xsl:apply-templates select="child::title/text()"/>
                 </title>
                 <album ref="#1-{child::album ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}">
-                    <xsl:apply-templates/>
+                    <xsl:apply-templates select="child::album/text()"/>
                 </album>
-                <track n="{@n}"/>
-                <key><xsl:apply-templates/></key>
-                <songWriter><xsl:apply-templates/></songWriter>
-                <composer><xsl:apply-templates/></composer>
-                <producer><xsl:apply-templates/></producer>
-                <label><xsl:apply-templates/></label>
-                <songLength><xsl:apply-templates/></songLength>
+                <track n="{child::track/@n}"/>
+                <tempo bpm="{child::tempo/@bpm}"/>
+                <key><xsl:apply-templates select="child::key/text()"/></key>
+                <songWriter><xsl:apply-templates select="child::songWriter"/></songWriter>
+                <composer><xsl:apply-templates select="child::composer"/></composer>
+                <producer><xsl:apply-templates select="child::producer"/></producer>
+                <label><xsl:apply-templates select="child::label"/></label>
+                <songLength><xsl:apply-templates select="child::songLength/text()"/></songLength>
             </info>
         </xsl:if>
         <xsl:if test="child::album[contains(., 'Deja Entendu')]">
             <info>
                 <title ref="#2-{child::title ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}-{root()//track/@n}">
-                    <xsl:apply-templates/>
+                    <xsl:apply-templates select="child::title/text()"/>
                 </title>
                 <album ref="#2-{child::album ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}">
-                    <xsl:apply-templates/>
+                    <xsl:apply-templates select="child::album/text()"/>
                 </album>
-                <track n="{@n}"/>
-                <key><xsl:apply-templates/></key>
-                <songWriter><xsl:apply-templates/></songWriter>
-                <composer><xsl:apply-templates/></composer>
-                <producer><xsl:apply-templates/></producer>
-                <label><xsl:apply-templates/></label>
-                <songLength><xsl:apply-templates/></songLength>
+                <track n="{child::track/@n}"/>
+                <tempo bpm="{child::tempo/@bpm}"/>
+                <key><xsl:apply-templates select="child::key/text()"/></key>
+                <songWriter><xsl:apply-templates select="child::songWriter"/></songWriter>
+                <composer><xsl:apply-templates select="child::composer"/></composer>
+                <producer><xsl:apply-templates select="child::producer"/></producer>
+                <label><xsl:apply-templates select="child::label"/></label>
+                <songLength><xsl:apply-templates select="child::songLength/text()"/></songLength>
             </info>
         </xsl:if>
         <xsl:if test="child::album[contains(., 'The Devil And God Are Raging Inside Me')]">
             <info>
                 <title ref="#3-{child::title ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}-{root()//track/@n}">
-                    <xsl:apply-templates/>
+                    <xsl:apply-templates select="child::title/text()"/>
                 </title>
                 <album ref="#3-{child::album ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}">
-                    <xsl:apply-templates/>
+                    <xsl:apply-templates select="child::album/text()"/>
                 </album>
-                <track n="{@n}"/>
-                <key><xsl:apply-templates/></key>
-                <songWriter><xsl:apply-templates/></songWriter>
-                <composer><xsl:apply-templates/></composer>
-                <producer><xsl:apply-templates/></producer>
-                <label><xsl:apply-templates/></label>
-                <songLength><xsl:apply-templates/></songLength>
+                <track n="{child::track/@n}"/>
+                <tempo bpm="{child::tempo/@bpm}"/>
+                <key><xsl:apply-templates select="child::key/text()"/></key>
+                <songWriter><xsl:apply-templates select="child::songWriter"/></songWriter>
+                <composer><xsl:apply-templates select="child::composer"/></composer>
+                <producer><xsl:apply-templates select="child::producer"/></producer>
+                <label><xsl:apply-templates select="child::label"/></label>
+                <songLength><xsl:apply-templates select="child::songLength/text()"/></songLength>
             </info>
         </xsl:if>
         <xsl:if test="child::album[contains(., 'Daisy')]">
             <info>
                 <title ref="#4-{child::title ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}-{root()//track/@n}">
-                    <xsl:apply-templates/>
+                    <xsl:apply-templates select="child::title/text()"/>
                 </title>
                 <album ref="#4-{child::album ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}">
-                    <xsl:apply-templates/>
+                    <xsl:apply-templates select="child::album/text()"/>
                 </album>
-                <track n="{@n}"/>
-                <key><xsl:apply-templates/></key>
-                <songWriter><xsl:apply-templates/></songWriter>
-                <composer><xsl:apply-templates/></composer>
-                <producer><xsl:apply-templates/></producer>
-                <label><xsl:apply-templates/></label>
-                <songLength><xsl:apply-templates/></songLength>
+                <track n="{child::track/@n}"/>
+                <tempo bpm="{child::tempo/@bpm}"/>
+                <key><xsl:apply-templates select="child::key/text()"/></key>
+                <songWriter><xsl:apply-templates select="child::songWriter"/></songWriter>
+                <composer><xsl:apply-templates select="child::composer"/></composer>
+                <producer><xsl:apply-templates select="child::producer"/></producer>
+                <label><xsl:apply-templates select="child::label"/></label>
+                <songLength><xsl:apply-templates select="child::songLength/text()"/></songLength>
             </info>
         </xsl:if>
         <xsl:if test="child::album[contains(., 'Leaked Demos 2006')]">
             <info>
                 <title ref="#5-{child::title ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}-{root()//track/@n}">
-                    <xsl:apply-templates/>
+                    <xsl:apply-templates select="child::title/text()"/>
                 </title>
                 <album ref="#5-{child::album ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}">
-                    <xsl:apply-templates/>
+                    <xsl:apply-templates select="child::album/text()"/>
                 </album>
-                <track n="{@n}"/>
-                <key><xsl:apply-templates/></key>
-                <songWriter><xsl:apply-templates/></songWriter>
-                <composer><xsl:apply-templates/></composer>
-                <producer><xsl:apply-templates/></producer>
-                <label><xsl:apply-templates/></label>
-                <songLength><xsl:apply-templates/></songLength>
+                <track n="{child::track/@n}"/>
+                <tempo bpm="{child::tempo/@bpm}"/>
+                <key><xsl:apply-templates select="child::key/text()"/></key>
+                <songWriter><xsl:apply-templates select="child::songWriter"/></songWriter>
+                <composer><xsl:apply-templates select="child::composer"/></composer>
+                <producer><xsl:apply-templates select="child::producer"/></producer>
+                <label><xsl:apply-templates select="child::label"/></label>
+                <songLength><xsl:apply-templates select="child::songLength/text()"/></songLength>
             </info>
         </xsl:if>
         <xsl:if test="child::album[contains(., 'Science Fiction')]">
             <info>
                 <title ref="#6-{child::title ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}-{root()//track/@n}">
-                    <xsl:apply-templates/>
+                    <xsl:apply-templates select="child::title/text()"/>
                 </title>
                 <album ref="#6-{child::album ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}">
-                    <xsl:apply-templates/>
+                    <xsl:apply-templates select="child::album/text()"/>
                 </album>
-                <track n="{@n}"/>
-                <key><xsl:apply-templates/></key>
-                <songWriter><xsl:apply-templates/></songWriter>
-                <composer><xsl:apply-templates/></composer>
-                <producer><xsl:apply-templates/></producer>
-                <label><xsl:apply-templates/></label>
-                <songLength><xsl:apply-templates/></songLength>
+                <track n="{child::track/@n}"/>
+                <tempo bpm="{child::tempo/@bpm}"/>
+                <key><xsl:apply-templates select="child::key/text()"/></key>
+                <songWriter><xsl:apply-templates select="child::songWriter"/></songWriter>
+                <composer><xsl:apply-templates select="child::composer"/></composer>
+                <producer><xsl:apply-templates select="child::producer"/></producer>
+                <label><xsl:apply-templates select="child::label"/></label>
+                <songLength><xsl:apply-templates select="child::songLength/text()"/></songLength>
             </info>
         </xsl:if>
         <xsl:if test="child::album[contains(., 'EPs')]">
             <info>
                 <title ref="#7-{child::title ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}-{root()//track/@n}">
-                    <xsl:apply-templates/>
+                    <xsl:apply-templates select="child::title/text()"/>
                 </title>
                 <album ref="#7-{child::album ! tokenize(., ' ') ! replace(., '(\w)(\w+)?', '$1') => string-join()}">
-                    <xsl:apply-templates/>
+                    <xsl:apply-templates select="child::album/text()"/>
                 </album>
-                <track n="{@n}"/>
-                <key><xsl:apply-templates/></key>
-                <songWriter><xsl:apply-templates/></songWriter>
-                <composer><xsl:apply-templates/></composer>
-                <producer><xsl:apply-templates/></producer>
-                <label><xsl:apply-templates/></label>
-                <songLength><xsl:apply-templates/></songLength>
+                <track n="{child::track/@n}"/>
+                <tempo bpm="{child::tempo/@bpm}"/>
+                <key><xsl:apply-templates select="child::key/text()"/></key>
+                <songWriter><xsl:apply-templates select="child::songWriter"/></songWriter>
+                <composer><xsl:apply-templates select="child::composer"/></composer>
+                <producer><xsl:apply-templates select="child::producer"/></producer>
+                <label><xsl:apply-templates select="child::label"/></label>
+                <songLength><xsl:apply-templates select="child::songLength/text()"/></songLength>
             </info>
         </xsl:if>
     </xsl:template>
@@ -251,6 +258,20 @@
             <xsl:apply-templates/>
         </lyrics>
     </xsl:template>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
 
     <xsl:template match="li">
         <li n="{@n}">
