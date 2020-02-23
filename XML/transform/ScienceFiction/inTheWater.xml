@@ -2,25 +2,27 @@
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <info>
-      <title ref="#6-ITW-8">In The Water</title>
-      <album ref="#6-SF">Science Fiction</album>
-      <track n="8"/>
-      <tempo bpm=""/>
-      <key/>
-      <songWriter>Brand New</songWriter>
-      <composer/>
-      <producer>Mike Sapone</producer>
-      <label>Procrastinate! Music Traitors</label>
-      <songLength>00:06:52</songLength>
-   </info>
+        <title ref="#6-ITW-8">In The Water</title>
+        <album ref="#6-SF">Science Fiction</album>
+        <track n="8"/>
+        <tempo bpm="1"/>
+        <key/>
+        <songWriter>
+            <li n="1">Brand New</li>
+        </songWriter>
+        <composer/>
+        <addPer>Mike DiMeo - hammond organ</addPer>
+        <addPer>Frank LaTorre - harmonica</addPer>
+        <songLength>00:06:52</songLength>
+    </info>
     <lyrics>
-        <line n="1">In the water, they sort it out</line>
-        <line n="2">They were waist to neck in December somehow</line>
-        <line n="3">In the water, they twist and shout</line>
+        <line n="1">In the <refer img="water">water</refer>, they sort it out</line>
+        <line n="2">They were waist to neck in <refer img="time">December</refer> somehow</line>
+        <line n="3">In the <refer img="water">water</refer>, they twist and shout</line>
         <line n="4">They were born again, so they can start living now</line>
-        <line n="5">In the water, they saw the face</line>
+        <line n="5">In the <refer img="water">water</refer>, they saw the face</line>
         <line n="6">Of the man who once owned it, ashamed and disgraced</line>
-        <line n="7">In the water, they asked them both</line>
+        <line n="7">In the <refer img="water">water</refer>, they asked them both</line>
         <line n="8">"How did you get the gold without digging any holes?"</line>
         <line n="9">Never had it any other way</line>
         <line n="10">Drowning in the praise</line>

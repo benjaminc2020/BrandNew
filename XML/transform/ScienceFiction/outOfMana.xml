@@ -4,13 +4,11 @@
     <info>
       <title ref="#6-OoM-">Out of Mana</title>
       <album ref="#6-SF">Science Fiction</album>
-      <track n=""/>
-      <tempo bpm=""/>
+      <track n="7"/>
+      <tempo bpm="1"/>
       <key/>
-      <songWriter>Brand New</songWriter>
+      <songWriter><li n="1">Brand New</li></songWriter>
       <composer/>
-      <producer>Mike Sapone</producer>
-      <label>Procrastinate! Music Traitors</label>
       <songLength>00:05:15</songLength>
    </info>
     <lyrics>

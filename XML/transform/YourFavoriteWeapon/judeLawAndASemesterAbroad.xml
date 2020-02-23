@@ -14,8 +14,9 @@
             <li n="4">Brian Lane</li>
         </songWriter>
         <composer>Jesse Lacey</composer>
-        <producer>Mike Sapone</producer>
-        <label>Triple Crown</label>
+        <singRelease>2002-11-11</singRelease>
+        <video><released>2002-07-02</released><dir>Christian Winters</dir><prod>Fun Game
+                Clique</prod></video>
         <songLength>00:03:42</songLength>
     </info>
     <lyrics>
@@ -62,7 +63,8 @@
         <verse n="3">
             <line n="21"><refer img="time">It's 8:45 (it's 8:45</refer>). The weather is getting
                 better <refer type="idiom"><refer img="time">by the hour</refer></refer>.</line>
-            <line n="22">(Rains all the time) I hope it <refer img="water">rains</refer> there ll <refer type="idiom"><refer img="time">all the time</refer></refer>.</line>
+            <line n="22">(Rains all the time) I hope it <refer img="water">rains</refer> there ll
+                    <refer type="idiom"><refer img="time">all the time</refer></refer>.</line>
             <line n="23">And if you ever said you miss me then don't say you never lied.</line>
             <line n="24">I'm without you.</line>
         </verse>

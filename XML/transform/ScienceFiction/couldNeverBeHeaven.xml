@@ -2,17 +2,17 @@
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <info>
-      <title ref="#6-CNBH-4">Could Never Be Heaven</title>
-      <album ref="#6-SF">Science Fiction</album>
-      <track n="4"/>
-      <tempo bpm=""/>
-      <key/>
-      <songWriter>Brand New</songWriter>
-      <composer/>
-      <producer>Mike Sapone</producer>
-      <label>Procrastinate! Music Traitors</label>
-      <songLength>00:03:16</songLength>
-   </info>
+        <title ref="#6-CNBH-4">Could Never Be Heaven</title>
+        <album ref="#6-SF">Science Fiction</album>
+        <track n="4"/>
+        <tempo bpm="1"/>
+        <key/>
+        <songWriter>
+            <li n="1">Brand New</li>
+        </songWriter>
+        <composer/>
+        <songLength>00:03:16</songLength>
+    </info>
     <lyrics>
         <line n="1">Do you know the words that make the hidden door open?</line>
         <line n="2">Can you speak my secret name and fix me?</line>
@@ -49,17 +49,17 @@
         <line n="33">Could never be heaven without you</line>
         <line n="34">Never be heaven without you</line>
         <line n="35">Never be heaven without you</line>
-        <line n="36">"You've got so many things that you do believe you've been conditioned to believe
-            in..."</line>
+        <line n="36">"You've got so many things that you do believe you've been conditioned to
+            believe in..."</line>
         <line n="37"> </line>
         <line n="38">"Mmhmm."</line>
         <line n="39"> </line>
-        <line n="40">"And then if you try and break away from your conditioning and try and be sort of
-            individual and, in least in our day and age right now, you start to think, 'Well, am I
-            really doing this because I really want to be different? Am I doing it because there's
+        <line n="40">"And then if you try and break away from your conditioning and try and be sort
+            of individual and, in least in our day and age right now, you start to think, 'Well, am
+            I really doing this because I really want to be different? Am I doing it because there's
             such an emphasis placed to...'"</line>
         <line n="41">"I miss you."</line>
-        <line n="42">"You don't know how to break through this contradictory mess... and really find your
-            own... authentic individuality."</line>
+        <line n="42">"You don't know how to break through this contradictory mess... and really find
+            your own... authentic individuality."</line>
     </lyrics>
 </song>

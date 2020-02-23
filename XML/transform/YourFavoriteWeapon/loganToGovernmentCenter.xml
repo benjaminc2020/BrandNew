@@ -14,8 +14,6 @@
             <li n="4">Brian Lane</li>
         </songWriter>
       <composer>Jesse Lacey</composer>
-      <producer>Mike Sapone</producer>
-      <label>Triple Crown</label>
       <songLength>00:03:05</songLength>
    </info>
 
@@ -54,7 +52,7 @@
         </chorus>
         <verse n="3">
             <line n="24">I never thought this <refer img="time">day</refer> would end (never thought this <refer img="time">day</refer> would end)</line>
-            <line n="25">I never thought <refer img="day">tonight</refer> could ever be this close to me (close to me)</line>
+            <line n="25">I never thought <refer img="time">tonight</refer> could ever be this close to me (close to me)</line>
             <line n="26">So let my hands stray past that boundaries of your back</line>
             <line n="27">to get you breathing (get you breathing)</line>
             <line n="28">And get this started (get this started)</line>

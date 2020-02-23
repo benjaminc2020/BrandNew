@@ -5,12 +5,10 @@
       <title ref="#6-NC-10">No Control</title>
       <album ref="#6-SF">Science Fiction</album>
       <track n="10"/>
-      <tempo bpm=""/>
+      <tempo bpm="1"/>
       <key/>
-      <songWriter/>
-      <composer>Brand New</composer>
-      <producer>Mike Sapone</producer>
-      <label>Procrastinate! Music Traitors</label>
+        <songWriter><li n="1">Brand New</li></songWriter>
+      <composer></composer>
       <songLength>00:03:55</songLength>
    </info>
     <lyrics>
@@ -22,10 +20,10 @@
         <line n="6">Hold me down</line>
         <line n="7">Underwater and don't let me up again</line>
 
-        <line n="8">No control</line>
-        <line n="9">No control</line>
-        <line n="10">No control</line>
-        <line n="11">No control</line>
+        <line n="8"><refer type="songTitle">No control</refer></line>
+        <line n="9"><refer type="songTitle">No control</refer></line>
+        <line n="10"><refer type="songTitle">No control</refer></line>
+        <line n="11"><refer type="songTitle">No control</refer></line>
 
         <line n="12">Be for someone else</line>
         <line n="13">Love is in your actions (yeah!)</line>
@@ -37,24 +35,24 @@
         <line n="19">But the worst is over</line>
         <line n="20">Chum and throw me overboard</line>
 
-        <line n="21">No control (I thought I knew the way out but then)</line>
-        <line n="22">No control (It started over again)</line>
-        <line n="23">No control (I hear your voice coming through the grey)</line>
-        <line n="24">No control ("Run away")</line>
+        <line n="21"><refer type="songTitle">No control</refer> (I thought I knew the way out but then)</line>
+        <line n="22"><refer type="songTitle">No control</refer> (It started over again)</line>
+        <line n="23"><refer type="songTitle">No control</refer> (I hear your voice coming through the grey)</line>
+        <line n="24"><refer type="songTitle">No control</refer> ("Run away")</line>
 
         <line n="25">Holding the mic to this pillar of salt</line>
         <line n="26">She won't sing anything at all</line>
         <line n="27">Kiss me once on each eyelid</line>
         <line n="28">So I can see how I dreamed it</line>
 
-        <line n="29">No control</line>
-        <line n="30">No control</line>
-        <line n="31">No control</line>
-        <line n="32">No control</line>
-        <line n="33">No control (I thought I knew the way out but then)</line>
-        <line n="34">No control (It started over again)</line>
-        <line n="35">No control (I hear your voice coming through the grey)</line>
-        <line n="36">No control ("Run away")</line>
+        <line n="29"><refer type="songTitle">No control</refer></line>
+        <line n="30"><refer type="songTitle">No control</refer></line>
+        <line n="31"><refer type="songTitle">No control</refer></line>
+        <line n="32"><refer type="songTitle">No control</refer></line>
+        <line n="33"><refer type="songTitle">No control</refer> (I thought I knew the way out but then)</line>
+        <line n="34"><refer type="songTitle">No control</refer> (It started over again)</line>
+        <line n="35"><refer type="songTitle">No control</refer> (I hear your voice coming through the grey)</line>
+        <line n="36"><refer type="songTitle">No control</refer> ("Run away")</line>
 
         <line n="37">Evil laugh</line>
     </lyrics>

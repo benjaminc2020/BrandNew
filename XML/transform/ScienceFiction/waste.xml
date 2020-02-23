@@ -2,17 +2,17 @@
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <info>
-      <title ref="#6-LMU-3">Lit Me Up</title>
-      <album ref="#6-SF">Science Fiction</album>
-      <track n="3"/>
-      <tempo bpm=""/>
-      <key/>
-      <songWriter>Brand New</songWriter>
-      <composer/>
-      <producer>Mike Sapone</producer>
-      <label>Procrastinate! Music Traitors</label>
-      <songLength>00:04:36</songLength>
-   </info>
+        <title ref="#6-LMU-3">Lit Me Up</title>
+        <album ref="#6-SF">Science Fiction</album>
+        <track n="3"/>
+        <tempo bpm="1"/>
+        <key/>
+        <songWriter>
+            <li n="1">Brand New</li>
+        </songWriter>
+        <composer/>
+        <songLength>00:04:36</songLength>
+    </info>
     <lyrics>
         <line n="1">Scream in there.</line>
         <line n="2">AHHHHHH!</line>

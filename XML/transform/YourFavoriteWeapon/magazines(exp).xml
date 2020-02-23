@@ -41,9 +41,9 @@
         <verse n="2">
             <line n="13">My friends all call me crazy cause I</line>
             <line n="14"><refer type="idiom">stay up late</refer> anticipating,</line>
-            <line n="15">and planning for the day I <refer type="idiom" part="I">sweep
+            <line n="15">and planning for the day I <refer type="idiom" part="I" next="following::refer[1]">sweep
                 you</refer></line>
-            <line n="16"><refer type="idiom" part="F">off your feet</refer>, I'd never leave you
+            <line n="16"><refer type="idiom" part="F" prev="preceding::refer[1]">off your feet</refer>, I'd never leave you
                 alone.</line>
             <line n="17">Laetitia, you got my hand shaking,</line>
             <line n="18">I'm begging you oh baby please stop breaking</line>
