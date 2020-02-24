@@ -1,16 +1,15 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start = song
+#song info
 song = element song {info, lyrics}
 info = element info{title, album, track, tempo, key, songWriter+, composer+, addPer*, singRelease*, video*, songLength}
 title = element title {ref, refer*, text}
-xmlid = attribute xml:id {xsd:ID}
 album = element album {ref, ("Daisy" | "Deja Entendu" | "EPs" | "Leaked Demos" | "Science Fiction" | "The Devil And God Are Raging Inside Me" | "Your Favorite Weapon")}
-ref = attribute ref {text}
 track = element track {n}
 tempo = element tempo{bpm}
-bpm = attribute bpm {xsd:decimal} # ebb: Suggestion: make BPM the attribute name, and control the value with xsd:integer (?)
-key = element key{text}  #ebb: Explain somewhere on your website you how determine this, and set some values as you working. 
+bpm = attribute bpm {xsd:decimal}
+key = element key{text}
 songWriter = element songWriter{li+}
 li = element li {n, text}
 composer = element composer{text}
@@ -23,18 +22,28 @@ released = element released {xsd:date}
 from = attribute from {xsd:int}
 to = attribute to {xsd:int}
 songLength = element songLength{xsd:time}
+
+#song structure
+
 lyrics = element lyrics{(intro | prelude | interlude | verse+ | chorus+ | bridge | outro | line | preChorus+)*}
 intro = element intro{mixed{line+ | verse}*}
 line = element line{mixed{n, refer*}}
+prelude = element prelude{text}
+interlude = element interlude{text}
+verse = element verse{n, line+}
+chorus = element chorus{n, line+}
+bridge = element bridge{n, line+, text}
+outro = element outro{mixed{line+ | chorus | verse}*}
+preChorus = element preChorus {line+}
+
+#references, themes, and imagery
+
 refer = element refer {mixed{(type | img | part | refer)*}}
 part = attribute part {"I" | "F"}
 type = attribute type{"bible" | "songTitle" | "idiom" | "bandMember" | "popCulture" | "band"}
 img = attribute img {"flowers" | "water" | "earth" | "fire" | "animal" | "time" | "car" | "house" | "bed" | "season" | "school" | "death" | "alcohol" | "rel" | "phone"}
-prelude = element prelude{text}
-interlude = element interlude{text}
-verse = element verse{n, line+}
+
+
 n = attribute n{xsd:int}
-preChorus = element preChorus {line+}
-chorus = element chorus{n, line+}
-bridge = element bridge{n, line+, text}
-outro = element outro{mixed{line+ | chorus | verse}*}
+ref = attribute ref {text}
+xmlid = attribute xml:id {xsd:ID}

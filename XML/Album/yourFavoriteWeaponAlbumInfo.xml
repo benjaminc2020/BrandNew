@@ -30,18 +30,18 @@
             <personnel>Brian Lane-Drums/Percussion </personnel>
         </info>
         <trackListing>
-            <song n="1" xml:id="#1-TSS-1">The Shower Scene</song>
-            <song n="2" xml:id="1-JLAASA-">Jude Law and a Semester Abroad</song>
-            <song n="3" xml:id="">Sudden Death in Carolina</song>
-            <song n="4" xml:id="">Mix Tape</song>
-            <song n="5" xml:id="">Failure by Design</song>
-            <song n="6" xml:id="">Last Chance to Lose Your Keys</song>
-            <song n="7" xml:id="">Logan to Government Center</song>
-            <song n="8" xml:id="">The No Seatbelt Song</song>
-            <song n="9" xml:id="">Seventy Times 7</song>
-            <song n="10" xml:id="">Secondary</song>
-            <song n="11" xml:id="">Magazines</song>
-            <song n="12" xml:id="">Soco Amaretto Lime</song>
+            <song n="1" ref="#1-TSS-1">The Shower Scene</song>
+            <song n="2" ref="#1-JLAASA-2">Jude Law and a Semester Abroad</song>
+            <song n="3" ref="#1-SDIC-3">Sudden Death in Carolina</song>
+            <song n="4" ref="1-MT-4">Mix Tape</song>
+            <song n="5" ref="1-FBD-5">Failure by Design</song>
+            <song n="6" ref="1-LCTLYK-6">Last Chance to Lose Your Keys</song>
+            <song n="7" ref="1-LTGC-7">Logan to Government Center</song>
+            <song n="8" ref="1-TNSBS-8">The No Seatbelt Song</song>
+            <song n="9" ref="1-ST7-9">Seventy Times 7</song>
+            <song n="10" ref="1-S-10">Secondary</song>
+            <song n="11" ref="1-M-11">Magazines</song>
+            <song n="12" ref="1-SAL-12">Soco Amaretto Lime</song>
         </trackListing>
     </album>
 </xml>
