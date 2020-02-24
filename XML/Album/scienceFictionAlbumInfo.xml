@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <album>
+        <info>
+            <name>Science Fiction</name>
+            <noTracks>12</noTracks>
+            <length>00:61:22</length>
+            <recorded from="2014"/>
+            <producer>Mike Sapone</producer>
+            <studio/>
+            <released>2017-08-17</released>
+            <single/>
+            <albumOrder>5</albumOrder>
+            <origLabel>Procrastinate! Music Traitors</origLabel>
+            <format>CD, LP, DL</format>
+            <personnel>Jesse Lacey - vocals, rhythm guitar</personnel>
+            <personnel>Vincent Accardi -lead guitar</personnel>
+            <personnel>Garrett Tierney - bass</personnel>
+            <personnel>Brian Lane - drums</personnel>
+        </info>
+        <trackListing>
+            <song n="1">Lit Me Up</song>
+            <song n="2">Can't Get It Out</song>
+            <song n="3">Waste</song>
+            <song n="4">Could Never Be Heaven</song>
+            <song n="5">Same Logic/Teeth</song>
+            <song n="6">137</song>
+            <song n="7">Out of Mana</song>
+            <song n="8">In the Water</song>
+            <song n="9">Desert</song>
+            <song n="10">No Control</song>
+            <song n="11">451</song>
+            <song n="12">Batter Up</song>
+        </trackListing>
+    </album>
+</xml>
