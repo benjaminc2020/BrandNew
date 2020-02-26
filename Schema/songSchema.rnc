@@ -41,7 +41,7 @@ preChorus = element preChorus {line+}
 refer = element refer {mixed{(type | img | part | refer)*}}
 part = attribute part {"I" | "F"}
 type = attribute type{"bible" | "songTitle" | "idiom" | "bandMember" | "popCulture" | "band"}
-img = attribute img {"flowers" | "water" | "earth" | "fire" | "animal" | "time" | "car" | "house" | "bed" | "season" | "school" | "death" | "alcohol" | "rel" | "phone" | "drugs" | "trees"}
+img = attribute img {"flowers" | "water" | "earth" | "fire" | "animal" | "time" | "car" | "house" | "bed" | "season" | "school" | "death" | "alcohol" | "rel" | "phone" | "drugs" | "trees" | "sun"}
 
 
 n = attribute n{xsd:int}
