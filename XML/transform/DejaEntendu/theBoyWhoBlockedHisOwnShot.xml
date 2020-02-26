@@ -5,12 +5,10 @@
       <title ref="#2-TBWBHOS-6">The Boy Who Blocked His Own Shot</title>
       <album ref="#2-DE">Deja Entendu</album>
       <track n="6"/>
-      <tempo bpm=""/>
+      <tempo bpm="1"/>
       <key/>
-      <songWriter>Jesse Lacey</songWriter>
+      <songWriter><li n="1">Jesse Lacey</li></songWriter>
       <composer>Jesse Lacey</composer>
-      <producer>Mike Sapone</producer>
-      <label>Triple Crown</label>
       <songLength>00:04:39</songLength>
    </info>
     <lyrics>

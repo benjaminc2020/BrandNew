@@ -15,8 +15,6 @@
             <li n="1">Brand New</li>
             <li n="2">Mike Sapone</li>
         </composer>
-      <producer>Mike Sapone</producer>
-      <label>Interscope Records</label>
       <songLength>00:04:04</songLength>
    </info>
     <lyrics>
@@ -30,7 +28,7 @@
         <verse n="1">
             <line n="5">And there's a <refer img="water">lake</refer>
          </line>
-            <line n="6">And <refer img="songTitle">at the bottom</refer> you'll find all my friends</line>
+            <line n="6">And <refer type="songTitle">at the bottom</refer> you'll find all my friends</line>
             <line n="7">They don't <refer img="water">swim</refer> cause they're all dead</line>
             <line n="8">We never are what we intend, or invent</line>
             <line n="9">'Cause I make little lies and then I pull them apart</line>

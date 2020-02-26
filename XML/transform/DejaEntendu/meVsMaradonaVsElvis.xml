@@ -5,15 +5,13 @@
       <title ref="#1-MV.MV.E-8">Me Vs. Maradona Vs. Elvis</title>
       <album ref="#1-YFW">Your Favorite Weapon</album>
       <track n="8"/>
-      <tempo bpm=""/>
+      <tempo bpm="1"/>
       <key/>
-      <songWriter>Jesse Lacey</songWriter>
+      <songWriter><li n="1">Jesse Lacey</li></songWriter>
       <composer>
             <li n="1">Jesse Lacey</li>
             <li n="2">Vincent Accardi</li>
         </composer>
-      <producer>Mike Sapone</producer>
-      <label>Triple Crown</label>
       <songLength>00:05:19</songLength>
    </info>
     <lyrics>

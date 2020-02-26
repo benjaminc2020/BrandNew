@@ -5,15 +5,13 @@
       <title ref="#4-B-2">Bed</title>
       <album ref="#4-D">Daisy</album>
       <track n="2"/>
-      <tempo bpm=""/>
+      <tempo bpm="1"/>
       <key/>
-      <songWriter>Jesse Lacey</songWriter>
+      <songWriter><li n="1">Jesse Lacey</li></songWriter>
       <composer>
-            <li n="">Brand New</li>
-            <li n="">Mike Sapone</li>
+            <li n="1">Brand New</li>
+            <li n="2">Mike Sapone</li>
         </composer>
-      <producer>Mike Sapone</producer>
-      <label>Interscope Records</label>
       <songLength>00:03:10</songLength>
    </info>
     <lyrics>

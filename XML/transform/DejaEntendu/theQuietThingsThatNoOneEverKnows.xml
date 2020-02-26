@@ -5,15 +5,13 @@
       <title ref="#2-TQTTNOEK-5">The Quiet Things That No One Ever Knows</title>
       <album ref="#2-DE">Deja Entendu</album>
       <track n="5"/>
-      <tempo bpm=""/>
+      <tempo bpm="1"/>
       <key/>
-      <songWriter>Jesse Lacey</songWriter>
+      <songWriter><li n="1">Jesse Lacey</li></songWriter>
       <composer>
             <li n="1">Jesse Lacey</li>
             <li n="1">Vincent Accardi</li>
         </composer>
-      <producer>Mike Sapone</producer>
-      <label>Triple Crown</label>
       <songLength>00:04:01</songLength>
    </info>
     <lyrics>

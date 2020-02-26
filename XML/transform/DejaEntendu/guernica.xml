@@ -5,15 +5,13 @@
       <title ref="#2-G-9">Guernica</title>
       <album ref="#2-DE">Deja Entendu</album>
       <track n="9"/>
-      <tempo bpm=""/>
+      <tempo bpm="1"/>
       <key/>
-      <songWriter>Jesse Lacey</songWriter>
+      <songWriter><li n="1">Jesse Lacey</li></songWriter>
       <composer>
-            <li n="">Jesse Lacey</li>
-            <li n="">Vincent Accardi</li>
+            <li n="1">Jesse Lacey</li>
+            <li n="2">Vincent Accardi</li>
         </composer>
-      <producer>Mike Sapone</producer>
-      <label>Triple Crown and Razor &amp; Tie</label>
       <songLength>00:03:23</songLength>
    </info>
     <lyrics>
