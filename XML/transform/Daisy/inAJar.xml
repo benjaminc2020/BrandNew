@@ -30,7 +30,7 @@
         
         <verse n="1">
             <line n="9">Living in a jar, think the lids the sky,</line>
-            <line n="10">You're hoping for a savior on your cross outside.</line>
+            <line n="10">You're hoping for a <refer img="rel">savior</refer> on your cross outside.</line>
             <line n="11">Stars are just a million little fireflies,</line>
             <line n="12">The sun is just a hole; it's the light outside</line>
         </verse>
@@ -38,24 +38,24 @@
             <line n="13">The chariots shall rage in the streets</line>
         
         <chorus n="1">
-            <line n="14">No one save me tonight</line>
+            <line n="14">No one save me <refer img="time">tonight</refer></line>
             <line n="15">Take a try, but leave a light</line>
             <line n="16">Somewhere safe but I know</line>
             <line n="17">Where your going</line>
-            <line n="18">Is it safe tonight?</line>
+            <line n="18">Is it safe <refer img="time">tonight</refer>?</line>
         </chorus>
         <verse n="2">
-            <line n="19">Holding out for rest but on the seventh day,</line>
+            <line n="19">Holding out for <refer type="bible">rest but on the seventh day</refer>,</line>
             <line n="20">I've created nothing and I'm wide awake,</line>
             <line n="21">So can I tie my key to your electric kite?</line>
             <line n="22">The rooster crowed twice and you kissed me goodnight.</line>
-            <line n="23">There's too many saviors on my cross again,</line>
+            <line n="23">There's too many <refer img="rel">saviors</refer> on my <refer img="rel">cross</refer> again,</line>
             <line n="24">I know I'm never going to be a perfect man.</line>
-            <line n="25">Everyone's an oyster with their grain of sand,</line>
+            <line n="25">Everyone's an <refer img="animal">oyster</refer> with their grain of sand,</line>
             <line n="26">I love you most in song now it has to end.</line>
         </verse>
         <chorus n="2">
-            <line n="27">No one save me tonight</line>
+            <line n="27">No one save me <refer img="time">tonight</refer></line>
             <line n="28">Take a try, but leave a light</line>
             <line n="29">Somewhere safe but I know</line>
             <line n="30">Where your going</line>
@@ -71,11 +71,11 @@
             <line n="38">I'll run a million miles if you win first prize.</line>
         </bridge>
         <chorus n="3">
-            <line n="39">No one save me tonight</line>
+            <line n="39">No one save me <refer img="time">tonight</refer></line>
             <line n="40">Take a try, but leave a light</line>
             <line n="41">Somewhere safe but I know</line>
             <line n="42">Where your going</line>
-            <line n="43">Is it safe tonight?</line>
+            <line n="43">Is it safe <refer img="time">tonight</refer>?</line>
         </chorus>
     </lyrics>
 </song>

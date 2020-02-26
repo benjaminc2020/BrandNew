@@ -20,27 +20,27 @@
             <line n="1">"Far away from any road,</line>
             <line n="2">Roams my heart in solitude,</line>
             <line n="3">Where no passer-by can see,</line>
-            <line n="4">On life's highway, God, with Thee,</line>
+            <line n="4">On life's highway, <refer img="rel">God</refer>, with Thee,</line>
             <line n="5">Knowing when all else doth fail,</line>
             <line n="6">Thy compassion shall prevail.</line>
-            <line n="7">Father, with Thee let me be,</line>
-            <line n="8">On life's highway, God, with Thee."</line>
+            <line n="7"><refer img="rel">Father</refer>, with Thee let me be,</line>
+            <line n="8">On life's highway, <refer img="rel">God</refer>, with Thee."</line>
         
         
         <verse n="1">
-            <line n="9">We need vices (oh),</line>
-            <line n="10">We need vices (oh),</line>
+            <line n="9">We need <refer type="songTitle">vices</refer> (oh),</line>
+            <line n="10">We need <refer type="songTitle">vices</refer> (oh),</line>
             <line n="11">Where's all my hope and my marriage license,</line>
             <line n="12">(where's my head?)</line>
         </verse>
         
-            <line n="13">Those days are dead</line>
+            <line n="13">Those days are <refer img="death">dead</refer></line>
             <line n="14">(forgive me)</line>
-            <line n="15">Those days are dead</line>
+            <line n="15">Those days are <refer img="death">dead</refer></line>
             <line n="16">(forgive me)</line>
-            <line n="17">Those days are dead</line>
+            <line n="17">Those days are <refer img="death">dead</refer></line>
             <line n="18">(forgive me)</line>
-            <line n="19">We need vices at fifty thousand degrees</line>
+            <line n="19">We need <refer type="songTitle">vices</refer> at fifty thousand degrees</line>
         
         <chorus n="1">
             <line n="20">She said goodbye to the ground</line>
@@ -50,19 +50,19 @@
         </chorus>
         <verse n="2">
             <line n="24">I got creative (oh no),</line>
-            <line n="25">To try to kill the major,</line>
+            <line n="25">To try to <refer img="death">kill</refer> the major,</line>
             <line n="26">Where is my trigger?</line>
             <line n="27">My mind eraser</line>
             <line n="28">(we sing that so subtle...)</line>
         </verse>
         
-            <line n="29">And that forest burned</line>
+            <line n="29">And that <refer img="trees">forest</refer> <refer img="fire">burned</refer></line>
             <line n="30">(you see smoke...)</line>
-            <line n="31">That forest burned</line>
-            <line n="32">(a halo...)</line>
-            <line n="33">That forest burned</line>
-            <line n="34">(a halo...)</line>
-            <line n="35">We need ten years, everyone, so we can return</line>
+            <line n="31">That <refer img="trees">forest</refer> <refer img="fire">burned</refer></line>
+            <line n="32">(a <refer img="rel">halo</refer>...)</line>
+            <line n="33">That <refer img="trees">forest</refer> <refer img="fire">burned</refer></line>
+            <line n="34">(a <refer img="rel">halo</refer>...)</line>
+            <line n="35">We need <refer img="time">ten years</refer>, everyone, so we can return</line>
         
         <chorus n="2">
             <line n="36">She said goodbye to the ground</line>
@@ -73,8 +73,8 @@
             <line n="41">And jumped</line>
         </chorus>
         <verse n="3">
-            <line n="42">We need vices (oh),</line>
-            <line n="43">We need vices (oh),</line>
+            <line n="42">We need <refer type="songTitle">vices</refer> (oh),</line>
+            <line n="43">We need <refer type="songTitle">vices</refer> (oh),</line>
             <line n="44">We have neither the plans nor the disguises</line>
         </verse>
         
@@ -84,7 +84,7 @@
             <line n="48">(forgive me)</line>
             <line n="49">'Cause those days are dead</line>
             <line n="50">(forgive me)</line>
-            <line n="51">We need vices to wave to the good old days</line>
+            <line n="51">We need <refer type="songTitle">vices</refer> to wave to the good old days</line>
         
         <chorus n="3">
             <line n="52">She said goodbye to the ground</line>
