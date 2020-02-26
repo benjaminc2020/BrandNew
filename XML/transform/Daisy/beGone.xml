@@ -16,11 +16,11 @@
    </info>
     <lyrics>
         <line n="1">It's getting hard to stay up</line>
-        <line n="2">I think I can hear God calling my name</line>
+        <line n="2">I think I can hear <refer img="rel">God</refer> calling my name</line>
         <line n="3">He'll try to make my heart break</line>
         <line n="4">But I was told you'd call me tonight</line>
         <line n="5">They're calling my name</line>
-        <line n="6">They won't slow the car down</line>
+        <line n="6">They won't slow the <refer img="car">car</refer> down</line>
         <line n="7">I'm scared that I will keep it for my own</line>
         <line n="8">The one that is calling my name is telling "come down"</line>
         <line n="9">They're calling my name...</line>
