@@ -5,12 +5,10 @@
       <title ref="#3-WTB-7">Welcome To Bangkok</title>
       <album ref="#3-TDAGARIM">The Devil And God Are Raging Inside Me</album>
       <track n="7"/>
-      <tempo bpm=""/>
+      <tempo bpm="1"/>
       <key/>
-      <songWriter>Jesse Lacey</songWriter>
+      <songWriter><li n="1">Jesse Lacey</li></songWriter>
       <composer>Vince Accardi</composer>
-      <producer>Mike Sapone</producer>
-      <label>Interscope</label>
       <songLength>00:03:05</songLength>
    </info>
    <lyrics>

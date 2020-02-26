@@ -7,13 +7,11 @@
       <track n="1"/>
       <tempo bpm="78.6"/>
       <key>D</key>
-      <songWriter>Jesse Lacey</songWriter>
+      <songWriter><li n="1">Jesse Lacey</li></songWriter>
       <composer>
-            <li n="">Brand New</li>
-            <li n="">Mike Sapone</li>
+            <li n="1">Brand New</li>
+            <li n="2">Mike Sapone</li>
         </composer>
-      <producer>Mike Sapone</producer>
-      <label>Interscope Records</label>
       <songLength>00:03:24</songLength>
    </info>
     <lyrics>

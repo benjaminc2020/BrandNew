@@ -2,17 +2,17 @@
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <info>
-      <title ref="#3-JC-3">Jesus Christ</title>
-      <album ref="#3-TDAGARIM">The Devil And God Are Raging Inside Me</album>
-      <track n="3"/>
-      <tempo bpm="78.6"/>
-      <key>D</key>
-      <songWriter>Jesse Lacey</songWriter>
-      <composer>Jesse Lacey</composer>
-      <producer>Mike Sapone</producer>
-      <label>Interscope</label>
-      <songLength>00:05:18</songLength>
-   </info>
+        <title ref="#3-JC-3">Jesus Christ</title>
+        <album ref="#3-TDAGARIM">The Devil And God Are Raging Inside Me</album>
+        <track n="3"/>
+        <tempo bpm="78.6"/>
+        <key>D</key>
+        <songWriter>
+            <li n="1">Jesse Lacey</li>
+        </songWriter>
+        <composer>Jesse Lacey</composer>
+        <songLength>00:05:18</songLength>
+    </info>
     <lyrics>
         <verse n="1">
             <line n="1">Jesus Christ, that's a pretty face</line>
@@ -39,15 +39,16 @@
             <line n="18">Do I float through the ceiling?</line>
         </verse>
         <chorus n="2">
-            <line n="19">Do I divide and pull apart?</line> 'Cause my bright is too slight to hold back all
-            my dark <line n="20">And this ship went down in sight of land</line>
+            <line n="19">Do I divide and pull apart?</line> 'Cause my bright is too slight to hold
+            back all my dark <line n="20">And this ship went down in sight of land</line>
             <line n="21">And at the gates does Thomas ask to see my hands?</line>
         </chorus>
         <bridge n="1">
             <line n="22">I know you're coming in the night like a thief</line>
             <line n="23">But I’ve had some time, O Lord, to hone my lying technique</line>
             <line n="24">I know you think that I’m someone you can trust</line>
-            <line n="25">But I’m scared I’ll get scared and I swear I’ll try to nail you back up</line>
+            <line n="25">But I’m scared I’ll get scared and I swear I’ll try to nail you back
+                up</line>
             <line n="26">So do you think that we could work out a sign</line>
             <line n="27">So I’ll know it's you and that it's over so I won't even try</line>
             <line n="28">I know you're coming for the people like me</line>
