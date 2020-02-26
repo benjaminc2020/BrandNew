@@ -18,11 +18,11 @@
         <verse n="1">
             <line n="1">So you tried to put a <refer img="fire">fire</refer> out</line>
             <line n="2">But you used gasoline</line>
-            <line n="3">And when the congregation gathered round</line>
+            <line n="3">And when the <refer img="rel">congregation</refer> gathered round</line>
             <line n="4">You're screaming "it wasn't me"</line>
             <line n="5">So there's a sickness that is going round</line>
             <line n="6">But no one's got a vaccine</line>
-            <line n="7">I think it drowned in <refer img="rel">holy water</refer></line>
+            <line n="7">I think it <refer img="death">drowned</refer> in <refer img="rel">holy <refer img="water">water</refer></refer></line>
             <line n="8">I think it's time we all <refer type="idiom">come clean</refer></line>
         </verse>
         <chorus n="1">
