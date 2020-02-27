@@ -13,7 +13,7 @@
             <li n="3">Garrett Tierney</li>
             <li n="4">Brian Lane</li>
         </songWriter>
-        <composer>Jesse Lacey</composer>
+        <composer><li n="1">Jesse Lacey</li></composer>
         <singRelease>2002-11-11</singRelease>
         <video><released>2002-07-02</released><dir>Christian Winters</dir><prod>Fun Game
                 Clique</prod></video>
@@ -33,7 +33,7 @@
                     and forty nights</refer>.</line>
             <line n="7"><refer img="alcohol">A sip</refer> for <refer img="time">every second-hand
                     tick</refer>.</line>
-            <line n="8">And for every time you fed me the line, "you mean so much to me...".</line>
+            <line n="8">And for every <refer img="time">time</refer> you <refer type="idiom">fed me the line</refer>, "you mean so much to me...".</line>
             <line n="9">I'm without you.</line>
         </verse>
         <chorus n="1">
