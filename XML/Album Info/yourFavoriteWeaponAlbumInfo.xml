@@ -10,12 +10,14 @@
             <producer>Mike Sapone</producer>
             <producer>Brand New</producer>
             <studio>The Magic Shop Recording Studios<location>Manhattan, NY</location></studio>
-            <studio>Nada Studios<location>New Windsor, NY</location></studio><studio>TomandAndy<location>NY,NY</location></studio>
+            <studio>Nada Studios<location>New Windsor, NY</location></studio>
+            <studio>TomandAndy<location>NY,NY</location></studio>
             <released>2001-09-10</released>
             <single>Jude Law and a Semester Abroad<released>2002-11-11</released></single>
             <albumOrder>1</albumOrder>
             <origLabel>Triple Crown</origLabel>
-            <format>CD, LP</format>
+            <format>CD</format>
+            <format>LP</format>
             <reRelease>
                 <label>Razor &amp; Tie</label>
                 <year>2003</year>
@@ -24,10 +26,10 @@
                 <label>Procrastinate! Music Traitors </label>
                 <year>2011</year>
             </reRelease>
-            <personnel>Jesse Lacey-Vocalist/Rhythm Guitar</personnel>
-            <personnel>Garrett Tierney-Bass</personnel>
-            <personnel>Vincent Accardi-Lead Guitar/Backing Vocals</personnel>
-            <personnel>Brian Lane-Drums/Percussion </personnel>
+            <personnel><li n="1">Jesse Lacey-Vocalist/Rhythm Guitar</li>
+                <li n="2">Garrett Tierney-Bass</li>
+                <li n="3">Vincent Accardi-Lead Guitar/Backing Vocals</li>
+                <li n="4">Brian Lane-Drums/Percussion</li></personnel>
         </info>
         <trackListing>
             <song n="1" ref="#1-TSS-1">The Shower Scene</song>

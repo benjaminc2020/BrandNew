@@ -2,20 +2,20 @@
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <info>
-      <title ref="#3-D-4">Degausser</title>
-      <album ref="#3-TDAGARIM">The Devil And God Are Raging Inside Me</album>
-      <track n="4"/>
-      <tempo bpm="144"/>
-      <key>G</key>
-      <songWriter>
-            <li n="1">Vincent Accardi</li>
+        <title ref="#3-D-4">Degausser</title>
+        <album ref="#3-TDAGARIM">The Devil And God Are Raging Inside Me</album>
+        <track n="4"/>
+        <tempo bpm="144"/>
+        <key>G</key>
+        <songWriter>
+            <li n="1">Brand New</li>
+        </songWriter>
+        <composer><li n="1">Vincent Accardi</li>
             <li n="2">Jesse Lacey</li>
             <li n="3">Brian Lane</li>
-            <li n="4">Garrett Tierney</li>
-        </songWriter>
-      <composer>Jesse Lacey</composer>
-      <songLength>00:05:32</songLength>
-   </info>
+            <li n="4">Garrett Tierney</li></composer>
+        <songLength>00:05:32</songLength>
+    </info>
     <lyrics>
         <verse n="1">
             <line n="1">Goodbye to sleep</line>
@@ -81,16 +81,16 @@
             <line n="49">I never did anything right (I'm on my own)</line>
             <line n="50">I never did anything right (I'm on my own)</line>
         </chorus>
-        
-            <line n="51">Take me, take me back to your bed</line>
-            <line n="52">I love you so much, that it hurts my head</line>
-            <line n="53">Say, I don't mind you under my skin</line>
-            <line n="54">Oh, let the bad parts in, the bad parts in</line>
-            <line n="55">You're my favorite bird, and when you sing</line>
-            <line n="56">I really do wish you would wear my ring</line>
-            <line n="57">No matter what they say, I am still the king</line>
-            <line n="58">Now, the storm is coming</line>
-            <line n="59">The storm is coming in</line>
-        
+
+        <line n="51">Take me, take me back to your bed</line>
+        <line n="52">I love you so much, that it hurts my head</line>
+        <line n="53">Say, I don't mind you under my skin</line>
+        <line n="54">Oh, let the bad parts in, the bad parts in</line>
+        <line n="55">You're my favorite bird, and when you sing</line>
+        <line n="56">I really do wish you would wear my ring</line>
+        <line n="57">No matter what they say, I am still the king</line>
+        <line n="58">Now, the storm is coming</line>
+        <line n="59">The storm is coming in</line>
+
     </lyrics>
 </song>
