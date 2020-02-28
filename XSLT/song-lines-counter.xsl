@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
-    <xsl:variable name="bnAlbum1" as="document-node()+" select="collection('../XML/YourFavoriteWeapon/?select=*.xml')"/>
-    <xsl:variable name="bnAlbum2" as="document-node()+" select="collection('../XML/DejaEntendu/?select=*.xml')"/>
-    <xsl:variable name="bnAlbum3" as="document-node()+" select="collection('../XML/TheDevilAndGodAreRagingInsideMe/?select=*.xml')"/>
-    <xsl:variable name="bnAlbum4" as="document-node()+" select="collection('../XML/Daisy/?select=*.xml')"/>
-    <xsl:variable name="bnAlbum5" as="document-node()+" select="collection('../XML/LeakedDemos2006/?select=*.xml')"/>
-    <xsl:variable name="bnAlbum6" as="document-node()+" select="collection('../XML/ScienceFiction/?select=*.xml')"/>
-    <xsl:variable name="bnAlbum7" as="document-node()+" select="collection('../XML/EPs/?select=*.xml')"/>
+    <xsl:variable name="bnAlbum1" as="document-node()+" select="collection('../XML/Albums/YourFavoriteWeapon/?select=*.xml')"/>
+    <xsl:variable name="bnAlbum2" as="document-node()+" select="collection('../XML/Albums/DejaEntendu/?select=*.xml')"/>
+    <xsl:variable name="bnAlbum3" as="document-node()+" select="collection('../XML/Albums/TheDevilAndGodAreRagingInsideMe/?select=*.xml')"/>
+    <xsl:variable name="bnAlbum4" as="document-node()+" select="collection('../XML/Albums/Daisy/?select=*.xml')"/>
+    <xsl:variable name="bnAlbum5" as="document-node()+" select="collection('../XML/Albums/LeakedDemos2006/?select=*.xml')"/>
+    <xsl:variable name="bnAlbum6" as="document-node()+" select="collection('../XML/Albums/ScienceFiction/?select=*.xml')"/>
+    <xsl:variable name="bnAlbum7" as="document-node()+" select="collection('../XML/Albums/EPs/?select=*.xml')"/>
     <xsl:template match="/">
         <xsl:for-each select="$bnAlbum1//root()">
             <xsl:variable name="filename">
