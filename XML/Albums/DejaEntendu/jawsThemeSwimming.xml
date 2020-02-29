@@ -16,9 +16,9 @@
    </info>
     <lyrics>
         <verse n="1">
-            <line n="1">In a car outside, we stalk the idle kind</line>
+            <line n="1">In a <refer img="car">car</refer> outside, we stalk the idle kind</line>
             <line n="2">If you're leaving, just let me know</line>
-            <line n="3">Tobacco and peppermint, dusting for fingerprints</line>
+            <line n="3"><refer img="drugs">Tobacco</refer> and peppermint, dusting for fingerprints</line>
             <line n="4">A film in her eyes from the glow</line>
 
             <line n="5">Some rules are made with all intentions to break</line>
@@ -40,8 +40,8 @@
             <line n="15">Sucking on your breath mint, dissected and stuck with pins</line>
             <line n="16">A film in her eyes from the glow</line>
 
-            <line n="17">Concrete and water, she's looking for her daughter</line>
-            <line n="18">At midnight in torrential downpour</line>
+            <line n="17">Concrete and <refer img="water">water</refer>, she's looking for her daughter</line>
+            <line n="18">At <refer img="time">midnight </refer>in <refer img="water">torrential downpour</refer></line>
             <line n="19">And everything I said about how messed your head is</line>
             <line n="20">Was cut up and left in bits and pieces on the cutting room floor</line>
         </verse>

@@ -13,12 +13,12 @@
    </info>
     <lyrics>
         <verse n="1">
-            <line n="1">If it makes you less sad, I will die by your hand</line>
+            <line n="1">If it makes you less sad, I will <refer img="death">die</refer> by your hand</line>
             <line n="2">Hope you find out what you are; already know what I am</line>
             <line n="3">And if it makes you less sad, we'll start talking again</line>
             <line n="4">You can tell me how vile I already know that I am</line>
             <line n="5">I'll grow old, start acting my age</line>
-            <line n="6">It'll be a brand new day in a life that you hate</line>
+            <line n="6">It'll be a <refer type="band">brand new</refer> day in a life that you hate</line>
             <line n="7">A crown of gold, a heart that's harder than stone</line>
             <line n="8">And it hurts a whole lot, but it's missed when it's gone</line>
         </verse>
