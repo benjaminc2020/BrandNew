@@ -25,7 +25,7 @@
             <line n="3">when you and me could be <refer img="time">forever</refer>
             </line>
             <line n="4">perfectly perfect together. I know.</line>
-            <line n="5">Broken down in my dead <refer img="house">bedroom</refer>,</line>
+            <line n="5">Broken down in my <refer img="death">dead</refer> <refer img="house">bedroom</refer>,</line>
             <line n="6">stuttering to pictures of you.</line>
             <line n="7">I know that you can always see me.</line>
             <line n="8">I saw you staring through my TV <refer img="time">last night</refer>.</line>
@@ -60,19 +60,19 @@
         <chorus n="3">
             <line n="25"> Girl, come to me.</line>
             <line n="26">The only broken-hearted loser you'll ever need,</line>
-            <line n="27">or I'll be left alone forever with my <refer type="songTitle"
+            <line n="27">or I'll be left alone <refer img="time">forever</refer> with my <refer type="songTitle"
                     >magazines</refer>.</line>
         </chorus>
         <chorus n="4">
             <line n="28">Come to me.</line>
             <line n="29">The only broken-hearted loser you'll ever need,</line>
-            <line n="30">or I'll be left alone forever with my <refer type="songTitle"
+            <line n="30">or I'll be left alone <refer img="time">forever</refer> with my <refer type="songTitle"
                     >magazines</refer>.</line>
         </chorus>
         <chorus n="5">
             <line n="31">Girl, come to me.</line>
             <line n="32">The only broken-hearted loser you'll ever need,</line>
-            <line n="33">or I'll be left alone forever with my <refer type="songTitle"
+            <line n="33">or I'll be left alone <refer img="time">forever</refer> with my <refer type="songTitle"
                     >magazines</refer>.</line>
         </chorus>
         <chorus n="6">

@@ -8,6 +8,14 @@
             <length>01:01:22</length>
             <recorded>2014-07</recorded>
             <producer>Mike Sapone</producer>
+            <production>Mike Sapone - audio engineer, mixer</production>
+            <production>Vince Ratti - mixing</production>
+            <production>Charles Godrey - audio engineer</production>
+            <production>Steve Kupillas - audio engineer</production>
+            <production>Claudius Mittendorfer - audio engineer</production>
+            <production>Gerardo "Jerry" Ordonez - audio engineer</production>
+            <production>Brett Romnes - audio engineer</production>
+            <production>Emily Lazar - mastering</production>
             <studio><location/></studio>
             <released>2017-08-17</released>
             <single/>
@@ -22,6 +30,7 @@
                 <li n="3">Garrett Tierney - bass</li>
                 <li n="4">Brian Lane - drums</li>
             </personnel>
+            <addPer>Santino Sapone - ambient synthesizer apparatus</addPer>
 
         </info>
         <trackListing>
