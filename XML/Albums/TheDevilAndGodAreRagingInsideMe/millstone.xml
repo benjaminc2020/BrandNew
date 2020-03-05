@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
       <title ref="#3-M-2">Millstone</title>
       <album ref="#3-TDAGARIM">The Devil And God Are Raging Inside Me</album>
@@ -11,7 +11,7 @@
       <composer>Jesse Lacey</composer>
       <songLength>00:04:16</songLength>
    </info>
-    <lyrics>
+    <song>
         <verse n="1">
             <line n="1">I used to be such a burning example</line>
             <line n="2">I used to be so original</line>
@@ -63,5 +63,5 @@
             <line n="38">I'm my own stone around my neck (Whoa)</line>
             <line n="39">Be my breath, there's nothing I wouldn't give</line>
         </chorus>
-    </lyrics>
-</song>
+    </song>
+</xml>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
       <title ref="#3-SS(Y)-1">Sowing Season (Yeah)</title>
       <album ref="#3-TDAGARIM">The Devil And God Are Raging Inside Me</album>
@@ -14,7 +14,7 @@
         </composer>
       <songLength>00:04:31</songLength>
    </info>
-    <lyrics>
+    <song>
         <verse n="1">
             <line n="1">Was losing all my friends</line>
             <line n="2">Was losing them to drinking and to driving</line>
@@ -89,5 +89,5 @@
             <line n="51">It takes a while to grow anything</line>
             <line n="52">Before it's coming to an end, yeah!</line>
         </chorus>
-    </lyrics>
-</song>
+    </song>
+</xml>

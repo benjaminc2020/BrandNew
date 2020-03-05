@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
       <title ref="#3-YW'tK-6">You Won't Know</title>
       <album ref="#3-TDAGARIM">The Devil And God Are Raging Inside Me</album>
@@ -11,7 +11,7 @@
       <composer>Jesse Lacey</composer>
       <songLength>00:05:42</songLength>
    </info>
-    <lyrics>
+    <song>
         <verse n="1">
             <line n="1">Hey hey hey! Mr. Hangman</line>
             <line n="2">Go get your rope</line>
@@ -82,5 +82,5 @@
             <line n="53">Yeah, you won't know</line>
             <line n="54">You won't know</line>
         </chorus>
-    </lyrics>
-</song>
+    </song>
+</xml>

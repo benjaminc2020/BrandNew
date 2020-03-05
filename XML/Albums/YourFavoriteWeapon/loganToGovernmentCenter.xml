@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
         <title ref="#1-LTGC-7">Logan To Government Center</title>
         <album ref="#1-YFW">Your Favorite Weapon</album>
@@ -17,7 +17,7 @@
         <songLength>00:03:05</songLength>
     </info>
 
-    <lyrics>
+    <song>
         <verse n="1">
             <line n="1">Consider this a letter that I never sent</line>
             <line n="2">However inconsiderate it seems</line>
@@ -71,5 +71,5 @@
             <line n="35">(You couldn't make me not alone)</line>
             <line n="36">Nothing's absolutely definite til it's gone</line>
         </chorus>
-    </lyrics>
-</song>
+    </song>
+</xml>

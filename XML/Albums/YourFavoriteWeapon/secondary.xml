@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
       <title ref="#1-S-10">Secondary</title>
       <album ref="#1-YFW">Your Favorite Weapon</album>
@@ -16,7 +16,7 @@
       <composer>Jesse Lacey</composer>
       <songLength>00:03:08</songLength>
    </info>
-    <lyrics>
+    <song>
         <verse n="1">
             <line n="1">And it <refer type="idiom">comes down to you</refer>.</line>
             <line n="2">Never and ever.</line>
@@ -82,5 +82,5 @@
             <line n="39">I better hope she got my letters.</line>
             <line n="40">Better off in two <refer img="time">year</refer> stretches...</line>
         
-    </lyrics>
-</song>
+    </song>
+</xml>

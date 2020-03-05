@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
         <title ref="#1-LCTLYK-6">Last Chance To Lose Your Keys</title>
         <album ref="#1-YFW">Your Favorite Weapon</album>
@@ -16,7 +16,7 @@
         <composer><li n="1">Jesse Lacey</li></composer>
         <songLength>00:03:31</songLength>
     </info>
-    <lyrics>
+    <song>
         <line n="1">I <refer type="idiom">cashed in all my chips</refer>
             <refer img="time">tonight</refer> and combed my hair till it was just right.</line>
         <line n="2">Cause I've been thinking about you and me girl, and we got something going
@@ -47,5 +47,5 @@
         <line n="21">this isn't <refer img="school">highschool</refer></line>
         <line n="22">this isn't <refer img="school">highschool</refer></line>
         <line n="23">this isn't <refer img="school">highschool</refer></line>
-    </lyrics>
-</song>
+    </song>
+</xml>

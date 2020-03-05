@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
         <title ref="#3-D-4">Degausser</title>
         <album ref="#3-TDAGARIM">The Devil And God Are Raging Inside Me</album>
@@ -16,9 +16,9 @@
             <li n="4">Garrett Tierney</li></composer>
         <songLength>00:05:32</songLength>
     </info>
-    <lyrics>
+    <song>
         <verse n="1">
-            <line n="1">Goodbye to sleep</line>
+            <line n="1">Goodbye to <refer img="bed">sleep</refer></line>
             <line n="2">I think that staying up is exactly what I need</line>
             <line n="3">Well take apart your head</line>
             <line n="4">Take apart the counting</line>
@@ -35,7 +35,7 @@
         </verse>
         <chorus n="1">
             <line n="15">But I'll bet that you're running</line>
-            <line n="16">I've been sleeping on the incline</line>
+            <line n="16">I've been <refer img="bed">sleeping</refer> on the incline</line>
             <line n="17">I can't shake this little feeling</line>
             <line n="18">I'll never get anything right</line>
         </chorus>
@@ -51,7 +51,7 @@
             <line n="25">(Goodbye my love)</line>
             <line n="26">But I'll bet that you're running</line>
             <line n="27">(Goodbye my love)</line>
-            <line n="28">I've been sleeping on the incline</line>
+            <line n="28">I've been <refer img="bed">sleeping</refer> on the incline</line>
             <line n="29">(Goodbye my love)</line>
             <line n="30">I can't shake this little feeling</line>
             <line n="31">(Goodbye my love)</line>
@@ -63,34 +63,34 @@
             <line n="35">I never say anything right, right, right (I'm on my own)</line>
         </bridge>
         <verse n="3">
-            <line n="36">Take me, take me, back to your bed</line>
+            <line n="36">Take me, take me, back to your <refer img="bed">bed</refer></line>
             <line n="37">I love you so much that it hurts my head</line>
-            <line n="38">Say "I don't mind you under my skin,"</line>
+            <line n="38">Say "I don't mind you <refer type="idiom">under my skin</refer>,"</line>
             <line n="39">Oh, let the bad parts in, the bad parts in</line>
             <line n="40">When we were made, we were set apart</line>
             <line n="41">Life is a test and I get bad marks</line>
-            <line n="42">Now some Saint got the job</line>
-            <line n="43">Of writing down my sins</line>
+            <line n="42">Now some <refer img="rel">Saint</refer> got the job</line>
+            <line n="43">Of writing down my <refer img="rel">sins</refer></line>
             <line n="44">The storm is coming</line>
             <line n="45">The storm is coming in</line>
         </verse>
         <chorus n="3">
             <line n="46">But I'll bet that you're running</line>
-            <line n="47">I've been sleeping in the alkaline</line>
+            <line n="47">I've been <refer img="bed">sleeping</refer> in the alkaline</line>
             <line n="48">I can't shake this little feeling</line>
             <line n="49">I never did anything right (I'm on my own)</line>
             <line n="50">I never did anything right (I'm on my own)</line>
         </chorus>
 
-        <line n="51">Take me, take me back to your bed</line>
+        <line n="51">Take me, take me back to your <refer img="bed">bed</refer></line>
         <line n="52">I love you so much, that it hurts my head</line>
-        <line n="53">Say, I don't mind you under my skin</line>
+        <line n="53">Say, I don't mind you <refer type="idiom">under my skin</refer></line>
         <line n="54">Oh, let the bad parts in, the bad parts in</line>
-        <line n="55">You're my favorite bird, and when you sing</line>
+        <line n="55">You're my favorite <refer img="animal">bird</refer>, and when you sing</line>
         <line n="56">I really do wish you would wear my ring</line>
         <line n="57">No matter what they say, I am still the king</line>
         <line n="58">Now, the storm is coming</line>
         <line n="59">The storm is coming in</line>
 
-    </lyrics>
-</song>
+    </song>
+</xml>

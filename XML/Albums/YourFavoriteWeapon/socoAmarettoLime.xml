@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
       <title ref="#1-SAL-12"><refer img="alcohol">Soco Amaretto Lime</refer></title>
       <album ref="#1-YFW">Your Favorite Weapon</album>
@@ -16,7 +16,7 @@
       <composer>Jesse Lacey</composer>
       <songLength>00:04:47</songLength>
    </info>
-    <lyrics>
+    <song>
         <verse n="1">
             <line n="1">Passed out on the <refer img="car">overpass</refer>
          </line>
@@ -94,5 +94,5 @@
             <line n="57">You're just jealous cause we're young and in love</line>
             <line n="58">You're just jealous... [turntable scratch]</line>
         
-    </lyrics>
-</song>
+    </song>
+</xml>

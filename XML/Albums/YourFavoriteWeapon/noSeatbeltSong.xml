@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
       <title ref="#1-TNSS-8">The No Seatbelt Song</title>
       <album ref="#1-YFW">Your Favorite Weapon</album>
@@ -16,7 +16,7 @@
       <composer>Jesse Lacey</composer>
       <songLength>00:04:31</songLength>
    </info>
-    <lyrics>
+    <song>
         <line n="1">So, it's sad this doesn't <refer type="idiom">suit you</refer> now.</line>
         <line n="2">And me fresh out of rope...</line>
         <line n="3">Please ignore this lisp, I never meant to sound like this.</line>
@@ -44,5 +44,5 @@
         <line n="24">If I can choose. It's only you.</line>
         <line n="25">But how could I miscalculate... perfect lies from a perfect dame.</line>
         <line n="26">If I can choose... it's only you.</line>
-    </lyrics>
-</song>
+    </song>
+</xml>

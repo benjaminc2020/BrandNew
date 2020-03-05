@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
       <title ref="#3-TABHB-11">The Archers Bows Have Broken</title>
       <album ref="#3-TDAGARIM">The Devil And God Are Raging Inside Me</album>
@@ -11,7 +11,7 @@
       <composer>Jesse Lacey</composer>
       <songLength>00:04:14</songLength>
    </info>
-    <lyrics>
+    <song>
         <verse n="1">
             <line n="1">Who do you carry the torch for, my young man?</line>
             <line n="2">Do you believe in anything?</line>
@@ -94,5 +94,5 @@
             <line n="57">You can only blame yourself</line>
             <line n="58">It's what I say</line>
         </chorus>
-    </lyrics>
-</song>
+    </song>
+</xml>

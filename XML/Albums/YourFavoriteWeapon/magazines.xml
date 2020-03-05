@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
         <title ref="#1-M-11">Magazines</title>
         <album ref="#1-YFW">Your Favorite Weapon</album>
@@ -17,7 +17,7 @@
         <composer>Jesse Lacey</composer>
         <songLength>00:02:53</songLength>
     </info>
-    <lyrics>
+    <song>
 
         <verse n="1">
             <line n="1">Laetitia, you destroy me,</line>
@@ -86,5 +86,5 @@
         <line n="39">when you and me could be <refer img="time">forever</refer></line>
         <line n="40">perfectly perfect together. I know.</line>
 
-    </lyrics>
-</song>
+    </song>
+</xml>

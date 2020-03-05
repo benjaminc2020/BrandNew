@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
       <title ref="#1-MT-4">Mix Tape</title>
       <album ref="#1-YFW">Your Favorite Weapon</album>
@@ -16,7 +16,7 @@
       <composer>Jesse Lacey</composer>
       <songLength>00:03:59</songLength>
    </info>
-    <lyrics>
+    <song>
         <verse n="1">
             <line n="1">I got a twenty-dollar bill that says no one's ever seen you without makeup.</line>
             <line n="2">You're always made up.</line>
@@ -48,5 +48,5 @@
             <line n="20">(yeah, but I wish you were my shadow.)</line>
             <line n="21">(yeah, but I wish you were my shadow.)</line>
         
-    </lyrics>
-</song>
+    </song>
+</xml>

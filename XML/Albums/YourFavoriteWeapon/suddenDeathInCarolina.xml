@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
       <title ref="#1-SDIC-3">Sudden Death In Carolina</title>
       <album ref="#1-YFW">Your Favorite Weapon</album>
@@ -16,7 +16,7 @@
       <composer>Jesse Lacey</composer>
       <songLength>00:03:01</songLength>
    </info>
-    <lyrics>
+    <song>
         <verse n="1">
             <line n="1">Last night I swallowed <refer img="alcohol">liquor</refer> and <refer img="fire">a
                     lighter</refer> and this <refer img="time">morning</refer> I threw up fire.</line>
@@ -78,5 +78,5 @@
             <line n="35">and <refer type="idiom">I'm her number one</refer>
                 <refer img="death">chalk outline</refer> on the <refer img="house">floor</refer>.</line>
         </chorus>
-    </lyrics>
-</song>
+    </song>
+</xml>

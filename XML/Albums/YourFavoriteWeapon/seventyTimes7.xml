@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
       <title ref="#1-ST7-9"><refer type="bible">Seventy Times 7</refer></title>
       <album ref="#1-YFW">Your Favorite Weapon</album>
@@ -16,7 +16,7 @@
       <composer>Jesse Lacey</composer>
       <songLength>00:03:33</songLength>
    </info>
-    <lyrics>
+    <song>
         <verse n="1">
          <line n="1">Back in <refer img="school">school</refer> they never <refer img="school">taught</refer> us what we needed to know,</line>
         <line n="2">like how to deal with despair, or someone <refer type="idiom">breaking your heart</refer>.</line>
@@ -92,5 +92,5 @@
                 again)</line>
             <line n="48">Everyone's caught on to (And I can't let you, let me down again)</line>
         </chorus>
-    </lyrics>
-</song>
+    </song>
+</xml>

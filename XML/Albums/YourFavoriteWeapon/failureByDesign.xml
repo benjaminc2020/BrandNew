@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
         <title ref="#1-FBD-5">Failure By Design</title>
         <album ref="#1-YFW">Your Favorite Weapon</album>
@@ -16,7 +16,7 @@
         <composer><li n="1">Jesse Lacey</li></composer>
         <songLength>00:03:16</songLength>
     </info>
-    <lyrics>
+    <song>
 
         <verse n="1">
             <line n="1">Watch you on the ones and twos</line>
@@ -129,5 +129,5 @@
             <line n="69">I'm a <refer type="songTitle">failure by design</refer>
             </line>
         </chorus>
-    </lyrics>
-</song>
+    </song>
+</xml>
