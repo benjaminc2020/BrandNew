@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
       <title ref="#1-TSS-1">The Shower Scene</title>
       <album ref="#1-YFW">Your Favorite Weapon</album>
@@ -16,8 +16,10 @@
       <composer>Jesse Lacey</composer>
       <songLength>00:02:25</songLength>
    </info>
-    <lyrics>
-        <musicIntro bpm="93" bars="6"/>
+    <song>
+        
+        <instrumental bpm="93" bars="6"/>
+        
         <verse n="1" bpm="94" bars="10">
             <line n="1">It's funny how your worst enemies always seem to</line>
             <line n="2">turn out to be all of your</line>
@@ -34,7 +36,7 @@
             <line n="10">And you are far too cute or whatever he said</line>
         </chorus>
 
-        <verse n="2" bmp="94" bars="10">
+        <verse n="2" bpm="94" bars="10">
             <line n="11"><refer img="time">Every time</refer> I hear it I am wishing I was great</line>
             <line n="12">I wish her... past tense my best friend</line>
             <line n="13">But I folded and I told</line>
@@ -58,21 +60,21 @@
             <line n="25">This is me in his <refer img="house">room</refer></line>
         </bridge>
         
-        <intrumental bmp="76" bars="10"/>
-        <verse n="3" voice="background">
-            <line n="26">Red, gold, I told</line>
-            <line n="27">We don't <refer type="idiom">play fair</refer></line>
-            <line n="28">Red, gold, I told</line>
-            <line n="29">We never stand too close</line></verse>
-        <verse n="3" bmp="" bars="10">
+        <instrumental bpm="76" bars="10"/>
+        
+        <verse n="3" bpm="94" bars="10">
+            <line n="26"  voice="background">Red, gold, I told</line>
+            <line n="27"  voice="background">We don't <refer type="idiom">play fair</refer></line>
+            <line n="28"  voice="background">Red, gold, I told</line>
+            <line n="29"  voice="background">We never stand too close</line></verse>
             <line n="30">So I update this almost <refer img="time">every single day</refer> for
                 you</line>
             <line n="31">I begin to hate you for your face and not just the things you do</line>
             <line n="32">Go tell him how my wrist is sore</line>
             <line n="33">from pulling at your insides <refer img="time">all night</refer></line>
             <line n="34">Nothing that you do is new to anything or anyone but you </line>
-        </verse>
-
+        
         <outro bars="4"></outro>
-    </lyrics>
-</song>
+        
+    </song>
+</xml>
