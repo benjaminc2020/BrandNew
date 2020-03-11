@@ -17,7 +17,7 @@
         <songLength>00:03:31</songLength>
     </info>
     <song>
-        <verse>
+        <verse n="1">
             <line n="1">I <refer type="idiom">cashed in all my chips</refer>
                 <refer img="time">tonight</refer></line>
             <line n="2">and combed my hair till it was just right.</line>
@@ -28,20 +28,20 @@
             <line n="6">This whole situation is incredibly typical</line>
         </verse>
 
-        <preChorus>
+        <preChorus n="1">
             <line n="7">I should have seen it all along.</line>
             <line n="8">I should have seen it all along.</line>
             <line n="9">I should have seen it all along.</line>
             <line n="10">It's girls like you that make my think I'm better</line>
         </preChorus>
 
-        <chorus>
+        <chorus n="1">
             <line n="11">off at home on a <refer img="time">Saturday night</refer></line>
             <line n="12">with all my doors locked up tight.</line>
             <line n="13">I won't be thinking about you baby.</line>
         </chorus>
 
-        <verse>
+        <verse n="2>
             <line n="14">You <refer img="phone">call me on the phone,</refer></line>
             <line n="15">and you don't even want to talk.</line>
             <line n="16">You're staring at me from across the room</line>
@@ -54,20 +54,20 @@
         </verse>
 
 
-        <preChorus>
+        <preChorus n="2">
             <line n="23">I should have seen it all along.</line>
             <line n="24">I should have seen it all along.</line>
             <line n="25">I should have seen it all along.</line>
             <line n="26">It's girls like you that make my think I'm better</line>
         </preChorus>
 
-        <chorus>
+        <chorus n="2">
             <line n="27">on a <refer img="time">Saturday night</refer></line>
             <line n="28">with all my doors locked up tight.</line>
             <line n="29">I won't be thinking about you, baby.</line>
         </chorus>
 
-        <chorus>
+        <chorus n="3">
             <line n="30">on a <refer img="time">Saturday night</refer></line>
             <line n="31">with all my doors locked up tight.</line>
             <line n="32">I won't be thinking about you, baby.</line>
@@ -76,21 +76,21 @@
         <!--bb: Instrumental build-->
 
         <!--Bridge has simultaneous vocal bits in it.  The first two lines play during the next four.  The two choruses play over the bridge again-->
-        <line n="33">Forget everything you think you know about me.</line>
+        <bridge n="1"><line n="33">Forget everything you think you know about me.</line>
         <line n="34">Forget everything you think you know about me.</line>
         <line n="35">This isn't <refer img="school">highschool</refer></line>
         <line n="36">this isn't <refer img="school">highschool</refer></line>
         <line n="37">this isn't <refer img="school">highschool</refer></line>
         <line n="38">this isn't <refer img="school">highschool</refer></line>
         <line n="39">this isn't <refer img="school">highschool</refer></line>
-
-        <chorus>
+</bridge>
+        <chorus n="4">
             <line n="40">on a <refer img="time">Saturday night</refer></line>
             <line n="41">with all my doors locked up tight.</line>
             <line n="42">I won't be thinking about you, baby.</line>
         </chorus>
 
-        <chorus>
+        <chorus n="5">
             <line n="43">on a <refer img="time">Saturday night</refer></line>
             <line n="44">with all my doors locked up tight.</line>
             <line n="45">I won't be thinking about you, baby.</line>
