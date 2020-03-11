@@ -35,7 +35,7 @@ verse = element verse{n, bpm, bars, line+}
 chorus = element chorus{n, bpm, bars, line+}
 bars = attribute bars {xsd:int}
 bridge = element bridge{n, bpm, bars, line+, text}
-outro = element outro{bpm | bars | line | chorus | verse}*
+outro = element outro {mixed {bpm | bars | line | chorus | verse}}*
 preChorus = element preChorus { bpm, bars, line+}
 instrumental = element instrumental {bpm, bars}
 
