@@ -17,8 +17,8 @@
         <songLength>00:03:05</songLength>
     </info>
 
-    <song>
-        <verse n="1">
+    <song><instrumental bpm="87" bars="8"></instrumental>
+        <verse n="1" bpm="87" bars="8">
             <line n="1">Consider this a letter that I never sent</line>
             <line n="2">However inconsiderate it seems</line>
             <line n="3">Do you still consider me,</line>
@@ -27,11 +27,11 @@
             <line n="6">I know I'm late,</line>
             <line n="7">I know you waited</line>
         </verse>
-        <chorus n="1">
+        <chorus n="1" bpm="87" bars="4">
             <line n="8">You wouldn't get me on the <refer img="phone">phone</refer></line>
             <line n="9">And you couldn't make me not alone</line>
         </chorus>
-        <verse n="2">
+        <verse n="2" bpm="87" bars="8">
             <line n="10">My <refer img="phone">phone bills</refer> stacked up by my bedside,</line>
             <line n="11">with your picture, you're looking surprised</line>
             <line n="12">You're what makes New England so great</line>
@@ -41,7 +41,8 @@
                 lips,</line>
             <line n="15">my wishful thinking</line>
         </verse>
-        <chorus n="2">
+        <instrumental bpm="87" bars="4"></instrumental>
+        <chorus n="2" bpm="87" bars="8">
             <line n="16">You wouldn't get me on the <refer img="phone">phone</refer></line>
             <line n="17">And you couldn't make me not alone</line>
             <line n="18">(Yeah you wouldn't get me</line>
@@ -52,7 +53,8 @@
             <line n="23">Nothing's absolutely definite til it's absolutely, definitely gone
                 (definitely gone)</line>
         </chorus>
-        <verse n="3">
+        <instrumental bpm="87" bars="8"></instrumental>
+        <verse n="3" bpm="87" bars="8">
             <line n="24">I never thought this <refer img="time">day</refer> would end (never thought
                 this <refer img="time">day</refer> would end)</line>
             <line n="25">I never thought <refer img="time">tonight</refer> could ever be this close
@@ -61,7 +63,7 @@
             <line n="27">to get you breathing (get you breathing)</line>
             <line n="28">And get this started (get this started)</line>
         </verse>
-        <chorus n="3">
+        <chorus n="3" bpm="87" bars="10">
             <line n="29">You wouldn't get me, you wouldn't get me</line>
             <line n="30">You wouldn't get me on the <refer img="phone">phone</refer></line>
             <line n="31">(Yeah, you wouldn't get me)</line>
