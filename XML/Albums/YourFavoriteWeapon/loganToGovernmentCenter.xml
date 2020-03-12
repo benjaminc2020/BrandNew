@@ -6,7 +6,7 @@
         <album ref="#1-YFW">Your Favorite Weapon</album>
         <track n="7"/>
         <tempo bpm="175"/>
-        <key>A</key>
+        <key>Ab</key> <!--bb: A flat-->
         <songWriter>
             <li n="1">Jesse Lacey</li>
             <li n="2">Vincent Accardi</li>
