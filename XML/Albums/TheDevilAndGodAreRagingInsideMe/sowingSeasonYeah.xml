@@ -6,7 +6,7 @@
       <album ref="#3-TDAGARIM">The Devil And God Are Raging Inside Me</album>
       <track n="1"/>
       <tempo bpm="1"/>
-      <key/>
+      <key>Bm</key> <!--bb: B minor -->
       <songWriter><li n="1">Jesse Lacey</li></songWriter>
       <composer>
             <li n="1">Jesse Lacey</li>

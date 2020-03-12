@@ -6,7 +6,7 @@
       <album ref="#3-TDAGARIM">The Devil And God Are Raging Inside Me</album>
       <track n="9"/>
       <tempo bpm="1"/>
-      <key/>
+      <key>Am</key> <!--bb: A minor-->
       <songWriter><li n="1">Jesse Lacey</li></songWriter>
       <composer>Jesse Lacey</composer>
         <addPer>Irina Valkowsky - theremin</addPer>

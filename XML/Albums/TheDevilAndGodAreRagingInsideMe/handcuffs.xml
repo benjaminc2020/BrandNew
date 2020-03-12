@@ -6,7 +6,7 @@
       <album ref="#3-TDAGARIM">The Devil And God Are Raging Inside Me</album>
       <track n="12"/>
       <tempo bpm="102.3"/>
-      <key/>
+      <key>Bm</key> <!--bb: B minor-->
       <songWriter><li n="1">Vince Accarcdi</li></songWriter>
       <composer>Vince Accarcdi</composer>
         <addPer>Brent Arnold - cello</addPer>
