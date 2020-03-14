@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
         <title ref="#6-1-6">137</title>
         <album ref="#6-SF">Science Fiction</album>
@@ -14,7 +14,7 @@
         <addPer>Andrew Accardi - synthesizer</addPer>
         <songLength>00:05:02</songLength>
     </info>
-    <lyrics>
+    <song>
         <verse n="1">
             <line n="1">Under the <refer img="water">ocean</refer>
             </line>
@@ -31,10 +31,10 @@
             <line n="8">And all the problems solved</line>
         </verse>
         <chorus n="1">
-            <line n="9">Let's all go play Nagasaki</line>
+            <line n="9">Let's all go play <refer type="socEvent">Nagasaki</refer></line>
             <line n="10">We can all <refer img="death">get vaporised</refer></line>
             <line n="11">Hold my hand, let's <refer img="death">turn to ash</refer></line>
-            <line n="12">I'll see you on the other side</line>
+            <line n="12">I'll <refer img="rel">see you on the other side</refer></line>
         </chorus>
 
         <!--bb: this is sampled audio -->
@@ -44,14 +44,14 @@
             too...when the both of us get here it always is... If there wasn’t a war going on this
             place would be pretty nice</line>
 
-        <line n="15">Before the garden</line>
+        <line n="15"><refer img="rel">Before the garden</refer></line>
         <line n="16">When you were all alone</line>
         <line n="17">You made the atom</line>
         <line n="18">Was that some <refer type="idiom">inside joke</refer>
         </line>
-        <line n="19">Open the gates</line>
+        <line n="19"><refer img="rel">Open the gates</refer></line>
         <line n="20">And then conceal the path</line>
-        <line n="21">Let's load the gun</line>
+        <line n="21">Let's load the <refer img="weapon">gun</refer></line>
         <line n="22">And see how long they last</line>
 
         <!--bb: sampled spoken audio again-->
@@ -64,12 +64,12 @@
             <line n="27">Across the <refer img="water">sea</refer> the <refer img="animal"
                     >birds</refer> are free</line>
             <line n="28">Let's watch them scream across the sky</line>
-            <line n="29">Let's all go and <refer type="idiom"><refer img="death">meet our
-                        maker</refer></refer></line>
+            <line n="29">Let's all go and <refer type="idiom"><refer img="death"><refer img="rel">meet our
+                        maker</refer></refer></refer></line>
             <line n="30">They don't care whose side you're on</line>
             <line n="31">We're so afraid, I <refer img="rel">prayed and prayed</refer>
             </line>
-            <line n="32">Before I learned to love the bomb</line>
+            <line n="32">Before I learned to love <refer img="weapon"><refer img="weapon">the bomb</refer></refer></line>
         </chorus>
 
         <!--bb: spoken sampled audio-->
@@ -83,16 +83,16 @@
         <!--bb: instrumental that POPS OFF.-->
 
         <chorus n="3">
-            <line n="34">Let's all go play Nagasaki</line>
+            <line n="34">Let's all go play <refer type="socRefer">Nagasaki</refer></line>
             <line n="35">What a lovely way to <refer img="death">die</refer></line>
             <line n="36">A final show and we all go</line>
             <line n="37">So no one has to say goodbye</line>
-            <line n="38">Let's all go and <refer type="idiom"><refer img="death">meet our
-                        maker</refer></refer>
+            <line n="38">Let's all go and <refer type="idiom"><refer img="death"><refer img="rel">meet our
+                        maker</refer></refer></refer>
             </line>
             <line n="39">Won't matter whose side you're on</line>
             <line n="40">We're so afraid, I <refer img="rel">prayed and prayed</refer></line>
-            <line n="41">When <refer img="rel">God</refer> told me to love the bomb</line>
+            <line n="41">When <refer img="rel">God</refer> told me to love <refer img="weapon">the bomb</refer></line>
         </chorus>
-    </lyrics>
-</song>
+    </song>
+</xml>
