@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
         <title ref="#6-BU-12">Batter Up</title>
         <album ref="#6-SF">Science Fiction</album>
@@ -13,7 +13,7 @@
         <composer/>
         <songLength>00:08:28</songLength>
     </info>
-    <lyrics>
+    <song>
         <verse n="1">
             <line n="1">In the valley of your slowly-fading memory</line>
             <line n="2">Are there pastures bathed in some uncertain light where you won’t
@@ -33,6 +33,7 @@
             <line n="11"><refer type="songTitle">Batter up</refer></line>
         </chorus>
 
+        <instrumental/>
         <!--bb: instrumental-->
 
         <verse n="2">
@@ -55,10 +56,10 @@
         </chorus>
 
         <verse n="3">
-            <line n="23">And even though the roar died in your throat</line>
+            <line n="23">And even though the roar <refer img="death">died</refer> in your throat</line>
             <line n="24">The lines get blurred</line>
             <line n="25">Lose whoever you once were</line>
-            <line n="26"><refer img="death">Died</refer> and returned to the earth</line>
+            <line n="26"><refer img="death"><refer img="rel">Died</refer> and returned to the earth</refer></line>
             <line n="27">Found ourselves back</line>
             <line n="28">In love</line>
         </verse>
@@ -76,10 +77,13 @@
             <line n="38"><refer type="songTitle">Batter up</refer></line>
         </chorus>
 
+        <intstrumental/>
+
         <!--bb: long instrumental-->
-        
+
         <!--bb: sampled spoken audio and sound effects-->
-        
-        <line n="39">That was the one right there...This is what we were waiting for...</line>
-    </lyrics>
-</song>
+
+        <line n="39" voice="sampledAudio">That was the one right there...This is what we were
+            waiting for...</line>
+    </song>
+</xml>
