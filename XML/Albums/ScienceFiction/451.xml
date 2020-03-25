@@ -14,7 +14,7 @@
         <songLength>00:04:53</songLength>
     </info>
     <song>
-        <instrumental bpm="" bars=""/>
+        <instrumental n="1"/>
         <verse n="1">
             <line n="1">I'm awake, there's no part to play</line>
             <line n="2"><refer img="selfHarm">Drinking Drano</refer>, <refer img="drugs">smoking grass</refer>, one under the

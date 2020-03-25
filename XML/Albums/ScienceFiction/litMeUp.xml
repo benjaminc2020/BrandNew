@@ -14,15 +14,15 @@
         <songLength>00:06:17</songLength>
     </info>
     <song>
-        <line n="1" voice="oldMan">This tape recounts a dream which occurred close to the termination of
+        <line n="1" voice="sampledAudio">This tape recounts a dream which occurred close to the termination of
             approximately 400 hours of intensive, individual therapy. Now, the patient recounts her
             dream:</line>
-        <line n="2" voice="oldWoman">I had this dream earlier this morning and I wrote it down. The dream is that I'm
+        <line n="2" voice="sampledAudio">I had this dream earlier this morning and I wrote it down. The dream is that I'm
             in some sort of a... and I'm in a hotel I'm at... I'm like at a convention or something.
             And I feel sort of almost like there's too much going on. There are all different kinds
             of meetings going on. Stuff on experimental psych and therapy, chemical aspects. All of
             it</line>
-        <line n="3" voice="oldWoman">But, I'm... while I don't mind having all this going on inside of me. It's sort
+        <line n="3" voice="sampledAudio">But, I'm... while I don't mind having all this going on inside of me. It's sort
             of... I think I'm going to be relieved when it's over. When I can sort of settle back
             down</line>
  <verse n="1">       <line n="4">It's where you live, but you don't know how it's built</line>

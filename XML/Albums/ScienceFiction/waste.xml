@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<xml
+<xml>
     <info>
         <title ref="#6-LMU-3">Lit Me Up</title>
         <album ref="#6-SF">Science Fiction</album>
@@ -49,9 +49,9 @@
             <line n="24">And we're never going to walk away</line>
             <line n="25">Never going home</line>
         </verse>
-        <preChorus>
+        <preChorus n="2">
             <line n="26">I'm hoping that in <refer img="time">time</refer>, you can lay down</line>
-            <line n="27">All this weight you've been carrying around and maybe <refer img="img">one
+            <line n="27">All this weight you've been carrying around and maybe <refer img="time">one
                     day</refer></line>
             <line n="28">You'll find your way</line>
             <line n="29">To climb on up out of your <refer img="death">grave</refer></line>
@@ -80,17 +80,18 @@
             <line n="47">You are not alone, you get to alone</line>
             <line n="48">You are not alone, you get to reset</line></bridge>
         <chorus n="3">
-            <line n="47"><refer img="time">Every night</refer> you were <refer img="drugs">tripping out</refer></line>
+            <line n="47"><refer img="time">Every night</refer> you were <refer img="drugs">tripping
+                    out</refer></line>
             <line n="48">In the morning you were coming down</line>
             <line n="49">If it's breaking your heart, if nothing is fun</line>
             <line n="50">Don't lose hope, my son</line>
             <line n="51">This is the last one</line>
-            
+
             <line n="52"><refer img="time">Every night</refer> had you laid low</line>
             <line n="53">It's going to feel so good to let it go</line>
             <line n="54">It's all in your head, your race is run</line>
             <line n="55">Don't give up, my son, this is the last one</line>
             <line n="56">This is the last one</line>
         </chorus>
-    </lyrics>
-</song>
+    </song>
+</xml>

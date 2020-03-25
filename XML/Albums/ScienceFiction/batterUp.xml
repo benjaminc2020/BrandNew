@@ -33,7 +33,7 @@
             <line n="11"><refer type="songTitle">Batter up</refer></line>
         </chorus>
 
-        <instrumental/>
+        <instrumental n="1"/>
         <!--bb: instrumental-->
 
         <verse n="2">
@@ -56,10 +56,12 @@
         </chorus>
 
         <verse n="3">
-            <line n="23">And even though the roar <refer img="death">died</refer> in your throat</line>
+            <line n="23">And even though the roar <refer img="death">died</refer> in your
+                throat</line>
             <line n="24">The lines get blurred</line>
             <line n="25">Lose whoever you once were</line>
-            <line n="26"><refer img="death"><refer img="rel">Died</refer> and returned to the earth</refer></line>
+            <line n="26"><refer img="death"><refer img="rel">Died</refer> and returned to the
+                    earth</refer></line>
             <line n="27">Found ourselves back</line>
             <line n="28">In love</line>
         </verse>
@@ -77,13 +79,16 @@
             <line n="38"><refer type="songTitle">Batter up</refer></line>
         </chorus>
 
-        <intstrumental/>
+        <instrumental n="2"/>
+
 
         <!--bb: long instrumental-->
 
         <!--bb: sampled spoken audio and sound effects-->
 
-        <line n="39" voice="sampledAudio">That was the one right there...This is what we were
-            waiting for...</line>
+        <outro>
+            <line n="39" voice="sampledAudio">That was the one right there...This is what we were
+                waiting for...</line>
+        </outro>
     </song>
 </xml>

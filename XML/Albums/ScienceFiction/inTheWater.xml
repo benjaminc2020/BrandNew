@@ -61,7 +61,7 @@
             <line n="28">I don't want it enough</line>
             <line n="29">So everyone'll wait</line></bridge>
 
-        <instrumental/>
+        <instrumental n="1"/>
 
         <chorus n="3">
             <line n="30">Never had it any other way</line>
@@ -74,9 +74,9 @@
         <outro><line n="35">I can't say it enough</line>
         <line n="36">Can't sing it enough</line>
         <line n="37">So I'll find another way</line>
-        <line n="38" voice="oldMan">And we sing this morning that<refer img="rel"> wonderful and grand ol' message</refer></line>
-        <line n="39" voice="oldMan">And I don't know about you, I never get tired of it</line>
-        <line n="40" voice="oldMan">Numbe-</line>
+        <line n="38" voice="sampledAudio">And we sing this morning that<refer img="rel"> wonderful and grand ol' message</refer></line>
+        <line n="39" voice="sampledAudio">And I don't know about you, I never get tired of it</line>
+        <line n="40" voice="sampledAudio">Numbe-</line>
         <line n="41" voice="sampledAudio">The seven years</line>
         <line n="42" voice="sampledAudio">The seven years</line>
         <line n="43" voice="sampledAudio">The seven years</line>

@@ -21,7 +21,7 @@
             <line n="4">All the quests everyone said were too hard</line>
             <line n="5">Unless you go back to <refer img="bed">sleep</refer></line>
         </verse>
-        <chorus>
+        <chorus n="1">
             <line n="6">Don't back out</line>
             <line n="7">Or we'll back down</line>
             <line n="8">I want you to know</line>

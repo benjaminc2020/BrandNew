@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
         <title ref="#6-CNBH-4">Could Never Be Heaven</title>
         <album ref="#6-SF">Science Fiction</album>
@@ -13,7 +13,7 @@
         <composer/>
         <songLength>00:03:16</songLength>
     </info>
-    <lyrics>
+    <song>
         <verse n="1">
             <line n="1">Do you know the words that make the hidden door open?</line>
             <line n="2">Can you speak my secret name and fix me?</line>
@@ -83,8 +83,8 @@
             of individual and, in least <refer img="time">in our day and age</refer> right now, you start to think, 'Well, am
             I really doing this because I really want to be different? Am I doing it because there's
             such an emphasis placed to...'"</line>
-        <line n="41" voice="sampleAudio">"I miss you."</line>
+        <line n="41" voice="sampledAudio">"I miss you."</line>
         <line n="42" voice="sampledAudio">"You don't know how to break through this contradictory mess... and really find
             your own... authentic individuality."</line>
-    </lyrics>
-</song>
+    </song>
+</xml>
