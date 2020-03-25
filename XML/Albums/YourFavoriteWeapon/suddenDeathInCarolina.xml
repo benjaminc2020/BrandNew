@@ -17,7 +17,7 @@
         <songLength>00:03:01</songLength>
     </info>
     <song>
-        <instrumental bpm="84" bars="7"/>
+        <instrumental n="1" bpm="84" bars="7"/>
         <verse n="1" bpm="84" bars="8">
             <line n="1">Last night I swallowed <refer img="alcohol">liquor</refer> and <refer
                     img="fire">a lighter</refer> and this <refer img="time">morning</refer> I threw
@@ -32,7 +32,7 @@
                     on</refer>.</line>
         </verse>
 
-        <instrumental bpm="84" bars="6"/>
+        <instrumental n="2" bpm="84" bars="6"/>
 
         <chorus n="1" bpm="84" bars="11">
             <line n="7">What difference does this difference in age make?</line>

@@ -6,7 +6,8 @@
         <album ref="#1-YFW">Your Favorite Weapon</album>
         <track n="4"/>
         <tempo bpm="137"/>
-        <key>Ab</key> <!--bb: A flat-->
+        <key>Ab</key>
+        <!--bb: A flat-->
         <songWriter>
             <li n="1">Jesse Lacey</li>
             <li n="2">Vincent Accardi</li>
@@ -33,7 +34,7 @@
             <line n="10">but somewhat golden like the <refer img="time">afternoons</refer> we used
                 to spend before you got too cool...</line>
         </verse>
-        <instrumental bpm="137" bars="16"/>
+        <instrumental n="1" bpm="137" bars="16"/>
         <verse n="2" bpm="137" bars="32">
             <line n="11">I got a twenty-dollar bill that says no one's ever seen you without
                 makeup.</line>

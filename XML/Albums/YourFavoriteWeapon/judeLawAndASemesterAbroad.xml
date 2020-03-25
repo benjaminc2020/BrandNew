@@ -56,7 +56,7 @@
             <line n="15">Who would do anything you say.</line>
         </chorus>
         
-        <instrumental  bpm="89" bars="4"/>
+        <instrumental n="1"  bpm="89" bars="4"/>
         
         <verse n="3" bpm="89" bars="8">
             <line n="16">(And even if her plane)</line>

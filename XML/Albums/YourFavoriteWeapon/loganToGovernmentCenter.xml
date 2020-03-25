@@ -6,7 +6,8 @@
         <album ref="#1-YFW">Your Favorite Weapon</album>
         <track n="7"/>
         <tempo bpm="175"/>
-        <key>Ab</key> <!--bb: A flat-->
+        <key>Ab</key>
+        <!--bb: A flat-->
         <songWriter>
             <li n="1">Jesse Lacey</li>
             <li n="2">Vincent Accardi</li>
@@ -17,7 +18,8 @@
         <songLength>00:03:05</songLength>
     </info>
 
-    <song><instrumental bpm="87" bars="8"></instrumental>
+    <song>
+        <instrumental n="1" bpm="87" bars="8"/>
         <verse n="1" bpm="87" bars="8">
             <line n="1">Consider this a letter that I never sent</line>
             <line n="2">However inconsiderate it seems</line>
@@ -41,7 +43,7 @@
                 lips,</line>
             <line n="15">my wishful thinking</line>
         </verse>
-        <instrumental bpm="87" bars="4"></instrumental>
+        <instrumental n="2" bpm="87" bars="4"/>
         <chorus n="2" bpm="87" bars="8">
             <line n="16">You wouldn't get me on the <refer img="phone">phone</refer></line>
             <line n="17">And you couldn't make me not alone</line>
@@ -53,7 +55,7 @@
             <line n="23">Nothing's absolutely definite til it's absolutely, definitely gone
                 (definitely gone)</line>
         </chorus>
-        <instrumental bpm="87" bars="8"></instrumental>
+        <instrumental n="3" bpm="87" bars="8"/>
         <verse n="3" bpm="87" bars="8">
             <line n="24">I never thought this <refer img="time">day</refer> would end (never thought
                 this <refer img="time">day</refer> would end)</line>

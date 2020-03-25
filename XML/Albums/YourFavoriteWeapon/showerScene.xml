@@ -19,7 +19,7 @@
     
     <song>
         
-        <instrumental bpm="93" bars="6"/>
+        <instrumental n="1" bpm="93" bars="6"/>
         
         <verse n="1" bpm="94" bars="10">
             <line n="1">It's funny how your worst enemies always seem to</line>
@@ -61,7 +61,7 @@
             <line n="25">This is me in his <refer img="house">room</refer></line>
         </bridge>
         
-        <instrumental bpm="76" bars="10"/>
+        <instrumental n="2" bpm="76" bars="10"/>
         
         <verse n="3" bpm="94" bars="10">
             <line n="26"  voice="background">Red, gold, I told</line>
