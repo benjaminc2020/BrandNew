@@ -6,7 +6,7 @@
         <album ref="#6-SF">Science Fiction</album>
         <track n="12"/>
         <tempo bpm="1"/>
-        <key/>
+        <key>C#m</key> <!--bb: C sharp minor -->
         <songWriter>
             <li n="1">Brand New</li>
         </songWriter>
@@ -27,7 +27,6 @@
 
         <chorus n="1">
             <line n="8">It's never going to stop</line>
-            <!--bb: Major chord.-->
             <line n="9"><refer type="songTitle">Batter up</refer></line>
             <line n="10"><refer type="idiom">Give me your best shot</refer></line>
             <line n="11"><refer type="songTitle">Batter up</refer></line>

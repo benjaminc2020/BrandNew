@@ -6,13 +6,13 @@
         <album ref="#6-SF">Science Fiction</album>
         <track n="2"/>
         <tempo bpm="1"/>
-        <key/>
+        <key>Eb</key> <!--bb: E flat major -->
         <songWriter>
             <li n="1">Brand New</li>
         </songWriter>
         <composer/>
         <songLength>00:03:43</songLength>
-    </info>
+    </info> 
     <song>
         <verse n="1">
             <line n="1">As we glide over whatever</line>

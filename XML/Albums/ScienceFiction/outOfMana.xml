@@ -6,7 +6,9 @@
         <album ref="#6-SF">Science Fiction</album>
         <track n="7"/>
         <tempo bpm="1"/>
-        <key/>
+        <key>E</key>
+        <!--bb: This one was actually hard to figure out, but I think I got it.  The chord progression sets up tension with a natural G chord - which isn't in the key - but then resolves to an E chord, which has a G# in it.  I think that's how it works.  That's my story anyway lol.-->
+        <!--bb: This song also features a keychange to C sharp at the end.-->
         <songWriter>
             <li n="1">Brand New</li>
         </songWriter>
@@ -76,6 +78,7 @@
             <line n="48">Can you know this?</line>
         </chorus>
         <outro>
+            <!--bb: KEY CHANGE KEY CHANGE KEY CHANGE - C# -->
             <line n="49">I have to go</line>
             <line n="50">I want to say I'm in love with you</line>
             <line n="51">And I'm more than the <refer img="rel">skin of my teeth</refer></line>

@@ -2,11 +2,11 @@
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <info>
-        <title ref="#6-LMU-3">Lit Me Up</title>
+        <title ref="#6-LMU-3">Waste</title>
         <album ref="#6-SF">Science Fiction</album>
         <track n="3"/>
         <tempo bpm="1"/>
-        <key/>
+        <key>Ebm</key> <!--bb: E flat minor -->
         <songWriter>
             <li n="1">Brand New</li>
         </songWriter>

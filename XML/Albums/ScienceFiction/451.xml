@@ -6,7 +6,7 @@
         <album ref="#6-SF">Science Fiction</album>
         <track n="11"/>
         <tempo bpm="1"/>
-        <key/>
+        <key>Dm</key> <!--bb: D minor-->
         <songWriter>
             <li n="1">Brand New</li>
         </songWriter>
@@ -67,9 +67,8 @@
                     ground</refer></line>
         </chorus>
 
-        <!--bb: H*ckin great instrumental.  Rhythm does some MAJOR changes.  Opens loud and frenetic, then tapers off and gets quieter.  I'd almost say the key-sig changes but I don't know if we want to open up the can of musical worms yet.  -->
+        <!--bb: H*ckin great instrumental.  Rhythm does some MAJOR changes.-->
 
-        <!--bb: KEY CHANGE KEY CHANGE KEY CHANGE KEY CHANGE AHHHHHH.  Guess is that we go from Dm up a halfstep but I don't trust my ear well enough to say for sure.-->
         <chorus n="3">
             <line n="29">Soft spot, lightning rod, my paint is peeling</line>
             <line n="30">A million <refer img="sun">suns</refer> won't fill you up</line>

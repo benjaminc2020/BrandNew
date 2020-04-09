@@ -6,7 +6,7 @@
         <album ref="#6-SF">Science Fiction</album>
         <track n="1"/>
         <tempo bpm="1"/>
-        <key/>
+        <key>Abm</key> <!--bb: A flat minor -->
         <songWriter>
             <li n="1">Brand New</li>
         </songWriter>
@@ -25,6 +25,8 @@
         <line n="3" voice="sampledAudio">But, I'm... while I don't mind having all this going on inside of me. It's sort
             of... I think I'm going to be relieved when it's over. When I can sort of settle back
             down</line>
+        <!--bb: Instrumental -->
+        
  <verse n="1">       <line n="4">It's where you live, but you don't know how it's built</line>
         <line n="5"><refer img="rel">If we're just dust</refer>, then it doesn't matter who you <refer img="death">kill</refer></line>
         <line n="6">Don't cut me up and tell me that it's ok</line>

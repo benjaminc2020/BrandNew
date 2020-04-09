@@ -6,7 +6,7 @@
         <album ref="#6-SF">Science Fiction</album>
         <track n="8"/>
         <tempo bpm="1"/>
-        <key/>
+        <key>Bm</key> <!--bb: B minor -->
         <songWriter>
             <li n="1">Brand New</li>
         </songWriter>
