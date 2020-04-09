@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
       <title ref="#3-H-12">Handcuffs</title>
       <album ref="#3-TDAGARIM">The Devil And God Are Raging Inside Me</album>
@@ -12,7 +12,7 @@
         <addPer>Brent Arnold - cello</addPer>
       <songLength>00:04:10</songLength>
    </info>
-    <lyrics>
+    <song>
         <verse n="1">
             <line n="1">I'd arrest you if I had handcuffs</line>
             <line n="2">I'd arrest you if I had the <refer img="time">time</refer></line>
@@ -69,5 +69,5 @@
             <line n="37">When you're still lyin'</line>
             <line n="38">You're still lyin'</line>
         </chorus>
-    </lyrics>
-</song>
+    </song>
+</xml>

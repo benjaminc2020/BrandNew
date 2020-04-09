@@ -43,7 +43,7 @@
             <line n="24">Said, "I <refer img="death">died</refer> for you <refer img="time">one time</refer> but never again"</line>
         </verse>
         
-           <bridge> <line n="25">Never again</line>
+           <bridge n="1"> <line n="25">Never again</line>
             <line n="26">Never again</line>
             <line n="27">Never again</line>
             <line n="28">Never again</line>
@@ -139,6 +139,5 @@
         
             <outro><line n="99">I don't know what's going on—maybe you could <refer type="idiom">fill me in</refer> about the recording</line></outro>
         
-    </lyrics>
-</song>
+    </song>
 </xml>
