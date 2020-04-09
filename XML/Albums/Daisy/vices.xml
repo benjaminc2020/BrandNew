@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
       <title ref="#4-V-1">Vices</title>
       <album ref="#4-D">Daisy</album>
@@ -14,7 +14,7 @@
         </composer>
       <songLength>00:03:24</songLength>
    </info>
-    <lyrics>
+    <song>
         
         
             <line n="1">"Far away from any road,</line>
@@ -92,5 +92,5 @@
             <line n="54">She said goodbye to the ground</line>
             <line n="55">And jumped</line>
         </chorus>
-    </lyrics>
-</song>
+    </song>
+</xml>

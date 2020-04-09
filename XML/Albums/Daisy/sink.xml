@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
       <title ref="#4-S-7">Sink</title>
       <album ref="#4-D">Daisy</album>
@@ -14,7 +14,7 @@
         </composer>
       <songLength>00:03:20</songLength>
    </info>
-    <lyrics>
+    <song>
         <verse n="1">
             <line n="1">I don't want to let you go</line>
             <line n="2">But it hurts my hands to hold the rope</line>
@@ -81,5 +81,5 @@
             <line n="53">Then the <refer img="fire">fire</refer> snuck into your <refer img="bed"><refer img="house">bedroom</refer></refer></line>
             <line n="54">Now I'm <refer type="idiom"><refer img="bed">falling asleep</refer></refer> to forget you</line>
         </chorus>
-    </lyrics>
-</song>
+    </song>
+</xml>

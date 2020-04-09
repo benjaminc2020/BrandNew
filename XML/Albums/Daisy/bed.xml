@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
       <title ref="#4-B-2">Bed</title>
       <album ref="#4-D">Daisy</album>
@@ -14,7 +14,7 @@
         </composer>
       <songLength>00:03:10</songLength>
    </info>
-    <lyrics>
+    <song>
         <verse n="1">
             <line n="1">My head is lead I don't ever want to go to <refer img="bed"><refer type="songTitle">bed</refer></refer></line>
             <line n="2">Your hair is on <refer img="fire">fire</refer></line>
@@ -72,5 +72,5 @@
             <line n="39">Lie to all your friends</line>
             <line n="40">Lie to all your friends</line>
         </chorus>
-    </lyrics>
-</song>
+    </song>
+</xml>

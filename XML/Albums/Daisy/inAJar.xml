@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
       <title ref="#4-IAJ-10">In A Jar</title>
       <album ref="#4-D">Daisy</album>
@@ -17,7 +17,7 @@
         </composer>
       <songLength>00:03:06</songLength>
    </info>
-    <lyrics>
+    <song>
         
             <line n="1">Stones in your eyes,</line>
             <line n="2">Stones in your eyes,</line>
@@ -77,5 +77,5 @@
             <line n="42">Where your going</line>
             <line n="43">Is it safe <refer img="time">tonight</refer>?</line>
         </chorus>
-    </lyrics>
-</song>
+    </song>
+</xml>

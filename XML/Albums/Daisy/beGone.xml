@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
       <title ref="#4-BG-6">Be Gone</title>
       <album ref="#4-D">Daisy</album>
@@ -14,7 +14,7 @@
         </composer>
       <songLength>00:01:31</songLength>
    </info>
-    <lyrics>
+    <song>
         <line n="1">It's getting hard to stay up</line>
         <line n="2">I think I can hear <refer img="rel">God</refer> calling my name</line>
         <line n="3">He'll try to make my heart break</line>
@@ -26,5 +26,5 @@
         <line n="9">They're calling my name...</line>
         <line n="10">They're calling my name...</line>
         <line n="11">Calling my name...</line>
-    </lyrics>
-</song>
+    </song>
+</xml>

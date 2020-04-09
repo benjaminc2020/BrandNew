@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
    <info>
       <title ref="#4-ATB-3">At The Bottom</title>
       <album ref="#4-D">Daisy</album>
@@ -17,7 +17,7 @@
         </composer>
       <songLength>00:04:04</songLength>
    </info>
-    <lyrics>
+    <song>
         
             <line n="1">Wait</line>
             <line n="2">I watched you throw out your <refer img="flowers">bouquet</refer>
@@ -83,5 +83,5 @@
             <line n="43">If I thought it would help you get away</line>
             <line n="44">I hope that you would do this for me</line>
         </chorus>
-    </lyrics>
-</song>
+    </song>
+</xml>

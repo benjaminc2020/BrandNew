@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
       <title ref="#4-G-4">Gasoline</title>
       <album ref="#4-D">Daisy</album>
@@ -14,7 +14,7 @@
         </composer>
       <songLength>00:03:32</songLength>
    </info>
-    <lyrics>
+    <song>
         <verse n="1">
             <line n="1">So you tried to put a <refer img="fire">fire</refer> out</line>
             <line n="2">But you used gasoline</line>
@@ -54,5 +54,5 @@
             <line n="30">Well I'm trying to find a way</line>
         </bridge>
         <!--bb: Instrumental outro -->
-    </lyrics>
-</song>
+    </song>
+</xml>
