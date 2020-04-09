@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
       <title ref="#1-MV.MV.E-8">Me Vs. Maradona Vs. Elvis</title>
       <album ref="#1-YFW">Your Favorite Weapon</album>
@@ -14,7 +14,7 @@
         </composer>
       <songLength>00:05:19</songLength>
    </info>
-    <lyrics>
+    <song>
         <verse n="1">
             <line n="1">With one or two I get used to the room</line>
             <line n="2">We go slow when we first make our moves</line>
@@ -81,5 +81,5 @@
             <line n="39">And lie for fun and fake the way I hold you</line>
             <line n="40">Let you fall for every empty word I say</line>
         </chorus>
-    </lyrics>
-</song>
+    </song>
+</xml>

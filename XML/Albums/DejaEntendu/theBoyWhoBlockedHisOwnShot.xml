@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
       <title ref="#2-TBWBHOS-6">The Boy Who Blocked His Own Shot</title>
       <album ref="#2-DE">Deja Entendu</album>
@@ -11,7 +11,7 @@
       <composer>Jesse Lacey</composer>
       <songLength>00:04:39</songLength>
    </info>
-    <lyrics>
+    <song>
         <verse n="1">
             <line n="1">If it makes you less sad, I will <refer img="death">die</refer> by your hand</line>
             <line n="2">Hope you find out what you are; already know what I am</line>
@@ -56,5 +56,5 @@
             <line n="31">Call me a safe bet, I'm betting I'm not</line>
             <line n="32">I'm glad that you can forgive, only hoping as time goes, you can forget</line>
         </chorus>
-    </lyrics>
-</song>
+    </song>
+</xml>

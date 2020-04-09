@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
       <title ref="#2-IWPMGBtSL-3">I Will Play My Game Beneath the Spin Light</title>
       <album ref="#2-DE">Deja Entendu</album>
@@ -11,7 +11,7 @@
       <composer>Jesse Lacey</composer>
       <songLength>00:03:57</songLength>
    </info>
-    <lyrics>
+    <song>
         <verse n="1">
             <line n="1">The time has come for colds and overcoats. </line>
             <line n="2">We're quiet on the ride, </line>
@@ -84,5 +84,5 @@
             <line n="54">We won't let you in. </line>
             <line n="55">You win, you win, you win.</line>
         </chorus>
-    </lyrics>
-</song>
+    </song>
+</xml>

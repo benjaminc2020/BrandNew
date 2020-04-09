@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
       <title ref="#2-G-9">Guernica</title>
       <album ref="#2-DE">Deja Entendu</album>
@@ -14,7 +14,7 @@
         </composer>
       <songLength>00:03:23</songLength>
    </info>
-    <lyrics>
+    <song>
         <verse n="1">
             <line n="1">Ever since I was young your word is the word that always won</line>
             <line n="2">Worry and wake the ones you love</line>
@@ -83,5 +83,5 @@
             <line n="39">So I'm asking you to shine it on and stick around</line>
             <line n="40">I'm not writing my goodbyes</line>
         </chorus>
-    </lyrics>
-</song>
+    </song>
+</xml>

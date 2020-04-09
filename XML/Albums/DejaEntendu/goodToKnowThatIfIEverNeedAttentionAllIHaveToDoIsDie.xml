@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
       <title ref="#2-GTKTIIENAAIHTDID-10">Good To Know That If I Ever Need Attention All I Have To Do Is Die</title>
       <album ref="#2-DE">Deja Entendu</album>
@@ -11,7 +11,7 @@
       <composer>Jesse Lacey</composer>
       <songLength>00:07:00</songLength>
    </info>
-    <lyrics>
+    <song>
         <verse n="1">
             <line n="1">Am I correct to defend the fist that holds this pen?</line>
             <line n="2">It's ink that lies,</line>
@@ -84,5 +84,5 @@
 
         
 
-    </lyrics>
-</song>
+    </song>
+</xml>

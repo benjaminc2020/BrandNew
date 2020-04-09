@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
       <title ref="#2-STG...GF-2">Sic Transit Gloria... Glory Fades</title>
       <album ref="#2-DE">Deja Entendu</album>
@@ -14,7 +14,7 @@
         </composer>
       <songLength>00:03:06</songLength>
    </info>
-    <lyrics>
+    <song>
         <verse n="1">
             <line n="1">Keep the noise low.</line>
             <line n="2">She doesn't wanna blow it.</line>
@@ -104,5 +104,5 @@
             <line n="64">It used to be the reason I breathed but now it's choking me up.</line>
             <line n="65">Die young and save yourself.</line>
         </chorus>
-    </lyrics>
-</song>
+    </song>
+</xml>

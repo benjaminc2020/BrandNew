@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
         <title ref="#2-PCTS-11">Play Crack The Sky</title>
         <album ref="#2-DE">Deja Entendu</album>
@@ -13,7 +13,7 @@
         <composer>Jesse Lacey</composer>
         <songLength>00:05:27</songLength>
     </info>
-    <lyrics>
+    <song>
         <verse n="1">
             <line n="1">We sent out the SOS call.</line>
             <line n="2">It was a <refer img="time">quarter past four in the morning</refer> when the storm broke our second
@@ -67,6 +67,6 @@
             <line n="29">You know that you are not alone.</line>
             <line n="30">Need you like <refer img="water">water</refer> in my lungs.</line>
             <line n="31">This is the end.</line></outro>
-    </lyrics>
+    </song>
 
-</song>
+</xml>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
       <title ref="#2-JTS-7">Jaws Theme Swimming</title>
       <album ref="#2-DE">Deja Entendu</album>
@@ -14,7 +14,7 @@
         </composer>
       <songLength>00:04:34</songLength>
    </info>
-    <lyrics>
+    <song>
         <verse n="1">
             <line n="1">In a <refer img="car">car</refer> outside, we stalk the idle kind</line>
             <line n="2">If you're leaving, just let me know</line>
@@ -76,5 +76,5 @@
             <line n="36">Though I love you and my body it leaks like a sieve</line>
         </chorus>
 
-    </lyrics>
-</song>
+    </song>
+</xml>

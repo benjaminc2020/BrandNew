@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<xml>
     <info>
       <title ref="#2-OIBY,BMTGD't-4">Okay I Believe You, But My Tommy Gun Don't</title>
       <album ref="#2-DE">Deja Entendu</album>
@@ -11,7 +11,7 @@
       <composer>Jesse Lacey</composer>
       <songLength>00:05:35</songLength>
    </info>
-    <lyrics>
+    <song>
         <verse n="1">
             <line n="1">I am <refer img="rel">heaven</refer> sent,</line>
             <line n="2">Don't you dare forget.</line>
@@ -106,5 +106,5 @@
             <line n="71">I just wanna believe, in us. </line>
         </chorus>
 
-    </lyrics>
-</song>
+    </song>
+</xml>
