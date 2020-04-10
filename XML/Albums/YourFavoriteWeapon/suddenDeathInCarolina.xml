@@ -75,7 +75,8 @@
                 floor.</line>
         </verse>
 
-        <bridge n="1" bpm="84" bars="7"><line n="26">They hung her from the bridge on <refer img="time"
+        <bridge n="1" bpm="84" bars="7">
+            <line n="26">They <refer img="death">hung her</refer> from the bridge on <refer img="time"
                 >Monday</refer>.</line>
             <line n="27">The gathering turned into a mob out on the lawn.</line>
             <line n="28">They dropped her body in the <refer img="water">river</refer>.</line>

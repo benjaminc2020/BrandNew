@@ -17,7 +17,8 @@
       <songLength>00:04:47</songLength>
    </info>
     <song>
-        <verse n="1">
+        <instrumental n="1" bpm="96" bars="14"/>
+        <verse n="1" bpm="96" bars="32">
             <line n="1">Passed out on the <refer img="car">overpass</refer>
          </line>
             <line n="2">
@@ -36,7 +37,7 @@
             <line n="12">on the <refer img="car">overpass</refer> tonight, I bet we laugh</line>
         </verse>
 
-        <chorus n="1">
+        <chorus n="1" bpm="96" bars="38">
             <line n="13">I'm gonna stay eighteen <refer img="time">forever</refer> (cut me open)</line>
             <line n="14">So we can stay like this <refer img="time">forever</refer> (sun poisoned)</line>
             <line n="15">And we'll never miss a party (this offer...)</line>
@@ -56,7 +57,7 @@
             <line n="27">we shut it down</line>
         </chorus>
 
-        <chorus n="2">
+        <chorus n="2" bpm="96" bars="22">
             <line n="28">I'm gonna stay eighteen forever (cut me open)</line>
             <line n="29">So we can stay like this forever (sun poisoned)</line>
             <line n="30">And we'll never miss a party (this offer...)</line>
@@ -67,7 +68,7 @@
             <line n="35">we're the coolest kids and we take what we can get (wait forever)</line>
             <line n="36"> </line>
         </chorus>
-        <chorus n="3">
+        <chorus n="3" bpm="96" bars="20">
             <line n="37">(you're just jealous cause I'm young and in love)</line>
             <line n="38">Eighteen <refer img="time">forever</refer> (first kisses)</line>
             <line n="39">(your stomach's filled up but you're starved for conversation)</line>
@@ -86,13 +87,13 @@
             <line n="52">we're the coolest kids and we take what we can get</line>
         </chorus>
 
-        
+        <outro bpm="96" bars="16">
             <line n="53">Just jealous cause we're young and in love</line>
             <line n="54">You're just jealous cause we're young and in love</line>
             <line n="55">You're just jealous cause we're young and in love</line>
             <line n="56">You're just jealous cause we're young and in love</line>
             <line n="57">You're just jealous cause we're young and in love</line>
             <line n="58">You're just jealous... [turntable scratch]</line>
-        
+        </outro>
     </song>
 </xml>

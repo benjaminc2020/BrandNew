@@ -17,7 +17,8 @@
       <songLength>00:03:33</songLength>
    </info>
     <song>
-        <verse n="1">
+        <instrumental n="1" bpm="122" bars="16"/>
+        <verse n="1" bpm="110" bars="10">
          <line n="1">Back in <refer img="school">school</refer> they never <refer img="school">taught</refer> us what we needed to know,</line>
         <line n="2">like how to deal with despair, or someone <refer type="idiom">breaking your heart</refer>.</line>
         <line n="3">For twelve <refer img="time">years</refer> I've <refer type="idiom">held it all together</refer> but a <refer img="time">night</refer> like this is begging to <refer type="idiom">pull me
@@ -27,12 +28,12 @@
         <line n="6">I remember I kept thinking that I know you never would,</line>
         <line n="7">and now I know I want to <refer img="death">kill</refer> you like only a best friend could.</line>
       </verse>
-        <chorus n="1">
+        <chorus n="1" bpm="91" bars="6">
             <line n="8">Everyone's <refer type="idiom">caught on</refer> to everything you do</line>
             <line n="9">Everyone's <refer type="idiom">caught on</refer> to.</line>
         </chorus>
 
-        <verse n="2">
+        <verse n="2" bpm="91" bars="10">
             <line n="10">As if this happening wasn't enough I got to go</line>
             <line n="11">and write a song just to remind myself how bad it sucked.</line>
             <line n="12">Ignore the sun, the cover's over my head.</line>
@@ -44,7 +45,7 @@
             <line n="17">but they don't tell you what to say when your whole life has gone to <refer img="rel">hell</refer>.</line>
         </verse>
 
-        <chorus n="2">
+        <chorus n="2" bpm="91" bars="10">
             <line n="18">Everyone's caught on to everything you do</line>
             <line n="19">Everyone's caught on to</line>
             <line n="20">And everyone's caught on to everything you do (And I can't let you, let me down
@@ -52,7 +53,7 @@
             <line n="21">Everyone's caught on to (And I can't let you, let me down again)</line>
         </chorus>
 
-        <bridge n="1">
+        <bridge n="1" bpm="91" bars="20">
             <line n="22">So, is that what you call a getaway?</line>
             <line n="23">Tell me what you got away with.</line>
             <line n="24">Cause I've seen more spine in <refer img="animal">jellyfish</refer>.</line>
@@ -63,7 +64,7 @@
             <line n="29">and again when your head goes through the <refer img="car">windshield</refer>.</line>
         </bridge>
 
-        <bridge n="2">
+        <bridge n="2" bpm="91" bars="10">
             <line n="30">And is that what you call tact?</line>
             <line n="31">You're as subtle as a brick in the small of my back.</line>
             <line n="32">So let's end this call, and end this conversation.</line>
@@ -73,7 +74,7 @@
             <line n="36">when you say best friends means friends <refer img="time">forever</refer></line>
         </bridge>
 
-        <bridge n="3">
+        <bridge n="3" bpm="91" bars="10">
             <line n="37">So, is that what you call a getaway?</line>
             <line n="38">Well tell me what you got away with.</line>
             <line n="39">Cause I've seen more spine in <refer img="animal">jellyfish</refer>.</line>
@@ -84,7 +85,7 @@
             <line n="44">and again when your head goes through the <refer img="car">windshield</refer>.</line>
         </bridge>
 
-        <chorus n="3">
+        <chorus n="3" bpm="91" bars="12">
             <line n="45">Everyone's caught on to everything you do (And I can't let you, let me down
                 again)</line>
             <line n="46">Everyone's caught on to (And I can't let you, let me down again)</line>
