@@ -14,9 +14,11 @@
         <songLength>00:04:36</songLength>
     </info>
     <song>
-        <line n="1">Scream in there.</line>
-        <line n="2">AHHHHHH!</line>
-        <verse n="1">
+        <intro bpm="122" bars="12">
+            <line n="1">Scream in there.</line>
+            <line n="2">AHHHHHH!</line>
+        </intro>
+        <verse n="1" bpm="122" bars="12">
             <line n="3">You and I are stuck in our ways</line>
             <line n="4">Talking about our salad days</line>
             <line n="5">What a <refer img="rel">damn lie</refer></line>
@@ -24,7 +26,7 @@
             <line n="7">And that's the <refer img="rel">God damn truth</refer></line>
             <line n="8">Baby, bye-bye</line>
         </verse>
-        <preChorus n="1">
+        <preChorus n="1" bpm="122" bars="16">
             <line n="9">Well, you could turn to <refer img="water">water</refer> and we'd all float
                 on</line>
             <line n="10">Give up trying to be someone</line>
@@ -35,21 +37,21 @@
                     img="time">no time</refer></line>
             <line n="15">We get no reply</line>
         </preChorus>
-        <chorus n="1">
+        <chorus n="1" bpm="122" bars="12">
             <line n="16">Every night you were <refer img="drugs">tripping out</refer></line>
             <line n="17">In the morning you were coming down</line>
             <line n="18">If it's breaking your heart, if nothing is fun</line>
             <line n="19">Don't lose hope, my son</line>
             <line n="20">This is the last one</line>
         </chorus>
-        <verse n="2">
+        <verse n="2" bpm="122" bars="12">
             <line n="21">You and I <refer img="rel">repent of our sins</refer></line>
             <line n="22">Yeah, we feel so American laying in the road</line>
             <line n="23">Was a shoe-in for the crash of the <refer img="time">day</refer></line>
             <line n="24">And we're never going to walk away</line>
             <line n="25">Never going home</line>
         </verse>
-        <preChorus n="2">
+        <preChorus n="2" bpm="122" bars="16">
             <line n="26">I'm hoping that in <refer img="time">time</refer>, you can lay down</line>
             <line n="27">All this weight you've been carrying around and maybe <refer img="time">one
                     day</refer></line>
@@ -59,7 +61,7 @@
             <line n="31">And for the <refer img="time">last time</refer></line>
             <line n="32">Yeah, you say good-bye</line>
         </preChorus>
-        <chorus n="2">
+        <chorus n="2" bpm="122" bars="20">
             <line n="33"><refer img="time">Every night</refer> you were <refer img="drugs">tripping
                     out</refer></line>
             <line n="34">In the morning you were coming down</line>
@@ -73,13 +75,15 @@
             <line n="41">Don't give up, my son, this is the last one</line>
             <line n="42">This is the last one</line>
         </chorus>
-        <bridge n="1"><line n="43">You are not alone, you are not alone</line>
+        <bridge n="1" bpm="122" bars="16">
+            <line n="43">You are not alone, you are not alone</line>
             <line n="44">You are not alone, you get to reset</line>
             <line n="45">You are not alone, you are not alone</line>
             <line n="46">You are not alone, you get to reset</line>
             <line n="47">You are not alone, you get to alone</line>
-            <line n="48">You are not alone, you get to reset</line></bridge>
-        <chorus n="3">
+            <line n="48">You are not alone, you get to reset</line>
+        </bridge>
+        <chorus n="3" bpm="122" bars="16">
             <line n="47"><refer img="time">Every night</refer> you were <refer img="drugs">tripping
                     out</refer></line>
             <line n="48">In the morning you were coming down</line>
@@ -93,5 +97,6 @@
             <line n="55">Don't give up, my son, this is the last one</line>
             <line n="56">This is the last one</line>
         </chorus>
+        <outro bpm="120" bars="8"></outro>
     </song>
 </xml>

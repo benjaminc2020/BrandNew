@@ -14,8 +14,8 @@
         <songLength>00:04:53</songLength>
     </info>
     <song>
-        <instrumental n="1"/>
-        <verse n="1">
+        <instrumental n="1" bpm="99" bars="16"/>
+        <verse n="1" bpm="99" bars="18 ">
             <line n="1">I'm awake, there's no part to play</line>
             <line n="2"><refer img="selfHarm">Drinking Drano</refer>, <refer img="drugs">smoking grass</refer>, one under the
                 pass</line>
@@ -30,7 +30,7 @@
 
         <!--bb: this boi is loud-->
 
-        <chorus n="1">
+        <chorus n="1" bpm="99" bars="24">
             <line n="8">Soft spot, lightning rod, my paint is peeling</line>
             <line n="9">A million <refer img="sun">suns</refer> won't fill you up</line>
             <line n="10">If you can't see the <refer img="alcohol"><refer img="rel">wine flowing over your
@@ -44,7 +44,7 @@
         </chorus>
 
 
-        <verse n="2">
+        <verse n="2" bpm="99" bars="20">
             <line n="15">The <refer img="time">clock ticks</refer> but you just sit and wish you had
                 someone to wrestle with</line>
             <line n="16">It's a small tooth touch, it comes around and <refer type="idiom">rings your bell</refer></line>
@@ -56,7 +56,7 @@
             <line n="22">(Swallow the pitch that flows from the <refer img="earth">earth</refer>)</line>
         </verse>
 
-        <chorus n="2">
+        <chorus n="2" bpm="99" bars="16">
             <line n="23">Soft spot, lightning rod, my paint is peeling</line>
             <line n="24">A million <refer img="sun">suns</refer> won't fill you up</line>
             <line n="25">If you can't see the <refer img="alcohol"><refer img="rel">wine flowing over your
@@ -66,10 +66,10 @@
             <line n="28">And go back to your hole in the <refer img="trees">woods</refer> <refer img="earth">under
                     ground</refer></line>
         </chorus>
-
+        <instrumental n="1" bpm="99" bars="32"/>
         <!--bb: H*ckin great instrumental.  Rhythm does some MAJOR changes.-->
 
-        <chorus n="3">
+        <chorus n="3" bpm="70" bars="16">
             <line n="29">Soft spot, lightning rod, my paint is peeling</line>
             <line n="30">A million <refer img="sun">suns</refer> won't fill you up</line>
             <line n="31">If you can't see the <refer img="alcohol">wine</refer> flowing over your
@@ -80,5 +80,6 @@
             <line n="34">And go back to my hole in the woods <refer img="earth">under
                 ground</refer></line>
         </chorus>
+        <outro bpm="99" bars="16"></outro>
     </song>
 </xml>

@@ -15,7 +15,8 @@
         <songLength>00:05:34</songLength>
     </info>
     <song>
-        <verse n="1">
+        <intro bpm="74" bars="8"></intro>
+        <verse n="1" bpm="74" bars="8">
             <line n="1">It's hard to walk through all the places that your life used to be in</line>
             <line n="2">So you thought you'd shed a layer, maybe try on some new skin</line>
             <line n="3">Your friends are all imaginary, your shrink stopped answering her
@@ -30,7 +31,7 @@
             <line n="8">And when you glued them back together you found out you did it wrong</line>
         </verse>
 
-        <chorus n="1">
+        <chorus n="1" bpm="74" bars="32">
             <line n="9">Well this is the <refer type="songTitle">same logic</refer> that got us into
                 trouble the first time</line>
             <line n="10">(When we discovered we could use)</line>
@@ -44,8 +45,8 @@
             <line n="16">You're just a monster in a costume</line>
             <line n="17">A shade of what you used to be</line>
         </chorus>
-
-        <verse n="2">
+        <instrumental n="1" bpm="74" bars="10"/>
+        <verse n="2" bpm="74" bars="16">
             <line n="18">And you've got your kind of <refer type="band">brand new</refer> face on,
                 where all the skin's pulled thin and taut</line>
             <line n="19">And every kid you see starts crying so you stop going out for walks</line>
@@ -55,21 +56,22 @@
             <line n="22">(Judge you by your faults)</line>
         </verse>
 
-        <chorus n="2">
+        <chorus n="2" bpm="74" bars="32">
             <line n="23">Well this is the <refer type="songTitle">same logic</refer> that got us
                 into trouble the first time</line>
             <line n="24">(When we discovered we could use)</line>
             <line n="25">The <refer type="songTitle">same logic</refer> to get us out of
                 trouble</line>
             <line n="26">And shake off all the people we abuse</line>
-        </chorus>
 
-        <bridge n="1">
             <line n="27">Don't need to know where you come from</line>
             <line n="28">If you don't know where you belong</line>
             <line n="29">So how's it feel to walk around, like you're some sort of freak</line>
             <line n="30">You're just an actor, but now they caught you</line>
             <line n="31">A shade of what you used to be</line>
+        </chorus>
+        <instrumental n="2" bpm="74" bars="8"/>
+        <verse n="3" bpm="74" bars="32">
             <line n="32">Goddamnit you look so lovely, but you sound, you sound, you sound so
                 ugly</line>
             <line n="33">Goddamnit you look so lovely, but you sound, you sound, you sound so
@@ -77,9 +79,7 @@
             <line n="34">Well Goddamnit, you look so lovely, but you sound, you sound, you sound so
                 ugly</line>
             <line n="35">Well Goddamnit, you look so lovely, but you sound, you sound, you sound so
-                ugly</line></bridge>
-
-        <verse n="3">
+                ugly</line>
             <line n="36">Boy, we gave you every opportunity</line>
             <line n="37">Boy we gave our hands to get you off your knees</line>
             <line n="38">Boy sat at our table and ate everything</line>
@@ -88,7 +88,7 @@
                 >teeth</refer></line>
         </verse>
 
-        <outro>
+        <outro bpm="74" bars="28">
             <instrumental n="1"/>
             <line n="41">We started with psychodrama...</line>
         </outro>

@@ -14,7 +14,8 @@
         <songLength>00:08:28</songLength>
     </info>
     <song>
-        <verse n="1">
+        <intro bpm="80" bars="8"></intro>
+        <verse n="1" bpm="80" bars="16">
             <line n="1">In the valley of your slowly-fading memory</line>
             <line n="2">Are there pastures bathed in some uncertain light where you won’t
                 graze?</line>
@@ -25,17 +26,17 @@
             <line n="7">What does it feel like to shine between everything?</line>
         </verse>
 
-        <chorus n="1">
+        <chorus n="1" bpm="80" bars="10">
             <line n="8">It's never going to stop</line>
             <line n="9"><refer type="songTitle">Batter up</refer></line>
             <line n="10"><refer type="idiom">Give me your best shot</refer></line>
             <line n="11"><refer type="songTitle">Batter up</refer></line>
         </chorus>
 
-        <instrumental n="1"/>
+        <instrumental n="1" bpm="77" bars="10"/>
         <!--bb: instrumental-->
 
-        <verse n="2">
+        <verse n="2" bpm="80" bars="16">
             <line n="12">I saw something in the <refer img="time">night</refer> sky over
                 Camden</line>
             <line n="13">Turned around and <refer img="car">drove</refer> the opposite direction
@@ -47,14 +48,14 @@
             <line n="18">Or under</line>
         </verse>
 
-        <chorus n="2">
+        <chorus n="2" bpm="80" bars="8">
             <line n="19">It's never going to stop</line>
             <line n="20"><refer type="songTitle">Batter up</refer></line>
             <line n="21"><refer type="idiom">Give me your best shot</refer></line>
             <line n="22"><refer type="songTitle">Batter up</refer></line>
         </chorus>
 
-        <verse n="3">
+        <verse n="3" bpm="80" bars="16">
             <line n="23">And even though the roar <refer img="death">died</refer> in your
                 throat</line>
             <line n="24">The lines get blurred</line>
@@ -65,7 +66,7 @@
             <line n="28">In love</line>
         </verse>
 
-        <chorus n="3">
+        <chorus n="3" bpm="80" bars="20">
             <line n="29">It's never going to stop</line>
             <line n="30"><refer type="songTitle">Batter up</refer></line>
             <line n="31"><refer type="idiom">Give me your best shot</refer></line>
@@ -78,14 +79,14 @@
             <line n="38"><refer type="songTitle">Batter up</refer></line>
         </chorus>
 
-        <instrumental n="2"/>
+        <instrumental n="2" bpm="80" bars="36"/>
 
 
         <!--bb: long instrumental-->
 
         <!--bb: sampled spoken audio and sound effects-->
 
-        <outro>
+        <outro bars="28">
             <line n="39" voice="sampledAudio">That was the one right there...This is what we were
                 waiting for...</line>
         </outro>
