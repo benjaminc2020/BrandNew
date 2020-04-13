@@ -34,18 +34,18 @@
 
         </info>
         <trackListing>
-            <song n="1" ref="">Lit Me Up</song>
-            <song n="2" ref="">Can't Get It Out</song>
-            <song n="3" ref="">Waste</song>
-            <song n="4" ref="">Could Never Be Heaven</song>
-            <song n="5" ref="">Same Logic/Teeth</song>
-            <song n="6" ref="">137</song>
-            <song n="7" ref="">Out of Mana</song>
-            <song n="8" ref="">In the Water</song>
-            <song n="9" ref="">Desert</song>
-            <song n="10" ref="">No Control</song>
-            <song n="11" ref="">451</song>
-            <song n="12" ref="">Batter Up</song>
+            <song n="1" ref="#5-LMU-1">Lit Me Up</song>
+            <song n="2" ref="#5-CGIO-2">Can't Get It Out</song>
+            <song n="3" ref="#5-W-3">Waste</song>
+            <song n="4" ref="#5-CNBH-4">Could Never Be Heaven</song>
+            <song n="5" ref="#5-SLT-5">Same Logic/Teeth</song>
+            <song n="6" ref="#5-137-6">137</song>
+            <song n="7" ref="#5-OOM-7">Out of Mana</song>
+            <song n="8" ref="#5-ITW-8">In the Water</song>
+            <song n="9" ref="#5-D-9">Desert</song>
+            <song n="10" ref="#5-NC-10">No Control</song>
+            <song n="11" ref="#5-451-11">451</song>
+            <song n="12" ref="#5-BU-12">Batter Up</song>
         </trackListing>
     </album>
 </xml>

@@ -57,18 +57,18 @@
             <addPer>Margaret White - viola</addPer>
         </info>
         <trackListing>
-            <song n="1" ref="">Sowing Season</song>
-            <song n="2" ref="">Millstone</song>
-            <song n="3" ref="">Jesus Christ</song>
-            <song n="4" ref="">Degausser</song>
-            <song n="5" ref="">Limousine</song>
-            <song n="6" ref="">You Won't Know</song>
-            <song n="7" ref="">Welcome to Bangkok</song>
-            <song n="8" ref="">Not the Sun</song>
-            <song n="9" ref="">Luca</song>
-            <song n="10" ref="">Untitled</song>
-            <song n="11" ref="">The Archers' Bows Have Broken</song>
-            <song n="12" ref="">Handcuffs</song>
+            <song n="1" ref="#3-SS-1">Sowing Season</song>
+            <song n="2" ref="#3-M-2">Millstone</song>
+            <song n="3" ref="#3-JC-3">Jesus Christ</song>
+            <song n="4" ref="#3-D-4">Degausser</song>
+            <song n="5" ref="#3-L-5">Limousine</song>
+            <song n="6" ref="#3-YWK-6">You Won't Know</song>
+            <song n="7" ref="#3-WTB-7">Welcome to Bangkok</song>
+            <song n="8" ref="#3-NTS-8">Not the Sun</song>
+            <song n="9" ref="#3-L-9">Luca</song>
+            <song n="10" ref="#3-U-10">Untitled</song>
+            <song n="11" ref="#3-TABHB-11">The Archers' Bows Have Broken</song>
+            <song n="12" ref="#3-H-12">Handcuffs</song>
         </trackListing>
     </album>
 </xml>
