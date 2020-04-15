@@ -15,8 +15,10 @@
             <production>Emily Lazer - mastering</production>
             <production>Sarah Register - mastering</production>
             <production>L. Wood - A amp; R</production>
-            <studio>Cove City<location>7 Pratt Blvd, Glen Cove, NY 11542</location></studio>
-            <studio>Longview Farm<location>30 Stoddard Road, North Brookfield, MA 01535</location></studio>
+            <studio>Cove City<location>7 Pratt Blvd, Glen Cove, NY
+                    11542</location><coordN>20.867338</coordN><coordW>73.631402</coordW></studio>
+            <studio>Longview Farm<location>30 Stoddard Road, North Brookfield, MA
+                    01535</location><coordN>42.298516</coordN><coordW>72.083597</coordW></studio>
             <studio>Sapone Studios<location>Bethpage, NY</location></studio>
             <released>2006-11-21</released>
             <single>Sowing Season<released>2006-11-21</released></single>
