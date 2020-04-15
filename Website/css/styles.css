@@ -257,26 +257,31 @@ p2 {
     width: auto;
     border-radius: 30px;
 }
-#soloAlbum .songList {
+ .songList {
     display: flex;
     justify-content: space-between;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 16%;
+    padding-right: 16%;
     padding-top: 5%;
     padding-bottom: 2%;
     background-color: #1e1f21;
 }
-#soloAlbum p{
+
+.albumTitle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.albumHead{
     font-family: 'Josefin Sans', sans-serif;
     font-size: 55px;
-    padding-left: 2%;
 }
-#soloAlbum p1{
+.trackListHead{
     font-family: 'Raleway', sans-serif;
     font-size: 35px;
-    padding-left: 20%;
 }
-#soloAlbum li{
+.songList li{
     font-family: 'Raleway', sans-serif;
     font-size: 25px;
     padding-left: 5%;
@@ -284,7 +289,6 @@ p2 {
     background-color: #36383b;
     border-radius: 10px;
 }
-#soloAlbum .albumArt{
+.albumArt{
     padding-top:11%;
-    padding-right: 8%;
 }
