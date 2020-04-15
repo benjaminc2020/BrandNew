@@ -289,6 +289,10 @@ p2 {
     background-color: #36383b;
     border-radius: 10px;
 }
+.songlist li a{
+    text-decoration: none;
+    color: white;
+}
 .albumArt{
     padding-top:11%;
 }
