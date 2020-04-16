@@ -5,7 +5,7 @@
         <title ref="#6-SL/T-5">Same Logic/Teeth</title>
         <album ref="#6-SF">Science Fiction</album>
         <track n="5"/>
-        <tempo bpm="1"/>
+        <tempo bpm="74"/>
         <key>Am</key> <!--bb: A minor -->
         <songWriter>
             <li n="1">Brand New</li>

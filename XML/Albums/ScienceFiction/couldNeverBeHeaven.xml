@@ -5,7 +5,7 @@
         <title ref="#6-CNBH-4">Could Never Be Heaven</title>
         <album ref="#6-SF">Science Fiction</album>
         <track n="4"/>
-        <tempo bpm="1"/>
+        <tempo bpm="68"/>
         <key>C#m</key> <!--bb: C sharp minor -->
         <songWriter>
             <li n="1">Brand New</li>
