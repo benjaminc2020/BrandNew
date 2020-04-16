@@ -294,7 +294,7 @@ p {
     margin-bottom: 10px;
 }
 
-.songlist li a{
+.songList a{
     text-decoration: none;
     color: white;
 }
