@@ -1,65 +1,66 @@
 html, body{margin:0; padding:0}
 
 body{
-    overflow-x:hidden;
     display: flex;
-    height: 100vh;
     flex-direction: column;
+    overflow-x: hidden;
 }
 
-.nav {
+#nav {
     display: flex;
-    height: 25vh;
+    height: 20vh;
     flex-direction: column;
-}
-.header{
-    display: flex;
+    padding-bottom: 20px;
     justify-content: center;
+    align-items: center;
+}
+
+.header{
     font-family: 'Josefin Sans', sans-serif;
     font-size: 75px;
     padding-top: 20px;
 }
 
-.elements{
-    display: flex;
-    font-family: 'Josefin Sans', sans-serif;
-    font-size: 20px;
-    justify-content: center;
-    align-items: center;
-    text-decoration: none;
-}
-#navBar a{
+#navbar a{
     text-decoration: none;
     color: black;
 }
 
-#navBar a:hover{
+#navbar a:hover{
     text-decoration: none;
     color: white;
 }
 
-.navBar {
+#navbar {
     display: flex;
     background: grey;
-    justify-content: center;
-    justify-content: space-between;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    justify-content: space-around;
+    align-items: center;
     height: 5vh;
-    padding-right: 10%;
-    padding-left: 10%;
-    margin-top: 8px;
+    width: 100vw;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.sticky + .content {
+    padding-top: 60px;
 }
 
 .line{
-    
     display: flex;
     width: 60vw;
     justify-content: center;
     align-items: center;
     margin: auto;
-
 }
 
-#aboutPage .infoContainer{
+.infoContainer{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -68,28 +69,22 @@ body{
     padding-right: 10%;
     padding-top: 20px;
 }
-#aboutPage .aboutBand{
+.aboutBand{
     padding-bottom: 40px;
-}
-#aboutPage h1 {
-    font-family: 'Josefin Sans', sans-serif;
-    font-size: 60px;
-}
-#aboutPage p {
     font-family: 'Raleway', sans-serif;
     font-size: 20px;
 }
-#aboutPage h2 {
+.aboutBand p{color: black;}
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 60px;
+}
+h2 {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 60px;
     color: white;
 }
-#aboutPage p1 {
-    font-family: 'Raleway', sans-serif;
-    font-size: 20px;
-    color: white;
-}
-#aboutPage .aboutProject{
+.aboutProject{
     display: flex;
     background-color:  #1e1f21;
     flex-direction: column;
@@ -97,6 +92,9 @@ body{
     padding-right: 10%;
     padding-top: 20px; 
     margin-bottom: none;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    color: white;
 }
 .logic{
     padding-top: 50px;
@@ -105,7 +103,8 @@ body{
     height: 50%;
     width: 90%;
 }
-#aboutPage .aboutTeam{
+
+.aboutTeam{
     background-color: #36383b;
     display: flex;
     flex-direction: column;
@@ -114,6 +113,7 @@ body{
     padding-right: 10%;
     padding-top: 20px;  
 }
+
 .bio {
     height: 300px;
     width: auto;
@@ -124,7 +124,8 @@ body{
     display: flex;
     flex-direction: column;
 }
-.m1 {
+
+.m-forward {
     display: flex;
     padding-right: 50px;
     background-color: #1e1f21;
@@ -132,70 +133,59 @@ body{
     border-radius: 20px;
     padding-left: 5%;
 }
-.m2 {
+
+.m-reverse {
     display: flex;
     flex-direction: row-reverse;
     padding-right: 50px;
     padding: 10px;
     padding-right: 5%;
 }
-.m3 {
-    display: flex;
-    padding-right: 50px;
-    background-color: #1e1f21;
-    padding: 10px;
-    border-radius: 20px;
-    padding-left: 5%;
-}
-.m4 {
-    display: flex;
-    flex-direction: row-reverse;
-    padding-right: 50px;
-    padding: 10px;
-    padding-right: 5%;
-}
-.text {
+
+.t-forward {
     display: flex;
     flex-direction: column;
     margin-right: 20%;
     padding-top: 3%;
 }
-.text2 {
+
+.t-reverse {
     display: flex;
     flex-direction: column;
     padding-top: 3%;
     margin-left: 20%;
 }
-h3 {
+
+h3{
     font-family: 'Josefin Sans', sans-serif;
     font-size: 40px;
     color: white;
-    }
-p2 {
+}
+
+p {
     font-family: 'Raleway', sans-serif;
     font-size: 20px;
     color: white;
 }
+
 .footer{
     display: flex;
     background-color: #1e1f21;
     padding: 2%;
 }
-#albumPage .albumContainer{
+
+.albumContainer{
     display: flex;
     flex-direction: column;
 }
+
 .yfw{
     display: flex;
     justify-content: center;
     padding-top: 5%;
     padding-bottom: 5%;
 }
-#albumPage.yfw{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
+
 .dejaEntendu{
     display: flex;
     flex-direction: row-reverse;
@@ -204,12 +194,14 @@ p2 {
     padding-bottom: 5%;
     background-color: #1e1f21;
 }
+
 .daGarim {
     display: flex;
     justify-content: center;
     padding-top: 5%;
     padding-bottom: 5%;
 }
+
 .daisy {
     display: flex;
     flex-direction: row-reverse;
@@ -218,33 +210,39 @@ p2 {
     padding-bottom: 5%;
     background-color: #1e1f21;
 }
+
 .scienceFiction {
     display: flex;
     justify-content: center;
     padding-bottom: 5%;
     padding-top: 5%;
 }
-#albumPage p{
+
+.yfw p, .scienceFiction p{
+    color: black;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 55px;
     padding-top: 10%;
     padding-right: 15%;
 }
-#albumPage p1{
+
+.dejaEntendu p{
     font-family: 'Josefin Sans', sans-serif;
     font-size: 55px;
     padding-top: 12%;
     color: white;
     padding-left: 20%;
 }
-#albumPage p2{
+
+.daGarim p{
     font-family: 'Josefin Sans', sans-serif;
     font-size: 50px;
     padding-top: 10%;
     padding-right: 15%;
     color: black;
 }
-#albumPage p3{
+
+.daisy p{
     font-family: 'Josefin Sans', sans-serif;
     font-size: 60px;
     padding-top: 12%;
@@ -252,16 +250,18 @@ p2 {
     padding-left: 23%;
     color: white;
 }
+
 .album{
     height: 400px;
     width: auto;
     border-radius: 30px;
 }
- .songList {
+
+.songList {
     display: flex;
     justify-content: space-between;
-    padding-left: 16%;
-    padding-right: 16%;
+    padding-left: 10%;
+    padding-right: 10%;
     padding-top: 5%;
     padding-bottom: 2%;
     background-color: #1e1f21;
@@ -276,11 +276,14 @@ p2 {
 .albumHead{
     font-family: 'Josefin Sans', sans-serif;
     font-size: 55px;
+        color: black;
 }
 .trackListHead{
     font-family: 'Raleway', sans-serif;
     font-size: 35px;
+    color: black;
 }
+
 .songList li{
     font-family: 'Raleway', sans-serif;
     font-size: 25px;
@@ -288,11 +291,15 @@ p2 {
     color: white;
     background-color: #36383b;
     border-radius: 10px;
+    margin-bottom: 10px;
 }
-.songlist li a{
+
+.songList a{
     text-decoration: none;
     color: white;
 }
+
 .albumArt{
     padding-top:11%;
+    padding-right: 8%;
 }

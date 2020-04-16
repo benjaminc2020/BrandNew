@@ -1,39 +1,51 @@
-<html>
-    
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
     <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <title>Albums</title>
         <link rel="shortcut icon" href="images/fox.png"/>
         <link rel="stylesheet" href="css/styles.css"/>
-        <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville&amp;display=swap" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&amp;display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville&amp;display=swap" rel="stylesheet"/>
+        <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&amp;display=swap" rel="stylesheet"/>
+        <script src="javascript/sticky.js"></script>
     </head>
-    
-    <body> 
+    <body>
       <!--#include virtual="html/mainSSI.html" -->
-        <div id=albumPage class="albumContainer">
-            <div class="yfw">
-            <p>Your Favorite Weapon</p>
-            <a href ="yourFavoriteWeapon.html"><img id="albumPage" class="album" src="images/Your%20Favorite%20Weapon%20(Deluxe%20Edition).jpg" alt="Your Favorite Weapon Album Artwork" /></a>
-            </div>
-            <div class="dejaEntendu">
-                <p1>Deja Entendu</p1>
-                <a href="html/dejaEntendu.html"><img id="albumPage" class="album" src="images/Deja%20Entendu.jpg" alt="Deja Entendu Album Artwork"/></a>
-            </div>
-            <div class="daGarim">
-                <p2>The Devil &amp; God Are <br>Raging Inside Me</p2>
-                <a href="html/daGarim.html"><img id="albumPage" class="album" src="images/The%20Devil%20&%20God%20Are%20Raging%20Inside%20Me.jpg" alt="DaGarmin Album Artwork"/></a>
-            </div>
-            <div class="daisy">
-                <p3>Daisy</p3>
-                <a href="html/daisy.html"><img id="albumPage" class="album" src="images/Daisy.jpg" alt="Daisy Album Artwork"/></a>
-            </div>
-            <div class="scienceFiction">
-                <p>Science Fiction</p>
-                <a href="html/scienceFiction.html"><img id="albumPage" class="album" src="images/Science%20Fiction.jpg" alt="Science Fiction Album Artwork"/></a>
-            </div>
+        <div id="nav">
+            <div class="header">BRAND NEW</div>
+            <img class="line" src="images/nav-line.svg" alt="line"/>
         </div>
-        <div class="footer">
-        <p2>Copyright 2020</p2>
+        <div id="navbar">
+            <a href="about.html">About</a>
+            <a href="albums.html">Albums</a>
+            <a href="analysis.html">Analysis</a>
+        </div>
+        <div class="content">
+            <div class="albumContainer">
+                <div class="yfw">
+                    <p>Your Favorite Weapon</p>
+                    <a href ="yourFavoriteWeapon.html"><img class="album" src="images/YourFavoriteWeaponDeluxeEdition.jpg" alt="Your Favorite Weapon Album Artwork" /></a>
+                </div>
+                <div class="dejaEntendu">
+                    <p>Deja Entendu</p>
+                    <a href="dejaEntendu.html"><img class="album" src="images/DejaEntendu.jpg" alt="Deja Entendu Album Artwork"/></a>
+                </div>
+                <div class="daGarim">
+                    <p>The Devil &amp; God Are <br/>Raging Inside Me</p>
+                    <a href="daGarim.html"><img class="album" src="images/TheDevilAndGodAreRagingInsideMe.jpg" alt="DaGarmin Album Artwork"/></a>
+                </div>
+                <div class="daisy">
+                    <p>Daisy</p>
+                    <a href="daisy.html"><img class="album" src="images/Daisy.jpg" alt="Daisy Album Artwork"/></a>
+                </div>
+                <div class="scienceFiction">
+                    <p>Science Fiction</p>
+                    <a href="scienceFiction.html"><img class="album" src="images/ScienceFiction.jpg" alt="Science Fiction Album Artwork"/></a>
+                </div>
+            </div>
+            <div class="footer">
+                <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+            </div>
         </div>
     </body>
 </html>
