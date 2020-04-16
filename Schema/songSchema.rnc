@@ -25,12 +25,13 @@ songLength = element songLength{xsd:time}
 
 #song structure
 
-song = element song {(intro | prelude | interlude | verse | chorus+ | bridge | outro | line | preChorus | instrumental )*}
-intro = element intro{bpm? | bars? | line+ | verse | instrumental}*
+song = element song {(intro | prelude | interlude| postlude | verse | chorus+ | bridge | outro | line | preChorus | instrumental )*}
+intro = element intro{(bpm? | bars? | line+ | verse | instrumental)*}
 line = element line {mixed{n, voice?, refer*}}
 voice = attribute voice {"background" | "reverse" | "sampledAudio" | "response"}
 prelude = element prelude{ bpm?, bars?, text}
 interlude = element interlude{bpm?, bars?, text}
+postlude = element postlude{bpm?, bars?, line+}
 verse = element verse{n, bpm?, bars?, line+}
 chorus = element chorus{n, bpm?, bars?, line+}
 bars = attribute bars {xsd:int}
