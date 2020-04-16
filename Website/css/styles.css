@@ -69,12 +69,15 @@ body{
     padding-right: 10%;
     padding-top: 20px;
 }
+
 .aboutBand{
     padding-bottom: 40px;
     font-family: 'Raleway', sans-serif;
     font-size: 20px;
 }
+
 .aboutBand p{color: black;}
+
 h1 {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 60px;
@@ -179,92 +182,80 @@ p {
     flex-direction: column;
 }
 
-.yfw{
-    display: flex;
-    justify-content: center;
-    padding-top: 5%;
-    padding-bottom: 5%;
+.title{
+    width: 60vw;
 }
 
-.dejaEntendu{
+.art{
+    width: 40vw;
+    align-items: center;
+}
+
+.art, .title{
     display: flex;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.albumContainer a{
+    text-decoration: none;
+}
+
+.yfw img:hover, .dejaEntendu img:hover, .daGarim img:hover, .daisy img:hover, .scienceFiction img:hover{
+    height: 45vh;
+    transition: .1s ease;
+}
+
+.yfw, .dejaEntendu, .daGarim, .daisy, .scienceFiction{
+    display: flex;
+    height: 50vh;
+    width: 100vw;
+}
+
+.dejaEntendu, .daisy {
     flex-direction: row-reverse;
-    justify-content: center;
-    padding-top: 5%;
-    padding-bottom: 5%;
     background-color: #1e1f21;
-}
-
-.daGarim {
-    display: flex;
-    justify-content: center;
-    padding-top: 5%;
-    padding-bottom: 5%;
-}
-
-.daisy {
-    display: flex;
-    flex-direction: row-reverse;
-    justify-content: center;
-    padding-top: 5%;
-    padding-bottom: 5%;
-    background-color: #1e1f21;
-}
-
-.scienceFiction {
-    display: flex;
-    justify-content: center;
-    padding-bottom: 5%;
-    padding-top: 5%;
-}
-
-.yfw p, .scienceFiction p{
-    color: black;
-    font-family: 'Josefin Sans', sans-serif;
-    font-size: 55px;
-    padding-top: 10%;
-    padding-right: 15%;
-}
-
-.dejaEntendu p{
-    font-family: 'Josefin Sans', sans-serif;
-    font-size: 55px;
-    padding-top: 12%;
-    color: white;
-    padding-left: 20%;
-}
-
-.daGarim p{
-    font-family: 'Josefin Sans', sans-serif;
-    font-size: 50px;
-    padding-top: 10%;
-    padding-right: 15%;
-    color: black;
-}
-
-.daisy p{
-    font-family: 'Josefin Sans', sans-serif;
-    font-size: 60px;
-    padding-top: 12%;
-    padding-right: 12%;
-    padding-left: 23%;
-    color: white;
 }
 
 .album{
-    height: 400px;
+    height: 35vh;
     width: auto;
-    border-radius: 30px;
+    border-radius: 10px;
 }
 
-.songList {
+.yfw p, .scienceFiction p, .dejaEntendu p, .daGarim p, .daisy p{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 55px;
+}
+
+.yfw p, .scienceFiction p, .daGarim p{
+    color: black;
+}
+
+.dejaEntendu p, .daisy p{
+    color: white;
+}
+
+.songList{
     display: flex;
-    justify-content: space-between;
-    padding-left: 10%;
-    padding-right: 10%;
-    padding-top: 5%;
-    padding-bottom: 2%;
     background-color: #1e1f21;
+    flex-direction: row-reverse;
+}
+
+.tracks, #albumArt{
+    display: flex;
+    height: auto;
+    width: 50vw;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+#albumArt img{
+    width: 35vw;
+    height: auto;
+    border-radius: 10px;
 }
 
 .albumTitle {
@@ -276,7 +267,7 @@ p {
 .albumHead{
     font-family: 'Josefin Sans', sans-serif;
     font-size: 55px;
-        color: black;
+    color: black;
 }
 .trackListHead{
     font-family: 'Raleway', sans-serif;
@@ -286,12 +277,18 @@ p {
 
 .songList li{
     font-family: 'Raleway', sans-serif;
-    font-size: 25px;
-    padding-left: 5%;
+    font-size: 20px;
+    width: 40vw;
     color: white;
     background-color: #36383b;
     border-radius: 10px;
     margin-bottom: 10px;
+    padding-left: 5px;
+}
+
+.songList li:hover{
+    font-size: 30px;
+    transition: .1s ease-in-out;
 }
 
 .songList a{
@@ -299,7 +296,79 @@ p {
     color: white;
 }
 
-.albumArt{
-    padding-top:11%;
-    padding-right: 8%;
+.songTitle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 55px;
+}
+.songAlbumArt, .lyricsContainer, .refContainer{
+    display:flex;
+    width: 33vw;
+    flex-direction: column;
+    height: auto;
+    padding-top: 1%;
+}
+
+.songAlbumArt{
+    justify-content: flex-start;
+    align-items: center;
+}
+
+
+.songAlbumArt a {
+    text-decoration: none;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    align-content: center;
+}
+.songContainer{
+    background-color: #1e1f21;
+    display: flex;
+    justify-content: center;
+}
+.lyricsContainer li {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    background-color: #36383b;
+    list-style-type: none;
+    padding: 4px;
+    border-radius: 10px;
+}
+
+.lyricsContainer{
+    border: 1px solid white;
+    padding: 0;
+    justify-content: center;
+}
+
+.lyricsContainer ul{
+    background-color: #36383b;
+    border-radius: 10px;
+    padding: 0;
+    padding-left: 5px;
+}
+.refContainer p {
+    text-decoration: none;
+    padding-left: 5px;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+.refContainer li {
+   text-decoration: none;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    list-style-type: none;
+    border-style: outset;
+    border-radius: 10px;
+    border-color: #36383b;
+    padding: 5px;
+    background-color: #36383b;
 }
