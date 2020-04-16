@@ -2,7 +2,7 @@
 <?xml-model href="../../../Schema/songSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <info>
-      <title ref="#1-MV.MV.E-8">Me Vs. Maradona Vs. Elvis</title>
+      <title ref="#2-MV.MV.E-8">Me Vs. Maradona Vs. Elvis</title>
       <album ref="#2-DE">Your Favorite Weapon</album>
       <track n="8"/>
       <tempo bpm="1"/>
