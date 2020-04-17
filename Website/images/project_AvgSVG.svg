@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="75%" height="75%" viewBox="0 0 1800 900">
+    <desc>SVG for average structual complexity</desc>
+    <g transform="translate (100 700)">
+        <line x1="75" x2="75" y1="0" y2="-420" stroke="black" stroke-width="2"></line>
+        <line x1="75" x2="1200" y1="0" y2="0" stroke="black" stroke-width="2"></line>
+        <text x="75" y="-450" font-size="25px">Average Structural Complexity per Album</text>
+        
+        <line x1="65" x2="85" y1="-40" y2="-40" stroke="black" stroke-width="2"></line>
+        <text x="45" y="-30" font-size="25px">1</text>
+        <line x1="65" x2="85" y1="-80" y2="-80" stroke="black" stroke-width="2"></line>
+        <text x="45" y="-70" font-size="25px">2</text>
+        <line x1="65" x2="85" y1="-120" y2="-120" stroke="black" stroke-width="2"></line>
+        <text x="45" y="-110" font-size="25px">3</text>
+        <line x1="65" x2="85" y1="-160" y2="-160" stroke="black" stroke-width="2"></line>
+        <text x="45" y="-150" font-size="25px">4</text>
+        <line x1="65" x2="85" y1="-200" y2="-200" stroke="black" stroke-width="2"></line>
+        <text x="45" y="-190" font-size="25px">5</text>
+        <line x1="65" x2="85" y1="-240" y2="-240" stroke="black" stroke-width="2"></line>
+        <text x="45" y="-230" font-size="25px">6</text>
+        <line x1="65" x2="85" y1="-280" y2="-280" stroke="black" stroke-width="2"></line>
+        <text x="45" y="-270" font-size="25px">7</text>
+        <line x1="65" x2="85" y1="-320" y2="-320" stroke="black" stroke-width="2"></line>
+        <text x="45" y="-310" font-size="25px">8</text>
+        <line x1="65" x2="85" y1="-360" y2="-360" stroke="black" stroke-width="2"></line>
+        <text x="45" y="-350" font-size="25px">9</text>
+        <line x1="65" x2="85" y1="-400" y2="-400" stroke="black" stroke-width="2"></line>
+        <text x="40" y="-390" font-size="25px">10</text>
+        
+        <g id="svg_YFW">
+            <line stroke-width="45" x1="200" x2="200" y1="0" y2="-340" stroke="#5dbcd2"></line>
+        </g>
+
+        <g id="svg_DE">
+            <line stroke-width="45" x1="400" x2="400" y1="0" y2="-268.8" stroke="#ca6130"></line>
+        </g>
+        <g id="svg_TDAGARIM">
+            <line stroke-width="45" x1="600" x2="600" y1="0" y2="-270" stroke="#465960"></line>
+        </g>
+        <g id="svg_D">
+            <line stroke-width="45" x1="800" x2="800" y1="0" y2="-196" stroke="#779953"></line>
+        </g>
+        <g id="svg_SF">
+            <line stroke-width="45" x1="1000" x2="1000" y1="0" y2="-364" stroke="#5c6660"></line>
+        </g>
+        
+        <text x="-15" y="0" font-size="25" transform="rotate(270)">Average Number of Lyrical Structures Per Song</text>
+        
+        <text x="170" y="25" font-size="25">YFW</text>
+        <text x="375" y="25" font-size="25">DE</text>
+        <text x="535" y="25" font-size="25">TDAGARIM</text>
+        <text x="790" y="25" font-size="25">D</text>
+        <text x="980" y="25" font-size="25">SF</text>
+    </g>
+</svg>
