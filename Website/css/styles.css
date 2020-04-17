@@ -379,11 +379,21 @@ p {
     background-color: #36383b;
 }
 
-.wordCloud, .wordCount{
+.wordCloud{
     display: flex;
     width: 100vw;
     height: auto;
     justify-content: center;
     background-color: #36383b;
 }
-
+.wordCount {
+    display: flex;
+    justify-content:center;
+    background-color: #1e1f21;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.wordCountImg{
+    width: 70vw;
+    height: auto;
+}
