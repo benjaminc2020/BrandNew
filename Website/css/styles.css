@@ -379,12 +379,11 @@ p {
     background-color: #36383b;
 }
 
-.wordCloud{
+.wordCloud, .wordCount{
     display: flex;
     width: 100vw;
     height: auto;
     justify-content: center;
     background-color: #36383b;
 }
-
 
