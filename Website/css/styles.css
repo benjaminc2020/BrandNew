@@ -381,8 +381,6 @@ p {
 
 .wordCloud{
     display: flex;
-    width: 100vw;
-    height: auto;
     justify-content: center;
     background-color: #36383b;
 }
