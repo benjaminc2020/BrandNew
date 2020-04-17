@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="50%" height="50%" style="background-color:white">
+    <desc></desc>
+    
+    <g>
+        <line x1="10%" y1="70%" x2="47%" y2="70%" style="stroke:black;stroke-width:2" /> <!--x axis -->
+        
+        <text x="9.5%" y="73%" font-size="15">0</text>
+        <text x="14%" y="73%" font-size="15">20</text>
+        <text x="19%" y="73%" font-size="15">40</text>
+        <text x="24.5%" y="73%" font-size="15">60</text>
+        <text x="29.4%" y="73%" font-size="15">80</text>
+        <text x="34%" y="73%" font-size="15">100</text>
+        <text x="39%" y="73%" font-size="15">120</text>
+        <text x="44%" y="73%" font-size="15">140</text>
+        <text x="21%" y="8%">Lyrical References</text>
+        
+        <line x1="10%" y1="70.2%" x2="10%" y2="10%" style="stroke:black;stroke-width:2"/>
+        <line x1="47%" y1="70.2%" x2="47%" y2="9.85%" style="stroke:black;stroke-width:2"/>
+        <line x1="45.1%" y1="70.2%" x2="45.1%" y2="9.85%" style="stroke:black;stroke-width:2"/>
+        <line x1="40.1%" y1="70.2%" x2="40.1%" y2="9.85%" style="stroke:black;stroke-width:2"/>
+        <line x1="35.1%" y1="70.2%" x2="35.1%" y2="9.85%" style="stroke:black;stroke-width:2"/>
+        <line x1="30.1%" y1="70.2%" x2="30.1%" y2="9.85%" style="stroke:black;stroke-width:2"/>
+        <line x1="25.1%" y1="70.2%" x2="25.1%" y2="9.85%" style="stroke:black;stroke-width:2"/>
+        <line x1="20.1%" y1="70.2%" x2="20.1%" y2="9.85%" style="stroke:black;stroke-width:2"/>
+        <line x1="14.9%" y1="70.2%" x2="14.9%" y2="9.85%" style="stroke:black;stroke-width:2"/>
+        <line x1="9.9%" y1="10%" x2="47%" y2="10%" style="stroke:black;stroke-width:2" /><!--y axis -->
+        <line x1="9%" y1="15%" x2="10%" y2="15%" style="stroke:black;stroke-width:2"/><text x="4%" y="15.65%" font-size="18">Water</text>
+        <line x1="10.11%" y1="15%" x2="11.5%" y2="15%" style="stroke:green;stroke-width:35"/>
+        <line x1="11.5%" y1="15%" x2="15.2%" y2="15%" style="stroke:blue;stroke-width:35"/>
+        <line x1="15.2%" y1="15%" x2="16.7%" y2="15%" style="stroke:purple;stroke-width:35"/>
+        <line x1="16.7%" y1="15%" x2="20.5%" y2="15%" style="stroke:yellow;stroke-width:35"/>
+        <line x1="20.5%" y1="15%" x2="25.45%" y2="15%" style="stroke:red;stroke-width:35"/>
+        
+        
+      
+      
+      
+        <line x1="9%" y1="25%" x2="10%" y2="25%" style="stroke:black;stroke-width:2"/><text x="2%" y="25.65%" font-size="15">Bed/Sleep</text>
+        <line x1="10.11%" y1="25%" x2="11.61%" y2="25%" style="stroke:green;stroke-width:35"/>
+        <line x1="11.61%" y1="25%" x2="13.11%" y2="25%" style="stroke:blue;stroke-width:35"/>
+        <line x1="13.11%" y1="25%" x2="16.01%" y2="25%" style="stroke:purple;stroke-width:35"/>
+        <line x1="16.01%" y1="25%" x2="22.8%" y2="25%" style="stroke:yellow;stroke-width:35"/>
+        <line x1="22.8%" y1="25%" x2="23.7%" y2="25%" style="stroke:red;stroke-width:35"/>
+        
+        <line x1="9%" y1="35%" x2="10%" y2="35%" style="stroke:black;stroke-width:2"/><text x="3%" y="33.65%" font-size="15">Alcohol/</text><text x="4%" y="36.65%" font-size="15">Drugs</text>
+        <line x1="10.11%" y1="35%" x2="12.72%" y2="35%" style="stroke:green;stroke-width:35"/>
+        <line x1="12.72%" y1="35%" x2="13.72%" y2="35%" style="stroke:blue;stroke-width:35"/>
+        <line x1="13.71%" y1="35%" x2="14%" y2="35%" style="stroke:purple;stroke-width:35"/>
+        <line x1="14%" y1="35%" x2="14.5%" y2="35%" style="stroke:yellow;stroke-width:35"/>
+        <line x1="14.5%" y1="35%" x2="16.5%" y2="35%" style="stroke:red;stroke-width:35"/>
+        
+        <line x1="9%" y1="45%" x2="10%" y2="45%" style="stroke:black;stroke-width:2"/><text x="4%" y="45.70%" font-size="17">Death</text>
+        <line x1="10.11%" y1="45%" x2="14.7%" y2="45%" style="stroke:green;stroke-width:35"/>
+        <line x1="14.7%" y1="45%" x2="15.9%" y2="45%" style="stroke:blue;stroke-width:35"/>
+        <line x1="15.9%" y1="45%" x2="17.8%" y2="45%" style="stroke:purple;stroke-width:35"/>
+        <line x1="17.8%" y1="45%" x2="22.39%" y2="45%" style="stroke:yellow;stroke-width:35"/>
+        <line x1="22.39%" y1="45%" x2="27.98%" y2="45%" style="stroke:red;stroke-width:35"/>
+        
+        <line x1="9%" y1="55%" x2="10%" y2="55%" style="stroke:black;stroke-width:2"/><text x="3%" y="55.65%" font-size="16">Religion</text>
+        <line x1="10.11%" y1="55%" x2="11.56%" y2="55%" style="stroke:green;stroke-width:35"/>
+        <line x1="11.56%" y1="55%" x2="12.56%" y2="55%" style="stroke:blue;stroke-width:35"/>
+        <line x1="12.56%" y1="55%" x2="15%" y2="55%" style="stroke:purple;stroke-width:35"/>
+        <line x1="15%" y1="55%" x2="25%" y2="55%" style="stroke:yellow;stroke-width:35"/>
+        <line x1="25%" y1="55%" x2="43%" y2="55%" style="stroke:red;stroke-width:35"/>
+        
+        <line x1="9%" y1="65%" x2="10%" y2="65%" style="stroke:black;stroke-width:2"/><text x="5.5%" y="65.65%" font-size="18">Fire</text>
+        <line x1="10.11%" y1="65%" x2="10.5%" y2="65%" style="stroke:green;stroke-width:35"/>
+        <line x1="10.5%" y1="65%" x2="11.4%" y2="65%" style="stroke:blue;stroke-width:35"/>
+        <line x1="11.4%" y1="65%" x2="14.2%" y2="65%" style="stroke:yellow;stroke-width:35"/>
+        <line x1="14.2%" y1="65%" x2="15.3%" y2="65%" style="stroke:red;stroke-width:35"/>
+        
+    </g>
+    <g><text x="13%" y="77%" stroke="green">Your Favorite Weaopn</text>
+        <text x="32%" y="77%" stroke="blue">Deja Entendu</text></g>
+    <text x="13.45%" y="82%" stroke="purple">The Devil And God Are Raging Inside Me</text>
+    <text x="18.6%" y="87%" font-size="20" stroke="Yellow">Daisy</text>
+    <text x="25%" y="87%" font-size="20" stroke="Red">Science Fiction</text>
+</svg>
