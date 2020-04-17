@@ -23,66 +23,68 @@
                     </head>
                     <body>
                         <xsl:comment>#include virtual="../../ssi/song-ssi.html" </xsl:comment>
-                        <div class="songTitle">
-                            <p><xsl:value-of select="descendant::title"/></p>
-                        </div>
-                        <div class="songContainer">
-                            <div class="songAlbumArt">
-                                <a href ="../your-favorite-weapon.html">
-                                    <img id="albumPage" class="album" src="../../images/YourFavoriteWeaponDeluxeEdition.jpg" alt="Your Favorite Weapon Album Artwork" />
-                                    <p>Album: Your Favorite Weapon</p>
-                                </a>
-                                <p><a href="../../about.html">Artist: Brand New</a></p>
+                        <div class="content">
+                            <div class="songTitle">
+                                <p><xsl:value-of select="descendant::title"/></p>
                             </div>
-                            <div class="lyricsContainer">
-                                <xsl:apply-templates/>
-                            </div>
-                            <div class="refContainer">
-                                <p>References</p>
-                                <ul>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox" checked="checked"/>
-                                            <span class="checkmark"></span>
-                                            <span>Religious</span>
-                                        </label>
-                                    </li>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox"/>
-                                            <span class="checkmark"></span>
-                                            <a>Death</a>
-                                        </label>
-                                    </li>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox"/>
-                                            <span class="checkmark"></span>
-                                            <a>Water</a>
-                                        </label>
-                                    </li>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox"/>
-                                            <span class="checkmark"></span>
-                                            <a>Fire</a>
-                                        </label>
-                                    </li>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox"/>
-                                            <span class="checkmark"></span>
-                                            <a>Places</a>
-                                        </label>
-                                    </li>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox"/>
-                                            <span class="checkmark"></span>
-                                            <a>Bed</a>
-                                        </label>
-                                    </li>
-                                </ul>
+                            <div class="songContainer">
+                                <div class="songAlbumArt">
+                                    <a href ="../your-favorite-weapon.html">
+                                        <img id="albumPage" class="album" src="../../images/YourFavoriteWeaponDeluxeEdition.jpg" alt="Your Favorite Weapon Album Artwork" />
+                                        <p>Album: Your Favorite Weapon</p>
+                                    </a>
+                                    <p><a href="../../about.html">Artist: Brand New</a></p>
+                                </div>
+                                <div class="lyricsContainer">
+                                    <xsl:apply-templates/>
+                                </div>
+                                <div class="refContainer">
+                                    <p>References</p>
+                                    <ul>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox" checked="checked"/>
+                                                <span class="checkmark"></span>
+                                                <span>Religious</span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox"/>
+                                                <span class="checkmark"></span>
+                                                <a>Death</a>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox"/>
+                                                <span class="checkmark"></span>
+                                                <a>Water</a>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox"/>
+                                                <span class="checkmark"></span>
+                                                <a>Fire</a>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox"/>
+                                                <span class="checkmark"></span>
+                                                <a>Places</a>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox"/>
+                                                <span class="checkmark"></span>
+                                                <a>Bed</a>
+                                            </label>
+                                        </li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </body>
@@ -106,66 +108,68 @@
                     </head>
                     <body>
                         <xsl:comment>#include virtual="../../ssi/song-ssi.html" </xsl:comment>
-                        <div class="songTitle">
-                            <p><xsl:value-of select="descendant::title"/></p>
-                        </div>
-                        <div class="songContainer">
-                            <div class="songAlbumArt">
-                                <a href ="../deja-entendu.html">
-                                    <img id="albumPage" class="album" src="../../images/DejaEntendu.jpg" alt="Deja Entendu Album Artwork" />
-                                    <p>Album: Deja Entendu</p>
-                                </a>
-                                <p><a href="../../about.html">Artist: Brand New</a></p>
+                        <div class="content">
+                            <div class="songTitle">
+                                <p><xsl:value-of select="descendant::title"/></p>
                             </div>
-                            <div class="lyricsContainer">
-                                <xsl:apply-templates/>
-                            </div>
-                            <div class="refContainer">
-                                <p>References</p>
-                                <ul>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox" checked="checked"/>
-                                            <span class="checkmark"></span>
-                                            <span>Religious</span>
-                                        </label>
-                                    </li>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox"/>
-                                            <span class="checkmark"></span>
-                                            <a>Death</a>
-                                        </label>
-                                    </li>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox"/>
-                                            <span class="checkmark"></span>
-                                            <a>Water</a>
-                                        </label>
-                                    </li>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox"/>
-                                            <span class="checkmark"></span>
-                                            <a>Fire</a>
-                                        </label>
-                                    </li>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox"/>
-                                            <span class="checkmark"></span>
-                                            <a>Places</a>
-                                        </label>
-                                    </li>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox"/>
-                                            <span class="checkmark"></span>
-                                            <a>Bed</a>
-                                        </label>
-                                    </li>
-                                </ul>
+                            <div class="songContainer">
+                                <div class="songAlbumArt">
+                                    <a href ="../deja-entendu.html">
+                                        <img id="albumPage" class="album" src="../../images/DejaEntendu.jpg" alt="Deja Entendu Album Artwork" />
+                                        <p>Album: Deja Entendu</p>
+                                    </a>
+                                    <p><a href="../../about.html">Artist: Brand New</a></p>
+                                </div>
+                                <div class="lyricsContainer">
+                                    <xsl:apply-templates/>
+                                </div>
+                                <div class="refContainer">
+                                    <p>References</p>
+                                    <ul>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox" checked="checked"/>
+                                                <span class="checkmark"></span>
+                                                <span>Religious</span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox"/>
+                                                <span class="checkmark"></span>
+                                                <a>Death</a>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox"/>
+                                                <span class="checkmark"></span>
+                                                <a>Water</a>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox"/>
+                                                <span class="checkmark"></span>
+                                                <a>Fire</a>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox"/>
+                                                <span class="checkmark"></span>
+                                                <a>Places</a>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox"/>
+                                                <span class="checkmark"></span>
+                                                <a>Bed</a>
+                                            </label>
+                                        </li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </body>
@@ -189,66 +193,68 @@
                     </head>
                     <body>
                         <xsl:comment>#include virtual="../../ssi/song-ssi.html" </xsl:comment>
-                        <div class="songTitle">
-                            <p><xsl:value-of select="descendant::title"/></p>
-                        </div>
-                        <div class="songContainer">
-                            <div class="songAlbumArt">
-                                <a href ="../the-devil-and-god-are-raging-inside-me.html">
-                                    <img id="albumPage" class="album" src="../../images/daGarim.jpg" alt="The Devil &amp; God Are Raging Inside Me Album Artwork" />
-                                    <p>Album: The Devil &amp; God Are Raging Inside Me</p>
-                                </a>
-                                <p><a href="../../about.html">Artist: Brand New</a></p>
+                        <div class="content">
+                            <div class="songTitle">
+                                <p><xsl:value-of select="descendant::title"/></p>
                             </div>
-                            <div class="lyricsContainer">
-                                <xsl:apply-templates/>
-                            </div>
-                            <div class="refContainer">
-                                <p>References</p>
-                                <ul>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox" checked="checked"/>
-                                            <span class="checkmark"></span>
-                                            <span>Religious</span>
-                                        </label>
-                                    </li>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox"/>
-                                            <span class="checkmark"></span>
-                                            <a>Death</a>
-                                        </label>
-                                    </li>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox"/>
-                                            <span class="checkmark"></span>
-                                            <a>Water</a>
-                                        </label>
-                                    </li>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox"/>
-                                            <span class="checkmark"></span>
-                                            <a>Fire</a>
-                                        </label>
-                                    </li>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox"/>
-                                            <span class="checkmark"></span>
-                                            <a>Places</a>
-                                        </label>
-                                    </li>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox"/>
-                                            <span class="checkmark"></span>
-                                            <a>Bed</a>
-                                        </label>
-                                    </li>
-                                </ul>
+                            <div class="songContainer">
+                                <div class="songAlbumArt">
+                                    <a href ="../the-devil-and-god-are-raging-inside-me.html">
+                                        <img id="albumPage" class="album" src="../../images/daGarim.jpg" alt="The Devil &amp; God Are Raging Inside Me Album Artwork" />
+                                        <p>Album: The Devil &amp; God Are Raging Inside Me</p>
+                                    </a>
+                                    <p><a href="../../about.html">Artist: Brand New</a></p>
+                                </div>
+                                <div class="lyricsContainer">
+                                    <xsl:apply-templates/>
+                                </div>
+                                <div class="refContainer">
+                                    <p>References</p>
+                                    <ul>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox" checked="checked"/>
+                                                <span class="checkmark"></span>
+                                                <span>Religious</span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox"/>
+                                                <span class="checkmark"></span>
+                                                <a>Death</a>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox"/>
+                                                <span class="checkmark"></span>
+                                                <a>Water</a>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox"/>
+                                                <span class="checkmark"></span>
+                                                <a>Fire</a>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox"/>
+                                                <span class="checkmark"></span>
+                                                <a>Places</a>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox"/>
+                                                <span class="checkmark"></span>
+                                                <a>Bed</a>
+                                            </label>
+                                        </li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </body>
@@ -272,66 +278,68 @@
                     </head>
                     <body>
                         <xsl:comment>#include virtual="../../ssi/song-ssi.html" </xsl:comment>
-                        <div class="songTitle">
-                            <p><xsl:value-of select="descendant::title"/></p>
-                        </div>
-                        <div class="songContainer">
-                            <div class="songAlbumArt">
-                                <a href ="../daisy.html">
-                                    <img id="albumPage" class="album" src="../../images/daisy.jpg" alt="Daisy Album Artwork" />
-                                    <p>Album: Daisy</p>
-                                </a>
-                                <p><a href="../../about.html">Artist: Brand New</a></p>
+                        <div class="content">
+                            <div class="songTitle">
+                                <p><xsl:value-of select="descendant::title"/></p>
                             </div>
-                            <div class="lyricsContainer">
-                                <xsl:apply-templates/>
-                            </div>
-                            <div class="refContainer">
-                                <p>References</p>
-                                <ul>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox" checked="checked"/>
-                                            <span class="checkmark"></span>
-                                            <span>Religious</span>
-                                        </label>
-                                    </li>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox"/>
-                                            <span class="checkmark"></span>
-                                            <a>Death</a>
-                                        </label>
-                                    </li>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox"/>
-                                            <span class="checkmark"></span>
-                                            <a>Water</a>
-                                        </label>
-                                    </li>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox"/>
-                                            <span class="checkmark"></span>
-                                            <a>Fire</a>
-                                        </label>
-                                    </li>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox"/>
-                                            <span class="checkmark"></span>
-                                            <a>Places</a>
-                                        </label>
-                                    </li>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox"/>
-                                            <span class="checkmark"></span>
-                                            <a>Bed</a>
-                                        </label>
-                                    </li>
-                                </ul>
+                            <div class="songContainer">
+                                <div class="songAlbumArt">
+                                    <a href ="../daisy.html">
+                                        <img id="albumPage" class="album" src="../../images/daisy.jpg" alt="Daisy Album Artwork" />
+                                        <p>Album: Daisy</p>
+                                    </a>
+                                    <p><a href="../../about.html">Artist: Brand New</a></p>
+                                </div>
+                                <div class="lyricsContainer">
+                                    <xsl:apply-templates/>
+                                </div>
+                                <div class="refContainer">
+                                    <p>References</p>
+                                    <ul>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox" checked="checked"/>
+                                                <span class="checkmark"></span>
+                                                <span>Religious</span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox"/>
+                                                <span class="checkmark"></span>
+                                                <a>Death</a>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox"/>
+                                                <span class="checkmark"></span>
+                                                <a>Water</a>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox"/>
+                                                <span class="checkmark"></span>
+                                                <a>Fire</a>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox"/>
+                                                <span class="checkmark"></span>
+                                                <a>Places</a>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox"/>
+                                                <span class="checkmark"></span>
+                                                <a>Bed</a>
+                                            </label>
+                                        </li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </body>
@@ -355,66 +363,68 @@
                     </head>
                     <body>
                         <xsl:comment>#include virtual="../../ssi/song-ssi.html" </xsl:comment>
-                        <div class="songTitle">
-                            <p><xsl:value-of select="descendant::title"/></p>
-                        </div>
-                        <div class="songContainer">
-                            <div class="songAlbumArt">
-                                <a href ="../science-fiction.html">
-                                    <img id="albumPage" class="album" src="../../images/ScienceFiction.jpg" alt="Science Fiction Album Artwork" />
-                                    <p>Album: Science Fiction</p>
-                                </a>
-                                <p><a href="../../about.html">Artist: Brand New</a></p>
+                        <div class="content">
+                            <div class="songTitle">
+                                <p><xsl:value-of select="descendant::title"/></p>
                             </div>
-                            <div class="lyricsContainer">
-                                <xsl:apply-templates/>
-                            </div>
-                            <div class="refContainer">
-                                <p>References</p>
-                                <ul>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox" checked="checked"/>
-                                            <span class="checkmark"></span>
-                                            <span>Religious</span>
-                                        </label>
-                                    </li>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox"/>
-                                            <span class="checkmark"></span>
-                                            <a>Death</a>
-                                        </label>
-                                    </li>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox"/>
-                                            <span class="checkmark"></span>
-                                            <a>Water</a>
-                                        </label>
-                                    </li>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox"/>
-                                            <span class="checkmark"></span>
-                                            <a>Fire</a>
-                                        </label>
-                                    </li>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox"/>
-                                            <span class="checkmark"></span>
-                                            <a>Places</a>
-                                        </label>
-                                    </li>
-                                    <li>
-                                        <label class="container">
-                                            <input type="checkbox"/>
-                                            <span class="checkmark"></span>
-                                            <a>Bed</a>
-                                        </label>
-                                    </li>
-                                </ul>
+                            <div class="songContainer">
+                                <div class="songAlbumArt">
+                                    <a href ="../science-fiction.html">
+                                        <img id="albumPage" class="album" src="../../images/ScienceFiction.jpg" alt="Science Fiction Album Artwork" />
+                                        <p>Album: Science Fiction</p>
+                                    </a>
+                                    <p><a href="../../about.html">Artist: Brand New</a></p>
+                                </div>
+                                <div class="lyricsContainer">
+                                    <xsl:apply-templates/>
+                                </div>
+                                <div class="refContainer">
+                                    <p>References</p>
+                                    <ul>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox" checked="checked"/>
+                                                <span class="checkmark"></span>
+                                                <span>Religious</span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox"/>
+                                                <span class="checkmark"></span>
+                                                <a>Death</a>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox"/>
+                                                <span class="checkmark"></span>
+                                                <a>Water</a>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox"/>
+                                                <span class="checkmark"></span>
+                                                <a>Fire</a>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox"/>
+                                                <span class="checkmark"></span>
+                                                <a>Places</a>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="container">
+                                                <input type="checkbox"/>
+                                                <span class="checkmark"></span>
+                                                <a>Bed</a>
+                                            </label>
+                                        </li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </body>
@@ -423,7 +433,7 @@
         </xsl:for-each>
     </xsl:template>
 
-    <xsl:template match="line/ref">
+    <xsl:template match="line/refer">
         <xsl:if test=".[@img]">
             <span class="{@img}">
                 <xsl:apply-templates/>
