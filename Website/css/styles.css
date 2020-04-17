@@ -383,6 +383,8 @@ p {
     display: flex;
     justify-content: center;
     background-color: #36383b;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
 .wordCount {
     display: flex;
