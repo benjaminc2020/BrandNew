@@ -307,27 +307,20 @@ p {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-}
-
-.songTitle p{
-    color: black;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 55px;
 }
-
 .songAlbumArt, .lyricsContainer, .refContainer{
     display:flex;
     width: 33vw;
     flex-direction: column;
     height: auto;
     padding-top: 1%;
-    border: 1px solid white;
 }
 
 .songAlbumArt{
     justify-content: flex-start;
     align-items: center;
-    text-align: center;
 }
 
 
@@ -346,7 +339,6 @@ p {
 .lyricsContainer li {
     font-family: 'Raleway', sans-serif;
     color: white;
-    width: 80%;
     background-color: #36383b;
     list-style-type: none;
     padding: 4px;
@@ -354,8 +346,9 @@ p {
 }
 
 .lyricsContainer{
+    border: 1px solid white;
     padding: 0;
-    margin: auto;
+    justify-content: center;
 }
 
 .lyricsContainer ul{
@@ -364,41 +357,35 @@ p {
     padding: 0;
     padding-left: 5px;
 }
-
-.refContainer{
-    align-items: center;
-    justify-content: flex-start;
-}
-
-#refContainer p {
-    text-align: left;
+.refContainer p {
     text-decoration: none;
+    padding-left: 5px;
     color: white;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 30px;
+    text-align: center;
 }
-
 .refContainer li {
-    text-decoration: none;
+   text-decoration: none;
     color: white;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 20px;
-    width: 100%;
+    text-align: center;
     list-style-type: none;
     border-style: outset;
     border-radius: 10px;
     border-color: #36383b;
+    padding: 5px;
     background-color: #36383b;
 }
 
-.wordCloud, .referCount{
+.wordCloud{
     display: flex;
     justify-content: center;
     background-color: #36383b;
     padding-top: 5%;
     padding-bottom: 5%;
 }
-
 .wordCount {
     display: flex;
     justify-content:center;
@@ -409,18 +396,21 @@ p {
 .wordCountImg{
     width: 70vw;
     height: auto;
-} 
-
-.referCount{
-    background-color: rgb(192, 192, 192)
 }
-
-span.rel {color: purple}
-span.death{color: black}
-span.water{color: blue}
-span.fire{color: red}
-span.earth{color: green}
-span.space, span.trees, span.trees, span.animal, span.flowers{color: yellow}
-span.songTitle, span.bandMember, span.band{color: pink}
-span.simile, span.idiom{color: teal}
-span.alcohol, span.drugs{color: brown}
+.infoWordCloud{
+    display: flex;
+    flex-direction: column;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 40px;
+}
+.infoWordCloud h1{
+    font-size: 60px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.infoWordCloud p{
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    margin: 0;
+}
