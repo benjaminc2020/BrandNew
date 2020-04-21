@@ -397,3 +397,12 @@ p {
     width: 70vw;
     height: auto;
 }
+
+@media screen and (max-width: 400px) {
+ 
+    .band {
+        width:375px;
+        height: auto;
+    }
+   
+}
