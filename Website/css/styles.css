@@ -398,19 +398,16 @@ p {
     height: auto;
 }
 .infoWordCloud{
-    display: flex;
-    flex-direction: column;
     padding-left: 10%;
     padding-right: 10%;
     padding-bottom: 40px;
-    font-family: 'Raleway', sans-serif;
-    font-size: 20px;
 }
 .infoWordCloud h1{
     font-size: 60px;
     font-family: 'Josefin Sans', sans-serif;
 }
 .infoWordCloud p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
     color: black;
-    margin: 0;
 }
