@@ -70,13 +70,13 @@ body{
     padding-top: 20px;
 }
 
-.aboutBand{
+.aboutBand, .analysisInfo{
     padding-bottom: 40px;
     font-family: 'Raleway', sans-serif;
     font-size: 20px;
 }
 
-.aboutBand p{color: black;}
+.aboutBand p, .analysisInfo p{color: black;}
 
 h1 {
     font-family: 'Josefin Sans', sans-serif;
@@ -396,16 +396,4 @@ p {
 .wordCountImg{
     width: 70vw;
     height: auto;
-}
-.infoWordCloud{
-    padding-left: 10%;
-    padding-right: 10%;
-    padding-bottom: 40px;
-}
-.infoWordCloud h1{
-    font-size: 60px;
-    font-family: 'Josefin Sans', sans-serif;
-}
-.words {
-    color: black;
 }
