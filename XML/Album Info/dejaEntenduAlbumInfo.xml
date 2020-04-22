@@ -9,8 +9,12 @@
             <recorded>2003-02</recorded>
             <producer>Steven Haigler</producer>
             <producer>Mike Sapone</producer>
-            <studio><name>Reflection Sound Studios</name><location>1018 Central Ave, NC 28204Charolette, NC
-                    28204</location><coordN>40.725605</coordN><coordW>73.486996</coordW></studio>
+            <studio>
+                <name>Reflection Sound Studios</name>
+                <location>1018 Central Ave, NC 28204Charolette, NC 28204</location>
+                <coordN>40.725605</coordN>
+                <coordW>73.486996</coordW>
+            </studio>
             <released>2003-06-17</released>
             <single>The Quiet Things That No One Ever Knows</single>
             <albumOrder>2</albumOrder>

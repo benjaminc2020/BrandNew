@@ -3,7 +3,7 @@
 <xml>
     <album>
         <info>
-            <name>Daisy</name>
+            <title>Daisy</title>
             <noTracks>11</noTracks>
             <length>00:40:47</length>
             <recorded>2008</recorded>
@@ -14,8 +14,12 @@
             <production>D. Sardy - mixing</production>
             <production>Emily Lazar - mastering</production>
             <production>Joe LaPorta - mastering assistant</production>
-            <studio><name>Sapone Studios</name><location>40 Columbia St, Bethpage, NY
-                    11714</location><coordN>40.725605</coordN><coordW>72.486996</coordW></studio>
+            <studio>
+                <name>Sapone Studios</name>
+                <location>40 Columbia St, Bethpage, NY 11714</location>
+                <coordN>40.725605</coordN>
+                <coordW>72.486996</coordW>
+            </studio>
             <released>2009-09-22</released>
             <single>At the Bottom</single>
             <albumOrder>4</albumOrder>

@@ -1,7 +1,8 @@
 start = xml
 xml = element xml {album}
 album = element album {info, trackListing}
-info = element info {name, noTracks, length, recorded, producer+, production*, studio+, released, single*, albumOrder, origLabel+, format+, reRelease*, personnel+, addPer*}
+info = element info {title, noTracks, length, recorded, producer+, production*, studio+, released, single*, albumOrder, origLabel+, format+, reRelease*, personnel+, addPer*}
+title = element title {"Your Favorite Weapon" | "Deja Entendu" | "The Devil and God Are Raging Inside Me" | "Daisy" | "Science Fiction"}
 name = element name {text}
 noTracks = element noTracks {xsd:int}
 length = element length {xsd:time}
