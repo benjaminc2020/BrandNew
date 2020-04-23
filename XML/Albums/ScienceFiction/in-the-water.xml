@@ -5,7 +5,7 @@
         <title ref="#6-ITW-8">In The Water</title>
         <album ref="#6-SF">Science Fiction</album>
         <track n="8"/>
-        <tempo bpm="65"/>
+        <tempo bpm="66"/>
         <key>Bm</key> <!--bb: B minor -->
         <songWriter>
             <li n="1">Brand New</li>

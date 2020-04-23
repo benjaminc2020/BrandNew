@@ -5,7 +5,7 @@
         <title ref="#1-FBD-5">Failure By Design</title>
         <album ref="#1-YFW">Your Favorite Weapon</album>
         <track n="5"/>
-        <tempo bpm="89"/>
+        <tempo bpm="90"/>
         <key>Eb</key> <!--bb: E flat -->
         <songWriter>
             <li n="1">Jesse Lacey</li>

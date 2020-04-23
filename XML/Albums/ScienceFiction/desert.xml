@@ -5,7 +5,7 @@
         <title ref="#6-D-9">Desert</title>
         <album ref="#6-SF">Science Fiction</album>
         <track n="9"/>
-        <tempo bpm="55"/>
+        <tempo bpm="110"/>
         <key>Gm</key> <!--bb: G minor-->
         <songWriter>
             <li n="1">Brand New</li>
@@ -14,7 +14,7 @@
         <songLength>00:03:37</songLength>
     </info>
     <song>
-        <intro bpm="55" bars="7"></intro>
+        <intro bpm="110" bars="7"></intro>
         <verse n="1" bpm="55" bars="15">
             <line n="1"><refer img="time">Last night</refer> I heard a voice that said, "This is the
                 end"</line>
@@ -26,13 +26,13 @@
             <line n="7">I got a reason to be dug in deep</line>
         </verse>
 
-        <chorus n="1" bpm="55" bars="6">
+        <chorus n="1" bpm="110" bars="6">
             <line n="8">It's <refer img="rel">revelation</refer> saying</line>
             <line n="9">Don't come running to me</line>
             <line n="10">When they're coming for you</line>
         </chorus>
 
-        <verse n="2" bpm="55" bars="16">
+        <verse n="2" bpm="110" bars="16">
             <line n="11">I seen those boys kissing boys</line>
             <line n="12">With their mouth in the street</line>
             <line n="13">But I raised my son to be a <refer img="rel">righteous man</refer></line>
@@ -48,7 +48,7 @@
             <line n="19"><refer img="rel">Abomination</refer></line>
         </verse>
 
-        <chorus n="2" bpm="55" bars="9">
+        <chorus n="2" bpm="110" bars="9">
             <line n="20">Don't come running to me when they're coming for you</line>
             <line n="21" voice="response">(Don't come running to me when they're coming for
                 you)</line>
@@ -56,8 +56,8 @@
             <line n="23" voice="response">(Don't come running to me when they're coming for
                 you)</line>
         </chorus>
-        <instrumental n="1" bpm="55" bars="8"/>
-        <verse n="3" bpm="55" bars="16">
+        <instrumental n="1" bpm="110" bars="8"/>
+        <verse n="3" bpm="110" bars="16">
             <line n="24"><refer img="time">Last night</refer> I heard a voice that said, “Don't give
                 up your gun”</line>
             <line n="25">They keep washing right up on those <refer img="water"
@@ -70,7 +70,7 @@
             <line n="31">With your name on it</line>
         </verse>
 
-        <chorus n="3" bpm="55" bars="16">
+        <chorus n="3" bpm="110" bars="16">
             <line n="32">Don't come running to me when they're coming for you</line>
             <line n="33" voice="response">(Don't come running to me when they're coming for
                 you)</line>

@@ -5,7 +5,7 @@
         <title ref="#1-M-11">Magazines</title>
         <album ref="#1-YFW">Your Favorite Weapon</album>
         <track n="11"/>
-        <tempo bpm="170"/>
+        <tempo bpm="85"/>
         <key>A</key>
         <songWriter>
             <li n="1">Jesse Lacey</li>

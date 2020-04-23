@@ -5,7 +5,7 @@
         <title ref="#1-MT-4">Mix Tape</title>
         <album ref="#1-YFW">Your Favorite Weapon</album>
         <track n="4"/>
-        <tempo bpm="137"/>
+        <tempo bpm="136"/>
         <key>Ab</key>
         <!--bb: A flat-->
         <songWriter>
