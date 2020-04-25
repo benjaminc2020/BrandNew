@@ -379,7 +379,7 @@ p {
     background-color: #36383b;
 }
 
-.wordCloud{
+.wordCloud, .bpmGraphs{
     display: flex;
     justify-content: center;
     background-color: #36383b;
@@ -389,20 +389,10 @@ p {
 .wordCount {
     display: flex;
     justify-content:center;
-    background-color: #1e1f21;
-    padding-top: 5%;
+    background-color: #36383b;
     padding-bottom: 5%;
 }
 .wordCountImg{
     width: 70vw;
     height: auto;
-}
-
-@media screen and (max-width: 400px) {
- 
-    .band {
-        width:375px;
-        height: auto;
-    }
-   
 }
