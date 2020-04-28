@@ -101,7 +101,7 @@ h2 {
 }
 .logic{
     padding: 50px;
-    height: 50%;
+    height: 40%;
     width: 90%;
 }
 
@@ -346,7 +346,6 @@ p {
 }
 
 .lyricsContainer{
-    border: 1px solid white;
     padding: 0;
     justify-content: center;
 }
@@ -357,6 +356,7 @@ p {
     padding: 0;
     padding-left: 5px;
 }
+
 .refContainer p {
     text-decoration: none;
     padding-left: 5px;
@@ -379,7 +379,7 @@ p {
     background-color: #36383b;
 }
 
-.wordCloud, .bpmGraphs{
+.wordCloud, .bpmGraphs, .referGraph{
     display: flex;
     justify-content: center;
     background-color: #36383b;
@@ -395,4 +395,12 @@ p {
 .wordCountImg{
     width: 70vw;
     height: auto;
+}
+.referGraph {
+    overflow: hidden;
+}
+.referGraph img {
+    margin-bottom: -20%;
+    margin-top: -5%;
+    margin-right: -7%;
 }
