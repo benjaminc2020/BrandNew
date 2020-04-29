@@ -379,7 +379,7 @@ p {
     background-color: #36383b;
 }
 
-.wordCloud, .bpmGraphs, .referGraph{
+.wordCloud, .bpmGraphs, .referGraph, .structureGraph{
     display: flex;
     justify-content: center;
     background-color: #36383b;
@@ -403,4 +403,8 @@ p {
     margin-bottom: -20%;
     margin-top: -5%;
     margin-right: -7%;
+}
+.structureGraph img{
+    height: 60vh;
+    width: auto;
 }
