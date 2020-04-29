@@ -1,4 +1,4 @@
-/* Bryant Bolyen, JavaScript Ex 01, 04/08/20 */
+/* Bryant Bolyen, JavaScript Ex 01, 04/08/20, HEAVILY using reference. */
 
 var trow;
 
@@ -9,7 +9,7 @@ function initialize()
   {
     svgSelect[i].addEventListener('mouseover', tableShow, false);
   }
-  trow = document.getElementById('YFW');
+  trow = document.getElementById('YFW'); /*<- Basically the only change right here lol. */
 }
 
 function tableShow() 
