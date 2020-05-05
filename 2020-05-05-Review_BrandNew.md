@@ -44,6 +44,8 @@ All that said, you are doing some complex work with stacking a bar blot on the L
 ### GitHub
 From what we can tell, we find no link to GitHub from the project website, which seems problematic especially given the distance of the data from the visualizations on “Analysis” page. Yet your GitHub is well organized and curated, and you should be featuring it on the website, especially to show us the tagging of your source data in XML and the schema you used to manage the project.
 
+What is missing here are your XQuery files, stored in the NewtFire eXist-db. We strongly encourage you to back up those XQuery files on this GitHub repo, especially since NewtFire may undergo some upgrades and you should keep your own copies of your query files. Save those with a .xql or .xquery file extension and download them (or copy and paste them into oXygen, save with .xql or .xquery for storage). The eXist-dB XML database will likely be reinstalled at some point this summer, and you should keep the files that you wrote to query your project. Some day you may want to migrate those to another server, and they are really the most important piece of your project work!
+
 We especially admire the activity of each of you on this project (see https://github.com/benjaminc2020/BrandNew/graphs/contributors ) kept by GitHub, that this was remarkably even and impressive sustained effort over the course of this unusually disruptive semester!  
 
 ###  “UX”: User Experience and Site Interface
