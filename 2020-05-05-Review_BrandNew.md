@@ -36,7 +36,7 @@ Each of these Tableau renderings (most easily the box and whisker plot, but also
 
 There are good reasons to program your own SVG, the most significant of which is to be able to expose the data with the visualizations: for long-range project sustainability you want to at least be sharing the data on your website that generates these visualizations. That is one reason we like SVG, or even the CSV / TSV files that generated the plots. The data itself should be able to outlast the rendering software and be available for processing in other ways. Think of this as contributing to the web of data, not just an attractive “black box” visualization. (That term “black box” is used in the web developer community for software that obscures the source data.) 
 
-There is at the very least no reason this project team cannot produce SVG with tooltips (use the @title attribute on the `<g>` element) to produce the same effects you are getting on the box and whisker and circle plots in Tableau.
+There is no reason this project team cannot produce SVG with tooltips (use the @title attribute on the `<g>` element) to produce the same effects you are getting on the box and whisker and circle plots in Tableau.
 
 #### SVG
 All that said, you are doing some complex work with stacking a bar blot on the Lyrical References graph, and we are very impressed with what you have done here! You could offer a second rendering that organizes these with the largest bars at the bottom and sort from large to small. What this graph needs is an explanation of each category: what qualifies as a reference to “Religion” for example? 
